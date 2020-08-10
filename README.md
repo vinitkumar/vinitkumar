@@ -3,9 +3,16 @@
 This is Vinit, I am senior software engineer at [Socialschools](githib.com/socialschools)
 
 - 🔭 I’m currently working on Python, TypeScript, and Go.
-- 🌱 I’m currently learning Rust & Distributed Systems.
-- 👯 I’m looking to collaborate on fun Python and Go projects.
+- 🚢 I deploy my code on AWS, Google Cloud and Vercel.
+- 🌱 I’m currently learning more about Rust & building Distributed Systems.
+- 👯 I’m focussing on writing and designing better software.
 - 💬 Ask me about Software design and Architecture.
 - 📫 How to reach me: mail@vinitkumar.me or [vinitkme](twitter.com/vinitkme)
 - 😄 Pronouns: He/Him
 
+#### Latest blog posts
+
+- [How to do remote work efficiently](https://vinitkumar.me/how-to-remote/)
+- [A Somewhat Sane Guide for Software Development](https://vinitkumar.me/development-practises/)
+- [An Incomplete list of programming heroes I admire](https://vinitkumar.me/programming-heroes/)
+- [Coding priciples every engineer should know](https://vinitkumar.me/2019-04-08-cross-post-coding-principles-every-engineer-should-know/)

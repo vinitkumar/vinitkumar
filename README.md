@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-This is Vinit, I am senior software engineer at [Socialschools](githib.com/socialschools)
+This is Vinit, I am a senior software engineer at [Socialschools](github.com/socialschools)
 
-- 🔭 I’m currently working on Python, TypeScript, and Go.
+- 🔭 I’m currently working with Python, TypeScript,  and Go.
 - 🚢 I deploy my code on AWS, Google Cloud and Vercel.
 - 🌱 I’m currently learning more about Rust & building Distributed Systems.
 - 👯 I’m focussing on writing and designing better software.
 - 💬 Ask me about Software design and Architecture.
-- 📫 How to reach me: mail@vinitkumar.me or [vinitkme](twitter.com/vinitkme)
+- 📫 How to reach me: mail@vinitkumar.me or [vinitkme](twitter.com/vinitkme) on twitter
 - 😄 Pronouns: He/Him
 
 #### Latest blog posts

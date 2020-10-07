@@ -12,6 +12,7 @@ This is Vinit, I am a senior software engineer at [Socialschools](https://github
 
 #### Latest blog posts
 
+- [Practice Hard, Success Doesn't Come Easy](https://vinitkumar.me/practice-is-a-must/)
 - [How to do remote work efficiently](https://vinitkumar.me/how-to-remote/)
 - [A Somewhat Sane Guide for Software Development](https://vinitkumar.me/development-practises/)
 - [An Incomplete list of programming heroes I admire](https://vinitkumar.me/programming-heroes/)

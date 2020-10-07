@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This is Vinit, I am a senior software engineer at [Socialschools](github.com/socialschools)
+This is Vinit, I am a senior software engineer at [Socialschools](https://github.com/socialschools)
 
 - 🔭 I’m currently working with Python, TypeScript,  and Go.
 - 🚢 I deploy my code on AWS, Google Cloud and Vercel.

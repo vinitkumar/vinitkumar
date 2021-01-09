@@ -37,7 +37,7 @@ I am a:
  
 #### Contact Information:
 
-- Email: mail <at> vinitkumar.me
+- Email: `mail <at> vinitkumar.me`
 - Twitter: [@vinitkme](https://twitter.com/vinitkme)
 - LinkedIn: [@vinitatlinkedin](https://www.linkedin.com/in/vinitatlinkedin/)
   

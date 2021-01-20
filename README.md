@@ -18,11 +18,11 @@ I am a:
  
  - 8 years of experience working remotely with an asynchronous team.
  - Technical Lead of SocialSchools Websites team:
-  - Responsible for the architecture, core design, and scalable of a successful vertical of our product suite. Lead the team with code, reviews, and general guidance. (Python, Django, Postgres, Redis, React)
+   - Responsible for the architecture, core design, and scalable of a successful vertical of our product suite. Lead the team with code, reviews, and general guidance. (Python, Django, Postgres, Redis, React)
  - Worked with a variety of languages and always curious to learn more:
-  - Python, Node, Go, Postgres, Redis, C, SQLite, MongoDB.
+   - Python, Node, Go, Postgres, Redis, C, SQLite, MongoDB.
  - Production Experience with all major cloud providers:
-  - AWS, Google Cloud, Digitalocean, Heroku.
+   - AWS, Google Cloud, Digitalocean, Heroku.
  - Creator & core maintainer of some popular Open Source projects.
 
 

@@ -2,7 +2,7 @@
 
 I am a:
 
-- Lead Engineer at [@Socialschools](https://socialschools.nl) Websites Team.
+- Staff Engineer at [@Socialschools](https://socialschools.nl) Websites Team.
 - Core Maintainer of various libraries & projects [@vinitkumar](https://github.com/vinitkumar/?tab=projects).
 - Member of the Technical Committee of Django CMS Foundation.
 

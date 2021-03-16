@@ -9,18 +9,18 @@ I am a:
 
 #### Successes:
 
-- I helped Build a successful product from scratch with many useful features and established processes and technical architecture that handles heavy traffic with ease and very little maintenance.
+- I helped build a successful product from scratch with many useful features. I also established processes and technical architecture that can handle heavy traffic with ease and very little maintenance.
 - I learnt many new tech and paradigms on the job and applied them on ongoing projects. 
-- Gave some workshops on React and TypeScript at a couple of companies to experienced developers.
+- I gave some workshops on React and TypeScript at a couple of companies to experienced developers.
 
 
 #### Credentials:
  
- - 8 years of experience working remotely with an asynchronous team.
+ - 8+ years of experience working remotely with an asynchronous team.
  - Staff Engineer at SocialSchools Websites team:
-   - Responsible for the architecture, core design, and scalable of a successful vertical of our product suite. Lead the team with code, reviews, and general guidance. (Python, Django, Postgres, Redis, React)
+   - Responsible for the architecture, core design, and scalablility for a successful for an important vertical(Websites) of our product suite. Lead the team with code, reviews, and general guidance. (Python, Django, Postgres, Redis, React)
  - Worked with a variety of languages and always curious to learn more:
-   - Python, Node, Go, Postgres, Redis, C, SQLite, MongoDB.
+   - Python, Node, Go, Postgres, Redis, C, SQLite, MongoDB, RabbitMQ, ElasticSearch.
  - Production Experience with all major cloud providers:
    - AWS, Google Cloud, Digitalocean, Heroku.
  - Creator & core maintainer of some popular Open Source projects.

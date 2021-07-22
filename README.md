@@ -4,13 +4,13 @@ I am a:
 
 - Staff Engineer at [@Socialschools](https://socialschools.nl) Websites Team.
 - Core Maintainer of various libraries & projects [@vinitkumar](https://github.com/vinitkumar?tab=repositories).
-- Member of the Technical Committee of Django CMS Foundation.
+- Core Member of the Technical Committee of Django CMS Foundation.
 
 
 #### Successes:
 
-- I helped build a successful product from scratch with many useful features. I also established processes and technical architecture that can handle heavy traffic with ease and very little maintenance.
-- I learnt many new tech and paradigms on the job and applied them on ongoing projects. 
+- I helped build a successful product from scratch with many features. I also built processes and technical architecture that can handle heavy traffic with ease and very little maintenance.
+- I learnt many new tech and paradigms on the job and applied them to the ongoing projects. 
 - I gave some workshops on React and TypeScript at a couple of companies to experienced developers.
 
 

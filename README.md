@@ -16,7 +16,7 @@ I am a:
 
 #### Credentials:
  
- - 8+ years of experience working remotely with an asynchronous team.
+ - 9+ years of experience working remotely with an asynchronous team.
  - Staff Engineer at SocialSchools Websites team:
    - Responsible for the architecture, core design, and scalablility for a successful for an important vertical(Websites) of our product suite. Lead the team with code, reviews, and general guidance. (Python, Django, Postgres, Redis, React)
  - Worked with a variety of languages and always curious to learn more:

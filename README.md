@@ -42,4 +42,7 @@ I am a:
 - LinkedIn: [@vinitatlinkedin](https://www.linkedin.com/in/vinitatlinkedin/)
   
 
-  
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=vinitkumar&show_icons=true&" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=vinitkumar&hide_border=true" width = 400>
+</p>  

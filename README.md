@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Staff Engineer at [@Socialschools](https://socialschools.nl) Websites Team and Code developer for [Django CMS](https://github.com/django-cms/django-cms)
+I am a Staff Engineer at [@Socialschools](https://socialschools.nl) Websites Team and Code developer for [Django CMS](https://github.com/django-cms/django-cms).
 
 I write code in Python, C, Go, Node.js/JavaScript and use Postgres, Redis, SQLite, MongoDB, RabbitMQ and ElasticSearch. I have production deployment experience with AWS, Google Cloud, Digitalocean, Heroku. I write and maintain some useful Open Source software.
 

@@ -1,32 +1,11 @@
 ### Hi there 👋
 
-I am a:
+I am a Staff Engineer at [@Socialschools](https://socialschools.nl) Websites Team and Code developer for [Django CMS](https://github.com/django-cms/django-cms)
 
-- Staff Engineer at [@Socialschools](https://socialschools.nl) Websites Team.
-- Core Maintainer of various libraries & projects [@vinitkumar](https://github.com/vinitkumar?tab=repositories).
-- Core Member of the Technical Committee of Django CMS Foundation.
+I write code in Python, C, Go, Node.js/JavaScript and use Postgres, Redis, SQLite, MongoDB, RabbitMQ and ElasticSearch. I have production deployment experience with AWS, Google Cloud, Digitalocean, Heroku. I write and maintain some useful Open Source software.
 
 
-#### Successes:
-
-- I helped build a successful product from scratch with many features. I also built processes and technical architecture that can handle heavy traffic with ease and very little maintenance.
-- I learnt many new tech and paradigms on the job and applied them to the ongoing projects. 
-- I gave some workshops on React and TypeScript at a couple of companies to experienced developers.
-
-
-#### Credentials:
- 
- - 9+ years of experience working remotely with an asynchronous team.
- - Staff Engineer at SocialSchools Websites team:
-   - Responsible for the architecture, core design, and scalablility for a successful for an important vertical(Websites) of our product suite. Lead the team with code, reviews, and general guidance. (Python, Django, Postgres, Redis, React)
- - Worked with a variety of languages and always curious to learn more:
-   - Python, Node, Go, Postgres, Redis, C, SQLite, MongoDB, RabbitMQ, ElasticSearch.
- - Production Experience with all major cloud providers:
-   - AWS, Google Cloud, Digitalocean, Heroku.
- - Creator & core maintainer of some popular Open Source projects.
-
-
-#### Read Some Of My Latest Blogs
+#### My recent blogs
 
 - [Practice Hard, Success Doesn't Come Easy](https://vinitkumar.me/practice-is-a-must/)
 - [How to do remote work efficiently](https://vinitkumar.me/how-to-remote/)
@@ -41,6 +20,7 @@ I am a:
 - Twitter: [@vinitkme](https://twitter.com/vinitkme)
 - LinkedIn: [@vinitatlinkedin](https://www.linkedin.com/in/vinitatlinkedin/)
   
+## Github Stats
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=vinitkumar&show_icons=true&" width = 400>

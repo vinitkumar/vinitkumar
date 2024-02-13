@@ -11,3 +11,7 @@ I'm skilled in cloud deployments across AWS, Google Cloud, DigitalOcean, and Her
 - Email: <a href="mailto:mail@vinitkumar.me">mail@vinitkumar.me</a>
 - Twitter: [@vinitkme](https://twitter.com/vinitkme)
 - LinkedIn: [@vinitatlinkedin](https://www.linkedin.com/in/vinitatlinkedin/)  
+
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->

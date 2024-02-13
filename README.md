@@ -12,6 +12,7 @@ I'm skilled in cloud deployments across AWS, Google Cloud, DigitalOcean, and Her
 - Twitter: [@vinitkme](https://twitter.com/vinitkme)
 - LinkedIn: [@vinitatlinkedin](https://www.linkedin.com/in/vinitatlinkedin/)  
 
+#### You can find my OSS work here:
 
 <!--START_SECTION:activity-->
 1. 🚀 Published release [v3.3.0](https://github.com/SocialSchools/djangocms-admin-style/releases/tag/v3.3.0) in [SocialSchools/djangocms-admin-style](https://github.com/SocialSchools/djangocms-admin-style)

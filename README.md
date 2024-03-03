@@ -15,9 +15,9 @@ I'm skilled in cloud deployments across AWS, Google Cloud, DigitalOcean, and Her
 #### You can find my OSS work here:
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#7828](https://github.com/django-cms/django-cms/issues/7828) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
-2. 🚀 Published release [New Release With Python and Django upgrade](https://github.com/SocialSchools/django-multisite/releases/tag/2.0.0) in [SocialSchools/django-multisite](https://github.com/SocialSchools/django-multisite)
-3. 🚀 Published release [New release](https://github.com/SocialSchools/djangocms-admin-style/releases/tag/v3.3.1) in [SocialSchools/djangocms-admin-style](https://github.com/SocialSchools/djangocms-admin-style)
-4. 🚀 Published release [Release for CMS](https://github.com/SocialSchools/django-cms/releases/tag/3.11.10) in [SocialSchools/django-cms](https://github.com/SocialSchools/django-cms)
-5. 🚀 Published release [ Release for Intranet](https://github.com/SocialSchools/django-cms/releases/tag/3.11.7) in [SocialSchools/django-cms](https://github.com/SocialSchools/django-cms)
+1. 💪 Opened PR [#7829](https://github.com/django-cms/django-cms/pull/7829) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
+2. ❗ Opened issue [#7828](https://github.com/django-cms/django-cms/issues/7828) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
+3. 🚀 Published release [New Release With Python and Django upgrade](https://github.com/SocialSchools/django-multisite/releases/tag/2.0.0) in [SocialSchools/django-multisite](https://github.com/SocialSchools/django-multisite)
+4. 🚀 Published release [New release](https://github.com/SocialSchools/djangocms-admin-style/releases/tag/v3.3.1) in [SocialSchools/djangocms-admin-style](https://github.com/SocialSchools/djangocms-admin-style)
+5. 🚀 Published release [Release for CMS](https://github.com/SocialSchools/django-cms/releases/tag/3.11.10) in [SocialSchools/django-cms](https://github.com/SocialSchools/django-cms)
 <!--END_SECTION:activity-->

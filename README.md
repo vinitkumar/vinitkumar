@@ -15,9 +15,9 @@ I'm skilled in cloud deployments across AWS, Google Cloud, DigitalOcean, and Her
 #### You can find my OSS work here:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7799](https://github.com/django-cms/django-cms/pull/7799#issuecomment-1980115248) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
-2. 🔒 Closed issue [#7828](https://github.com/django-cms/django-cms/issues/7828) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
-3. 🗣 Commented on [#7829](https://github.com/django-cms/django-cms/pull/7829#issuecomment-1980099246) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
-4. 🚀 Published release [UI Fixes for Admin](https://github.com/SocialSchools/djangocms-admin-style/releases/tag/v3.3.2) in [SocialSchools/djangocms-admin-style](https://github.com/SocialSchools/djangocms-admin-style)
-5. 💪 Opened PR [#7829](https://github.com/django-cms/django-cms/pull/7829) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
+1. 🗣 Commented on [#388](https://github.com/django-cms/djangocms-versioning/pull/388#issuecomment-1983279753) in [django-cms/djangocms-versioning](https://github.com/django-cms/djangocms-versioning)
+2. 🗣 Commented on [#388](https://github.com/django-cms/djangocms-versioning/pull/388#issuecomment-1983275596) in [django-cms/djangocms-versioning](https://github.com/django-cms/djangocms-versioning)
+3. 🗣 Commented on [#7799](https://github.com/django-cms/django-cms/pull/7799#issuecomment-1980115248) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
+4. 🔒 Closed issue [#7828](https://github.com/django-cms/django-cms/issues/7828) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
+5. 🗣 Commented on [#7829](https://github.com/django-cms/django-cms/pull/7829#issuecomment-1980099246) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
 <!--END_SECTION:activity-->

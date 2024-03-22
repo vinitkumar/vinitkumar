@@ -15,9 +15,9 @@ I'm skilled in cloud deployments across AWS, Google Cloud, DigitalOcean, and Her
 #### You can find my OSS work here:
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Style fixes for admin](https://github.com/SocialSchools/djangocms-admin-style/releases/tag/3.3.2) in [SocialSchools/djangocms-admin-style](https://github.com/SocialSchools/djangocms-admin-style)
-2. 💪 Opened PR [#298](https://github.com/vinitkumar/googlecl/pull/298) in [vinitkumar/googlecl](https://github.com/vinitkumar/googlecl)
-3. 🗣 Commented on [#388](https://github.com/django-cms/djangocms-versioning/pull/388#issuecomment-1983279753) in [django-cms/djangocms-versioning](https://github.com/django-cms/djangocms-versioning)
-4. 🗣 Commented on [#388](https://github.com/django-cms/djangocms-versioning/pull/388#issuecomment-1983275596) in [django-cms/djangocms-versioning](https://github.com/django-cms/djangocms-versioning)
-5. 🗣 Commented on [#7799](https://github.com/django-cms/django-cms/pull/7799#issuecomment-1980115248) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
+1. ❌ Closed PR [#7686](https://github.com/django-cms/django-cms/pull/7686) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
+2. 🎉 Merged PR [#298](https://github.com/vinitkumar/googlecl/pull/298) in [vinitkumar/googlecl](https://github.com/vinitkumar/googlecl)
+3. 🚀 Published release [Style fixes for admin](https://github.com/SocialSchools/djangocms-admin-style/releases/tag/3.3.2) in [SocialSchools/djangocms-admin-style](https://github.com/SocialSchools/djangocms-admin-style)
+4. 💪 Opened PR [#298](https://github.com/vinitkumar/googlecl/pull/298) in [vinitkumar/googlecl](https://github.com/vinitkumar/googlecl)
+5. 🗣 Commented on [#388](https://github.com/django-cms/djangocms-versioning/pull/388#issuecomment-1983279753) in [django-cms/djangocms-versioning](https://github.com/django-cms/djangocms-versioning)
 <!--END_SECTION:activity-->

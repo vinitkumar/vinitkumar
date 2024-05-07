@@ -15,9 +15,9 @@ I'm skilled in cloud deployments across AWS, Google Cloud, DigitalOcean, and Her
 #### You can find my OSS work here:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#199](https://github.com/vinitkumar/json2xml/issues/199#issuecomment-2082832883) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
-2. 🎉 Merged PR [#8](https://github.com/vinitkumar/algorithms/pull/8) in [vinitkumar/algorithms](https://github.com/vinitkumar/algorithms)
-3. 💪 Opened PR [#8](https://github.com/vinitkumar/algorithms/pull/8) in [vinitkumar/algorithms](https://github.com/vinitkumar/algorithms)
-4. 💪 Opened PR [#345](https://github.com/vinitkumar/node-twitter/pull/345) in [vinitkumar/node-twitter](https://github.com/vinitkumar/node-twitter)
-5. 🚀 Published release [Final release](https://github.com/SocialSchools/djangocms-admin-style/releases/tag/v3.3.3) in [SocialSchools/djangocms-admin-style](https://github.com/SocialSchools/djangocms-admin-style)
+1. 💪 Opened PR [#299](https://github.com/vinitkumar/googlecl/pull/299) in [vinitkumar/googlecl](https://github.com/vinitkumar/googlecl)
+2. 🗣 Commented on [#199](https://github.com/vinitkumar/json2xml/issues/199#issuecomment-2082832883) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
+3. 🎉 Merged PR [#8](https://github.com/vinitkumar/algorithms/pull/8) in [vinitkumar/algorithms](https://github.com/vinitkumar/algorithms)
+4. 💪 Opened PR [#8](https://github.com/vinitkumar/algorithms/pull/8) in [vinitkumar/algorithms](https://github.com/vinitkumar/algorithms)
+5. 💪 Opened PR [#345](https://github.com/vinitkumar/node-twitter/pull/345) in [vinitkumar/node-twitter](https://github.com/vinitkumar/node-twitter)
 <!--END_SECTION:activity-->

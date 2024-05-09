@@ -15,9 +15,9 @@ I'm skilled in cloud deployments across AWS, Google Cloud, DigitalOcean, and Her
 #### You can find my OSS work here:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#299](https://github.com/vinitkumar/googlecl/pull/299) in [vinitkumar/googlecl](https://github.com/vinitkumar/googlecl)
-2. 🗣 Commented on [#199](https://github.com/vinitkumar/json2xml/issues/199#issuecomment-2082832883) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
-3. 🎉 Merged PR [#8](https://github.com/vinitkumar/algorithms/pull/8) in [vinitkumar/algorithms](https://github.com/vinitkumar/algorithms)
-4. 💪 Opened PR [#8](https://github.com/vinitkumar/algorithms/pull/8) in [vinitkumar/algorithms](https://github.com/vinitkumar/algorithms)
-5. 💪 Opened PR [#345](https://github.com/vinitkumar/node-twitter/pull/345) in [vinitkumar/node-twitter](https://github.com/vinitkumar/node-twitter)
+1. ❌ Closed PR [#105](https://github.com/vinitkumar/vinitkumar.me/pull/105) in [vinitkumar/vinitkumar.me](https://github.com/vinitkumar/vinitkumar.me)
+2. ❌ Closed PR [#104](https://github.com/vinitkumar/vinitkumar.me/pull/104) in [vinitkumar/vinitkumar.me](https://github.com/vinitkumar/vinitkumar.me)
+3. ❌ Closed PR [#103](https://github.com/vinitkumar/vinitkumar.me/pull/103) in [vinitkumar/vinitkumar.me](https://github.com/vinitkumar/vinitkumar.me)
+4. ❌ Closed PR [#101](https://github.com/vinitkumar/vinitkumar.me/pull/101) in [vinitkumar/vinitkumar.me](https://github.com/vinitkumar/vinitkumar.me)
+5. 💪 Opened PR [#299](https://github.com/vinitkumar/googlecl/pull/299) in [vinitkumar/googlecl](https://github.com/vinitkumar/googlecl)
 <!--END_SECTION:activity-->

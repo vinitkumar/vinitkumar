@@ -15,9 +15,9 @@ I'm skilled in cloud deployments across AWS, Google Cloud, DigitalOcean, and Her
 #### You can find my OSS work here:
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [New Major Release](https://github.com/vinitkumar/json2xml/releases/tag/v5.0.0) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
-2. 🎉 Merged PR [#201](https://github.com/vinitkumar/json2xml/pull/201) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
-3. ❌ Closed PR [#194](https://github.com/vinitkumar/json2xml/pull/194) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
-4. ❌ Closed PR [#198](https://github.com/vinitkumar/json2xml/pull/198) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
-5. ❌ Closed PR [#200](https://github.com/vinitkumar/json2xml/pull/200) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
+1. 🚀 Published release [Major release](https://github.com/vinitkumar/json2xml/releases/tag/v5.0.1) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
+2. 🚀 Published release [New Major Release](https://github.com/vinitkumar/json2xml/releases/tag/v5.0.0) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
+3. 🎉 Merged PR [#201](https://github.com/vinitkumar/json2xml/pull/201) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
+4. ❌ Closed PR [#194](https://github.com/vinitkumar/json2xml/pull/194) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
+5. ❌ Closed PR [#198](https://github.com/vinitkumar/json2xml/pull/198) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
 <!--END_SECTION:activity-->

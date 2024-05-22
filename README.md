@@ -15,9 +15,9 @@ I'm skilled in cloud deployments across AWS, Google Cloud, DigitalOcean, and Her
 #### You can find my OSS work here:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#300](https://github.com/vinitkumar/googlecl/pull/300) in [vinitkumar/googlecl](https://github.com/vinitkumar/googlecl)
-2. 🎉 Merged PR [#238](https://github.com/django-cms/djangocms-alias/pull/238) in [django-cms/djangocms-alias](https://github.com/django-cms/djangocms-alias)
-3. 🗣 Commented on [#7850](https://github.com/django-cms/django-cms/pull/7850#issuecomment-2121038701) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
-4. 🗣 Commented on [#7887](https://github.com/django-cms/django-cms/pull/7887#issuecomment-2121025792) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
-5. 💪 Opened PR [#20](https://github.com/vinitkumar/dark-paper/pull/20) in [vinitkumar/dark-paper](https://github.com/vinitkumar/dark-paper)
+1. 💪 Opened PR [#9](https://github.com/vinitkumar/algorithms/pull/9) in [vinitkumar/algorithms](https://github.com/vinitkumar/algorithms)
+2. 💪 Opened PR [#300](https://github.com/vinitkumar/googlecl/pull/300) in [vinitkumar/googlecl](https://github.com/vinitkumar/googlecl)
+3. 🎉 Merged PR [#238](https://github.com/django-cms/djangocms-alias/pull/238) in [django-cms/djangocms-alias](https://github.com/django-cms/djangocms-alias)
+4. 🗣 Commented on [#7850](https://github.com/django-cms/django-cms/pull/7850#issuecomment-2121038701) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
+5. 🗣 Commented on [#7887](https://github.com/django-cms/django-cms/pull/7887#issuecomment-2121025792) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
 <!--END_SECTION:activity-->

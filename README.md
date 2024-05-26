@@ -15,9 +15,9 @@ I'm skilled in cloud deployments across AWS, Google Cloud, DigitalOcean, and Her
 #### You can find my OSS work here:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7928](https://github.com/django-cms/django-cms/pull/7928) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
-2. 💪 Opened PR [#1](https://github.com/vinitkumar/django/pull/1) in [vinitkumar/django](https://github.com/vinitkumar/django)
-3. 💪 Opened PR [#9](https://github.com/vinitkumar/algorithms/pull/9) in [vinitkumar/algorithms](https://github.com/vinitkumar/algorithms)
-4. 💪 Opened PR [#300](https://github.com/vinitkumar/googlecl/pull/300) in [vinitkumar/googlecl](https://github.com/vinitkumar/googlecl)
-5. 🎉 Merged PR [#238](https://github.com/django-cms/djangocms-alias/pull/238) in [django-cms/djangocms-alias](https://github.com/django-cms/djangocms-alias)
+1. 💪 Opened PR [#38](https://github.com/vinitkumar/vinitkumar.github.com/pull/38) in [vinitkumar/vinitkumar.github.com](https://github.com/vinitkumar/vinitkumar.github.com)
+2. 💪 Opened PR [#37](https://github.com/vinitkumar/vinitkumar.github.com/pull/37) in [vinitkumar/vinitkumar.github.com](https://github.com/vinitkumar/vinitkumar.github.com)
+3. 💪 Opened PR [#21](https://github.com/vinitkumar/dark-paper/pull/21) in [vinitkumar/dark-paper](https://github.com/vinitkumar/dark-paper)
+4. 🎉 Merged PR [#7928](https://github.com/django-cms/django-cms/pull/7928) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
+5. 💪 Opened PR [#1](https://github.com/vinitkumar/django/pull/1) in [vinitkumar/django](https://github.com/vinitkumar/django)
 <!--END_SECTION:activity-->

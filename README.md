@@ -15,9 +15,9 @@ I'm skilled in cloud deployments across AWS, Google Cloud, DigitalOcean, and Her
 #### You can find my OSS work here:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#202](https://github.com/vinitkumar/json2xml/pull/202) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
-2. 🎉 Merged PR [#9](https://github.com/vinitkumar/algorithms/pull/9) in [vinitkumar/algorithms](https://github.com/vinitkumar/algorithms)
-3. 🎉 Merged PR [#1](https://github.com/vinitkumar/django/pull/1) in [vinitkumar/django](https://github.com/vinitkumar/django)
-4. 🎉 Merged PR [#21](https://github.com/vinitkumar/dark-paper/pull/21) in [vinitkumar/dark-paper](https://github.com/vinitkumar/dark-paper)
-5. 🎉 Merged PR [#37](https://github.com/vinitkumar/vinitkumar.github.com/pull/37) in [vinitkumar/vinitkumar.github.com](https://github.com/vinitkumar/vinitkumar.github.com)
+1. 🚀 Published release [New 5.0.2 Release](https://github.com/vinitkumar/json2xml/releases/tag/v5.0.2) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
+2. 🎉 Merged PR [#202](https://github.com/vinitkumar/json2xml/pull/202) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
+3. 🎉 Merged PR [#9](https://github.com/vinitkumar/algorithms/pull/9) in [vinitkumar/algorithms](https://github.com/vinitkumar/algorithms)
+4. 🎉 Merged PR [#1](https://github.com/vinitkumar/django/pull/1) in [vinitkumar/django](https://github.com/vinitkumar/django)
+5. 🎉 Merged PR [#21](https://github.com/vinitkumar/dark-paper/pull/21) in [vinitkumar/dark-paper](https://github.com/vinitkumar/dark-paper)
 <!--END_SECTION:activity-->

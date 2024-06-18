@@ -19,9 +19,9 @@ user interfaces using Tailwind and JavaScript.
 #### You can find my OSS work here:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#106](https://github.com/vinitkumar/vinitkumar.me/pull/106) in [vinitkumar/vinitkumar.me](https://github.com/vinitkumar/vinitkumar.me)
-2. 💪 Opened PR [#204](https://github.com/vinitkumar/json2xml/pull/204) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
-3. 🚀 Published release [New 5.0.2 Release](https://github.com/vinitkumar/json2xml/releases/tag/v5.0.2) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
-4. 🎉 Merged PR [#202](https://github.com/vinitkumar/json2xml/pull/202) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
-5. 🎉 Merged PR [#9](https://github.com/vinitkumar/algorithms/pull/9) in [vinitkumar/algorithms](https://github.com/vinitkumar/algorithms)
+1. 🎉 Merged PR [#205](https://github.com/vinitkumar/json2xml/pull/205) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
+2. 🎉 Merged PR [#106](https://github.com/vinitkumar/vinitkumar.me/pull/106) in [vinitkumar/vinitkumar.me](https://github.com/vinitkumar/vinitkumar.me)
+3. 💪 Opened PR [#204](https://github.com/vinitkumar/json2xml/pull/204) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
+4. 🚀 Published release [New 5.0.2 Release](https://github.com/vinitkumar/json2xml/releases/tag/v5.0.2) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
+5. 🎉 Merged PR [#202](https://github.com/vinitkumar/json2xml/pull/202) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
 <!--END_SECTION:activity-->

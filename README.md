@@ -19,9 +19,9 @@ user interfaces using Tailwind and JavaScript.
 #### You can find my OSS work here:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11](https://github.com/vinitkumar/algorithms/pull/11) in [vinitkumar/algorithms](https://github.com/vinitkumar/algorithms)
-2. 💪 Opened PR [#10](https://github.com/vinitkumar/algorithms/pull/10) in [vinitkumar/algorithms](https://github.com/vinitkumar/algorithms)
-3. 💪 Opened PR [#301](https://github.com/vinitkumar/googlecl/pull/301) in [vinitkumar/googlecl](https://github.com/vinitkumar/googlecl)
-4. 💪 Opened PR [#2](https://github.com/vinitkumar/django/pull/2) in [vinitkumar/django](https://github.com/vinitkumar/django)
-5. 🎉 Merged PR [#206](https://github.com/vinitkumar/json2xml/pull/206) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
+1. 💪 Opened PR [#208](https://github.com/vinitkumar/json2xml/pull/208) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
+2. 🎉 Merged PR [#207](https://github.com/vinitkumar/json2xml/pull/207) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
+3. 💪 Opened PR [#11](https://github.com/vinitkumar/algorithms/pull/11) in [vinitkumar/algorithms](https://github.com/vinitkumar/algorithms)
+4. 💪 Opened PR [#10](https://github.com/vinitkumar/algorithms/pull/10) in [vinitkumar/algorithms](https://github.com/vinitkumar/algorithms)
+5. 💪 Opened PR [#301](https://github.com/vinitkumar/googlecl/pull/301) in [vinitkumar/googlecl](https://github.com/vinitkumar/googlecl)
 <!--END_SECTION:activity-->

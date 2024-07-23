@@ -19,9 +19,9 @@ user interfaces using Tailwind and JavaScript.
 #### You can find my OSS work here:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#208](https://github.com/vinitkumar/json2xml/pull/208) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
-2. 💪 Opened PR [#208](https://github.com/vinitkumar/json2xml/pull/208) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
-3. 🎉 Merged PR [#207](https://github.com/vinitkumar/json2xml/pull/207) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
-4. 💪 Opened PR [#11](https://github.com/vinitkumar/algorithms/pull/11) in [vinitkumar/algorithms](https://github.com/vinitkumar/algorithms)
-5. 💪 Opened PR [#10](https://github.com/vinitkumar/algorithms/pull/10) in [vinitkumar/algorithms](https://github.com/vinitkumar/algorithms)
+1. 🔒 Closed issue [#1479](https://github.com/django-cms/django-filer/issues/1479) in [django-cms/django-filer](https://github.com/django-cms/django-filer)
+2. 🎉 Merged PR [#1482](https://github.com/django-cms/django-filer/pull/1482) in [django-cms/django-filer](https://github.com/django-cms/django-filer)
+3. 🎉 Merged PR [#208](https://github.com/vinitkumar/json2xml/pull/208) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
+4. 💪 Opened PR [#208](https://github.com/vinitkumar/json2xml/pull/208) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
+5. 🎉 Merged PR [#207](https://github.com/vinitkumar/json2xml/pull/207) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
 <!--END_SECTION:activity-->

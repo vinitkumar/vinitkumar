@@ -19,9 +19,9 @@ user interfaces using Tailwind and JavaScript.
 #### You can find my OSS work here:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#23](https://github.com/vinitkumar/dark-paper/pull/23) in [vinitkumar/dark-paper](https://github.com/vinitkumar/dark-paper)
-2. 💪 Opened PR [#40](https://github.com/vinitkumar/vinitkumar.github.com/pull/40) in [vinitkumar/vinitkumar.github.com](https://github.com/vinitkumar/vinitkumar.github.com)
-3. 🎉 Merged PR [#7959](https://github.com/django-cms/django-cms/pull/7959) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
-4. 🔒 Closed issue [#1479](https://github.com/django-cms/django-filer/issues/1479) in [django-cms/django-filer](https://github.com/django-cms/django-filer)
-5. 🎉 Merged PR [#1482](https://github.com/django-cms/django-filer/pull/1482) in [django-cms/django-filer](https://github.com/django-cms/django-filer)
+1. 💪 Opened PR [#107](https://github.com/vinitkumar/vinitkumar.me/pull/107) in [vinitkumar/vinitkumar.me](https://github.com/vinitkumar/vinitkumar.me)
+2. 💪 Opened PR [#23](https://github.com/vinitkumar/dark-paper/pull/23) in [vinitkumar/dark-paper](https://github.com/vinitkumar/dark-paper)
+3. 💪 Opened PR [#40](https://github.com/vinitkumar/vinitkumar.github.com/pull/40) in [vinitkumar/vinitkumar.github.com](https://github.com/vinitkumar/vinitkumar.github.com)
+4. 🎉 Merged PR [#7959](https://github.com/django-cms/django-cms/pull/7959) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
+5. 🔒 Closed issue [#1479](https://github.com/django-cms/django-filer/issues/1479) in [django-cms/django-filer](https://github.com/django-cms/django-filer)
 <!--END_SECTION:activity-->

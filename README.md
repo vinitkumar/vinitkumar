@@ -19,9 +19,9 @@ user interfaces using Tailwind and JavaScript.
 #### You can find my OSS work here:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#209](https://github.com/vinitkumar/json2xml/issues/209#issuecomment-2271938938) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
-2. 🎉 Merged PR [#107](https://github.com/vinitkumar/vinitkumar.me/pull/107) in [vinitkumar/vinitkumar.me](https://github.com/vinitkumar/vinitkumar.me)
-3. 💪 Opened PR [#107](https://github.com/vinitkumar/vinitkumar.me/pull/107) in [vinitkumar/vinitkumar.me](https://github.com/vinitkumar/vinitkumar.me)
-4. 💪 Opened PR [#23](https://github.com/vinitkumar/dark-paper/pull/23) in [vinitkumar/dark-paper](https://github.com/vinitkumar/dark-paper)
-5. 💪 Opened PR [#40](https://github.com/vinitkumar/vinitkumar.github.com/pull/40) in [vinitkumar/vinitkumar.github.com](https://github.com/vinitkumar/vinitkumar.github.com)
+1. 🗣 Commented on [#209](https://github.com/vinitkumar/json2xml/issues/209#issuecomment-2276242240) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
+2. 🗣 Commented on [#209](https://github.com/vinitkumar/json2xml/issues/209#issuecomment-2271938938) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
+3. 🎉 Merged PR [#107](https://github.com/vinitkumar/vinitkumar.me/pull/107) in [vinitkumar/vinitkumar.me](https://github.com/vinitkumar/vinitkumar.me)
+4. 💪 Opened PR [#107](https://github.com/vinitkumar/vinitkumar.me/pull/107) in [vinitkumar/vinitkumar.me](https://github.com/vinitkumar/vinitkumar.me)
+5. 💪 Opened PR [#23](https://github.com/vinitkumar/dark-paper/pull/23) in [vinitkumar/dark-paper](https://github.com/vinitkumar/dark-paper)
 <!--END_SECTION:activity-->

@@ -19,9 +19,9 @@ user interfaces using Tailwind and JavaScript.
 #### You can find my OSS work here:
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#19](https://github.com/vinitkumar/dark-paper/pull/19) in [vinitkumar/dark-paper](https://github.com/vinitkumar/dark-paper)
-2. ❌ Closed PR [#22](https://github.com/vinitkumar/dark-paper/pull/22) in [vinitkumar/dark-paper](https://github.com/vinitkumar/dark-paper)
-3. ❌ Closed PR [#20](https://github.com/vinitkumar/dark-paper/pull/20) in [vinitkumar/dark-paper](https://github.com/vinitkumar/dark-paper)
-4. ❌ Closed PR [#18](https://github.com/vinitkumar/dark-paper/pull/18) in [vinitkumar/dark-paper](https://github.com/vinitkumar/dark-paper)
-5. ❌ Closed PR [#17](https://github.com/vinitkumar/dark-paper/pull/17) in [vinitkumar/dark-paper](https://github.com/vinitkumar/dark-paper)
+1. ❌ Closed PR [#39](https://github.com/vinitkumar/vinitkumar.github.com/pull/39) in [vinitkumar/vinitkumar.github.com](https://github.com/vinitkumar/vinitkumar.github.com)
+2. ❌ Closed PR [#36](https://github.com/vinitkumar/vinitkumar.github.com/pull/36) in [vinitkumar/vinitkumar.github.com](https://github.com/vinitkumar/vinitkumar.github.com)
+3. ❌ Closed PR [#35](https://github.com/vinitkumar/vinitkumar.github.com/pull/35) in [vinitkumar/vinitkumar.github.com](https://github.com/vinitkumar/vinitkumar.github.com)
+4. ❌ Closed PR [#34](https://github.com/vinitkumar/vinitkumar.github.com/pull/34) in [vinitkumar/vinitkumar.github.com](https://github.com/vinitkumar/vinitkumar.github.com)
+5. ❌ Closed PR [#33](https://github.com/vinitkumar/vinitkumar.github.com/pull/33) in [vinitkumar/vinitkumar.github.com](https://github.com/vinitkumar/vinitkumar.github.com)
 <!--END_SECTION:activity-->

@@ -19,9 +19,9 @@ user interfaces using Tailwind and JavaScript.
 #### You can find my OSS work here:
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#39](https://github.com/vinitkumar/vinitkumar.github.com/pull/39) in [vinitkumar/vinitkumar.github.com](https://github.com/vinitkumar/vinitkumar.github.com)
-2. ❌ Closed PR [#36](https://github.com/vinitkumar/vinitkumar.github.com/pull/36) in [vinitkumar/vinitkumar.github.com](https://github.com/vinitkumar/vinitkumar.github.com)
-3. ❌ Closed PR [#35](https://github.com/vinitkumar/vinitkumar.github.com/pull/35) in [vinitkumar/vinitkumar.github.com](https://github.com/vinitkumar/vinitkumar.github.com)
-4. ❌ Closed PR [#34](https://github.com/vinitkumar/vinitkumar.github.com/pull/34) in [vinitkumar/vinitkumar.github.com](https://github.com/vinitkumar/vinitkumar.github.com)
-5. ❌ Closed PR [#33](https://github.com/vinitkumar/vinitkumar.github.com/pull/33) in [vinitkumar/vinitkumar.github.com](https://github.com/vinitkumar/vinitkumar.github.com)
+1. 🎉 Merged PR [#212](https://github.com/vinitkumar/json2xml/pull/212) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
+2. ❌ Closed PR [#39](https://github.com/vinitkumar/vinitkumar.github.com/pull/39) in [vinitkumar/vinitkumar.github.com](https://github.com/vinitkumar/vinitkumar.github.com)
+3. ❌ Closed PR [#36](https://github.com/vinitkumar/vinitkumar.github.com/pull/36) in [vinitkumar/vinitkumar.github.com](https://github.com/vinitkumar/vinitkumar.github.com)
+4. ❌ Closed PR [#35](https://github.com/vinitkumar/vinitkumar.github.com/pull/35) in [vinitkumar/vinitkumar.github.com](https://github.com/vinitkumar/vinitkumar.github.com)
+5. ❌ Closed PR [#34](https://github.com/vinitkumar/vinitkumar.github.com/pull/34) in [vinitkumar/vinitkumar.github.com](https://github.com/vinitkumar/vinitkumar.github.com)
 <!--END_SECTION:activity-->

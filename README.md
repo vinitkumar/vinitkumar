@@ -19,9 +19,9 @@ user interfaces using Tailwind and JavaScript.
 #### You can find my OSS work here:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#68](https://github.com/vinitkumar/gist-browser/pull/68) in [vinitkumar/gist-browser](https://github.com/vinitkumar/gist-browser)
-2. 💪 Opened PR [#347](https://github.com/vinitkumar/node-twitter/pull/347) in [vinitkumar/node-twitter](https://github.com/vinitkumar/node-twitter)
-3. 🎉 Merged PR [#214](https://github.com/vinitkumar/json2xml/pull/214) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
-4. 💪 Opened PR [#214](https://github.com/vinitkumar/json2xml/pull/214) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
-5. 🗣 Commented on [#213](https://github.com/vinitkumar/json2xml/pull/213#issuecomment-2322961607) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
+1. 🗣 Commented on [#9103](https://github.com/astral-sh/ruff/issues/9103#issuecomment-2338704608) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+2. 💪 Opened PR [#68](https://github.com/vinitkumar/gist-browser/pull/68) in [vinitkumar/gist-browser](https://github.com/vinitkumar/gist-browser)
+3. 💪 Opened PR [#347](https://github.com/vinitkumar/node-twitter/pull/347) in [vinitkumar/node-twitter](https://github.com/vinitkumar/node-twitter)
+4. 🎉 Merged PR [#214](https://github.com/vinitkumar/json2xml/pull/214) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
+5. 💪 Opened PR [#214](https://github.com/vinitkumar/json2xml/pull/214) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
 <!--END_SECTION:activity-->

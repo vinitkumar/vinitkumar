@@ -19,9 +19,9 @@ user interfaces using Tailwind and JavaScript.
 #### You can find my OSS work here:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7994](https://github.com/django-cms/django-cms/pull/7994) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
-2. 🎉 Merged PR [#7993](https://github.com/django-cms/django-cms/pull/7993) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
-3. 🗣 Commented on [#9103](https://github.com/astral-sh/ruff/issues/9103#issuecomment-2338704608) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-4. 💪 Opened PR [#68](https://github.com/vinitkumar/gist-browser/pull/68) in [vinitkumar/gist-browser](https://github.com/vinitkumar/gist-browser)
-5. 💪 Opened PR [#347](https://github.com/vinitkumar/node-twitter/pull/347) in [vinitkumar/node-twitter](https://github.com/vinitkumar/node-twitter)
+1. 💪 Opened PR [#348](https://github.com/vinitkumar/node-twitter/pull/348) in [vinitkumar/node-twitter](https://github.com/vinitkumar/node-twitter)
+2. 🎉 Merged PR [#7994](https://github.com/django-cms/django-cms/pull/7994) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
+3. 🎉 Merged PR [#7993](https://github.com/django-cms/django-cms/pull/7993) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
+4. 🗣 Commented on [#9103](https://github.com/astral-sh/ruff/issues/9103#issuecomment-2338704608) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+5. 💪 Opened PR [#68](https://github.com/vinitkumar/gist-browser/pull/68) in [vinitkumar/gist-browser](https://github.com/vinitkumar/gist-browser)
 <!--END_SECTION:activity-->

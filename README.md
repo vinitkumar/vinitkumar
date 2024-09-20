@@ -19,9 +19,9 @@ user interfaces using Tailwind and JavaScript.
 #### You can find my OSS work here:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#349](https://github.com/vinitkumar/node-twitter/pull/349) in [vinitkumar/node-twitter](https://github.com/vinitkumar/node-twitter)
-2. ❌ Closed PR [#342](https://github.com/vinitkumar/node-twitter/pull/342) in [vinitkumar/node-twitter](https://github.com/vinitkumar/node-twitter)
-3. ❌ Closed PR [#345](https://github.com/vinitkumar/node-twitter/pull/345) in [vinitkumar/node-twitter](https://github.com/vinitkumar/node-twitter)
-4. ❌ Closed PR [#344](https://github.com/vinitkumar/node-twitter/pull/344) in [vinitkumar/node-twitter](https://github.com/vinitkumar/node-twitter)
-5. ❌ Closed PR [#341](https://github.com/vinitkumar/node-twitter/pull/341) in [vinitkumar/node-twitter](https://github.com/vinitkumar/node-twitter)
+1. 🎉 Merged PR [#349](https://github.com/vinitkumar/node-twitter/pull/349) in [vinitkumar/node-twitter](https://github.com/vinitkumar/node-twitter)
+2. 💪 Opened PR [#349](https://github.com/vinitkumar/node-twitter/pull/349) in [vinitkumar/node-twitter](https://github.com/vinitkumar/node-twitter)
+3. ❌ Closed PR [#342](https://github.com/vinitkumar/node-twitter/pull/342) in [vinitkumar/node-twitter](https://github.com/vinitkumar/node-twitter)
+4. ❌ Closed PR [#345](https://github.com/vinitkumar/node-twitter/pull/345) in [vinitkumar/node-twitter](https://github.com/vinitkumar/node-twitter)
+5. ❌ Closed PR [#344](https://github.com/vinitkumar/node-twitter/pull/344) in [vinitkumar/node-twitter](https://github.com/vinitkumar/node-twitter)
 <!--END_SECTION:activity-->

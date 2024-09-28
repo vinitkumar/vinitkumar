@@ -19,9 +19,9 @@ user interfaces using Tailwind and JavaScript.
 #### You can find my OSS work here:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8015](https://github.com/django-cms/django-cms/pull/8015) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
-2. 💪 Opened PR [#8015](https://github.com/django-cms/django-cms/pull/8015) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
-3. ❗ Opened issue [#8014](https://github.com/django-cms/django-cms/issues/8014) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
-4. 🗣 Commented on [#9103](https://github.com/astral-sh/ruff/issues/9103#issuecomment-2367766856) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-5. ❌ Closed PR [#204](https://github.com/vinitkumar/json2xml/pull/204) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
+1. 💪 Opened PR [#8017](https://github.com/django-cms/django-cms/pull/8017) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
+2. 🎉 Merged PR [#8015](https://github.com/django-cms/django-cms/pull/8015) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
+3. 💪 Opened PR [#8015](https://github.com/django-cms/django-cms/pull/8015) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
+4. ❗ Opened issue [#8014](https://github.com/django-cms/django-cms/issues/8014) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
+5. 🗣 Commented on [#9103](https://github.com/astral-sh/ruff/issues/9103#issuecomment-2367766856) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
 <!--END_SECTION:activity-->

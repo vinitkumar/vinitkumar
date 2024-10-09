@@ -19,9 +19,9 @@ user interfaces using Tailwind and JavaScript.
 #### You can find my OSS work here:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7999](https://github.com/django-cms/django-cms/pull/7999#issuecomment-2396658471) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
-2. 🎉 Merged PR [#109](https://github.com/vinitkumar/vinitkumar.me/pull/109) in [vinitkumar/vinitkumar.me](https://github.com/vinitkumar/vinitkumar.me)
-3. 🎉 Merged PR [#110](https://github.com/vinitkumar/vinitkumar.me/pull/110) in [vinitkumar/vinitkumar.me](https://github.com/vinitkumar/vinitkumar.me)
-4. 🎉 Merged PR [#111](https://github.com/vinitkumar/vinitkumar.me/pull/111) in [vinitkumar/vinitkumar.me](https://github.com/vinitkumar/vinitkumar.me)
-5. 🎉 Merged PR [#424](https://github.com/django-cms/djangocms-versioning/pull/424) in [django-cms/djangocms-versioning](https://github.com/django-cms/djangocms-versioning)
+1. 💪 Opened PR [#354](https://github.com/vinitkumar/node-twitter/pull/354) in [vinitkumar/node-twitter](https://github.com/vinitkumar/node-twitter)
+2. 🗣 Commented on [#7999](https://github.com/django-cms/django-cms/pull/7999#issuecomment-2396658471) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
+3. 🎉 Merged PR [#109](https://github.com/vinitkumar/vinitkumar.me/pull/109) in [vinitkumar/vinitkumar.me](https://github.com/vinitkumar/vinitkumar.me)
+4. 🎉 Merged PR [#110](https://github.com/vinitkumar/vinitkumar.me/pull/110) in [vinitkumar/vinitkumar.me](https://github.com/vinitkumar/vinitkumar.me)
+5. 🎉 Merged PR [#111](https://github.com/vinitkumar/vinitkumar.me/pull/111) in [vinitkumar/vinitkumar.me](https://github.com/vinitkumar/vinitkumar.me)
 <!--END_SECTION:activity-->

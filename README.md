@@ -19,9 +19,9 @@ user interfaces using Tailwind and JavaScript.
 #### You can find my OSS work here:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#220](https://github.com/vinitkumar/json2xml/pull/220) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
-2. 🎉 Merged PR [#354](https://github.com/vinitkumar/node-twitter/pull/354) in [vinitkumar/node-twitter](https://github.com/vinitkumar/node-twitter)
-3. 🎉 Merged PR [#41](https://github.com/vinitkumar/vinitkumar.github.com/pull/41) in [vinitkumar/vinitkumar.github.com](https://github.com/vinitkumar/vinitkumar.github.com)
-4. 🎉 Merged PR [#42](https://github.com/vinitkumar/vinitkumar.github.com/pull/42) in [vinitkumar/vinitkumar.github.com](https://github.com/vinitkumar/vinitkumar.github.com)
-5. 🎉 Merged PR [#43](https://github.com/vinitkumar/vinitkumar.github.com/pull/43) in [vinitkumar/vinitkumar.github.com](https://github.com/vinitkumar/vinitkumar.github.com)
+1. 💪 Opened PR [#355](https://github.com/vinitkumar/node-twitter/pull/355) in [vinitkumar/node-twitter](https://github.com/vinitkumar/node-twitter)
+2. 🎉 Merged PR [#220](https://github.com/vinitkumar/json2xml/pull/220) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
+3. 🎉 Merged PR [#354](https://github.com/vinitkumar/node-twitter/pull/354) in [vinitkumar/node-twitter](https://github.com/vinitkumar/node-twitter)
+4. 🎉 Merged PR [#41](https://github.com/vinitkumar/vinitkumar.github.com/pull/41) in [vinitkumar/vinitkumar.github.com](https://github.com/vinitkumar/vinitkumar.github.com)
+5. 🎉 Merged PR [#42](https://github.com/vinitkumar/vinitkumar.github.com/pull/42) in [vinitkumar/vinitkumar.github.com](https://github.com/vinitkumar/vinitkumar.github.com)
 <!--END_SECTION:activity-->

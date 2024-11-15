@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Staff Engineer at KidsKonnect backend Team and a Core Developer for Django CMS.
+I'm a Principal Engineer at ScaleFusion working on Go and Django CMS Fellow for Django CMS Foundation.
 
 I have expertise in Python, C, Go, Node.js/JavaScript, 
 PHP, TypeScript, and databases like Postgres, SQL Server, Redis, 

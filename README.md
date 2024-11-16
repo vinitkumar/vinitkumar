@@ -19,9 +19,9 @@ user interfaces using Tailwind and JavaScript.
 #### You can find my OSS work here:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#355](https://github.com/vinitkumar/node-twitter/pull/355) in [vinitkumar/node-twitter](https://github.com/vinitkumar/node-twitter)
-2. 🎉 Merged PR [#220](https://github.com/vinitkumar/json2xml/pull/220) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
-3. 🎉 Merged PR [#354](https://github.com/vinitkumar/node-twitter/pull/354) in [vinitkumar/node-twitter](https://github.com/vinitkumar/node-twitter)
-4. 🎉 Merged PR [#41](https://github.com/vinitkumar/vinitkumar.github.com/pull/41) in [vinitkumar/vinitkumar.github.com](https://github.com/vinitkumar/vinitkumar.github.com)
-5. 🎉 Merged PR [#42](https://github.com/vinitkumar/vinitkumar.github.com/pull/42) in [vinitkumar/vinitkumar.github.com](https://github.com/vinitkumar/vinitkumar.github.com)
+1. 🗣 Commented on [#6674](https://github.com/django-cms/django-cms/pull/6674#issuecomment-2479696900) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
+2. 🗣 Commented on [#5954](https://github.com/django-cms/django-cms/pull/5954#issuecomment-2479695315) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
+3. 💪 Opened PR [#355](https://github.com/vinitkumar/node-twitter/pull/355) in [vinitkumar/node-twitter](https://github.com/vinitkumar/node-twitter)
+4. 🎉 Merged PR [#220](https://github.com/vinitkumar/json2xml/pull/220) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
+5. 🎉 Merged PR [#354](https://github.com/vinitkumar/node-twitter/pull/354) in [vinitkumar/node-twitter](https://github.com/vinitkumar/node-twitter)
 <!--END_SECTION:activity-->

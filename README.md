@@ -19,9 +19,9 @@ user interfaces using Tailwind and JavaScript.
 #### You can find my OSS work here:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6674](https://github.com/django-cms/django-cms/pull/6674#issuecomment-2479696900) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
-2. 🗣 Commented on [#5954](https://github.com/django-cms/django-cms/pull/5954#issuecomment-2479695315) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
-3. 💪 Opened PR [#355](https://github.com/vinitkumar/node-twitter/pull/355) in [vinitkumar/node-twitter](https://github.com/vinitkumar/node-twitter)
-4. 🎉 Merged PR [#220](https://github.com/vinitkumar/json2xml/pull/220) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
-5. 🎉 Merged PR [#354](https://github.com/vinitkumar/node-twitter/pull/354) in [vinitkumar/node-twitter](https://github.com/vinitkumar/node-twitter)
+1. 🗣 Commented on [#8038](https://github.com/django-cms/django-cms/issues/8038#issuecomment-2479781858) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
+2. 🗣 Commented on [#7810](https://github.com/django-cms/django-cms/issues/7810#issuecomment-2479779719) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
+3. 🗣 Commented on [#7796](https://github.com/django-cms/django-cms/issues/7796#issuecomment-2479777762) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
+4. 🗣 Commented on [#7773](https://github.com/django-cms/django-cms/issues/7773#issuecomment-2479775756) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
+5. 🔒 Closed issue [#7773](https://github.com/django-cms/django-cms/issues/7773) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
 <!--END_SECTION:activity-->

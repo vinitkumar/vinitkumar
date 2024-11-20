@@ -19,9 +19,9 @@ user interfaces using Tailwind and JavaScript.
 #### You can find my OSS work here:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#125](https://github.com/django-cms/django-classy-tags/pull/125) in [django-cms/django-classy-tags](https://github.com/django-cms/django-classy-tags)
-2. 🎉 Merged PR [#126](https://github.com/django-cms/django-classy-tags/pull/126) in [django-cms/django-classy-tags](https://github.com/django-cms/django-classy-tags)
-3. 🎉 Merged PR [#129](https://github.com/django-cms/django-classy-tags/pull/129) in [django-cms/django-classy-tags](https://github.com/django-cms/django-classy-tags)
-4. 🎉 Merged PR [#131](https://github.com/django-cms/django-classy-tags/pull/131) in [django-cms/django-classy-tags](https://github.com/django-cms/django-classy-tags)
-5. 🗣 Commented on [#7840](https://github.com/django-cms/django-cms/issues/7840#issuecomment-2479794732) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
+1. 🗣 Commented on [#422](https://github.com/django-cms/djangocms-versioning/issues/422#issuecomment-2486526026) in [django-cms/djangocms-versioning](https://github.com/django-cms/djangocms-versioning)
+2. ❌ Closed PR [#123](https://github.com/django-cms/django-classy-tags/pull/123) in [django-cms/django-classy-tags](https://github.com/django-cms/django-classy-tags)
+3. ❌ Closed PR [#116](https://github.com/django-cms/django-classy-tags/pull/116) in [django-cms/django-classy-tags](https://github.com/django-cms/django-classy-tags)
+4. ❌ Closed PR [#113](https://github.com/django-cms/django-classy-tags/pull/113) in [django-cms/django-classy-tags](https://github.com/django-cms/django-classy-tags)
+5. ❌ Closed PR [#111](https://github.com/django-cms/django-classy-tags/pull/111) in [django-cms/django-classy-tags](https://github.com/django-cms/django-classy-tags)
 <!--END_SECTION:activity-->

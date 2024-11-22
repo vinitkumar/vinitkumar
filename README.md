@@ -1,14 +1,12 @@
 ### Hi there 👋
 
-I'm a Principal Engineer at ScaleFusion working on Go and Django CMS Fellow for Django CMS Foundation.
+I'm a Principal Engineer at [ScaleFusion](https://scalefusion.com/) working on Go and [Django CMS Fellow](https://www.django-cms.org/en/blog/2024/11/07/welcoming-vinit-kumar-as-the-newest-django-cms-fellow/) for Django CMS Foundation.
 
-I have expertise in Python, C, Go, Node.js/JavaScript, 
-PHP, TypeScript, and databases like Postgres, SQL Server, Redis, 
-SQLite, MongoDB, and Elasticsearch. 
+I am a polyglot programmer with significant expertise in Python, C, Go, JavaScript, & TypeScript.
+I have production experience with RDBMS like PostgreSQL, MySQL, Sqlite and MS SQL Server and NoSQL databases like Redis, MongoDB
+and building search engines using ElasticSearch.
 
-I'm skilled in cloud deployments across AWS, Google Cloud, 
-DigitalOcean, and Heroku, and specialize in crafting captivating 
-user interfaces using Tailwind and JavaScript. 
+I'm comfortable managing deployments to AWS, Google Cloud, DigitalOcean.
 
 #### Contact Information:
 

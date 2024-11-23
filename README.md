@@ -29,9 +29,9 @@ Principal Engineer at [ScaleFusion](https://scalefusion.com/), specializing in G
 #### You can find my OSS work here:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#57](https://github.com/django-cms/djangocms-attributes-field/pull/57) in [django-cms/djangocms-attributes-field](https://github.com/django-cms/djangocms-attributes-field)
-2. 🎉 Merged PR [#42](https://github.com/django-cms/djangocms-attributes-field/pull/42) in [django-cms/djangocms-attributes-field](https://github.com/django-cms/djangocms-attributes-field)
-3. 🗣 Commented on [#42](https://github.com/django-cms/djangocms-attributes-field/pull/42#issuecomment-2492732732) in [django-cms/djangocms-attributes-field](https://github.com/django-cms/djangocms-attributes-field)
-4. 🗣 Commented on [#42](https://github.com/django-cms/djangocms-attributes-field/pull/42#issuecomment-2492114425) in [django-cms/djangocms-attributes-field](https://github.com/django-cms/djangocms-attributes-field)
-5. 🎉 Merged PR [#68](https://github.com/django-cms/django-cms-quickstart/pull/68) in [django-cms/django-cms-quickstart](https://github.com/django-cms/django-cms-quickstart)
+1. 🎉 Merged PR [#57](https://github.com/django-cms/djangocms-attributes-field/pull/57) in [django-cms/djangocms-attributes-field](https://github.com/django-cms/djangocms-attributes-field)
+2. 💪 Opened PR [#57](https://github.com/django-cms/djangocms-attributes-field/pull/57) in [django-cms/djangocms-attributes-field](https://github.com/django-cms/djangocms-attributes-field)
+3. 🎉 Merged PR [#42](https://github.com/django-cms/djangocms-attributes-field/pull/42) in [django-cms/djangocms-attributes-field](https://github.com/django-cms/djangocms-attributes-field)
+4. 🗣 Commented on [#42](https://github.com/django-cms/djangocms-attributes-field/pull/42#issuecomment-2492732732) in [django-cms/djangocms-attributes-field](https://github.com/django-cms/djangocms-attributes-field)
+5. 🗣 Commented on [#42](https://github.com/django-cms/djangocms-attributes-field/pull/42#issuecomment-2492114425) in [django-cms/djangocms-attributes-field](https://github.com/django-cms/djangocms-attributes-field)
 <!--END_SECTION:activity-->

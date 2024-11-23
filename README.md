@@ -29,9 +29,9 @@ Principal Engineer at [ScaleFusion](https://scalefusion.com/), specializing in G
 #### You can find my OSS work here:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#75](https://github.com/vinitkumar/white-paper/pull/75) in [vinitkumar/white-paper](https://github.com/vinitkumar/white-paper)
-2. ❌ Closed PR [#72](https://github.com/vinitkumar/white-paper/pull/72) in [vinitkumar/white-paper](https://github.com/vinitkumar/white-paper)
-3. ❌ Closed PR [#71](https://github.com/vinitkumar/white-paper/pull/71) in [vinitkumar/white-paper](https://github.com/vinitkumar/white-paper)
-4. ❌ Closed PR [#70](https://github.com/vinitkumar/white-paper/pull/70) in [vinitkumar/white-paper](https://github.com/vinitkumar/white-paper)
-5. ❌ Closed PR [#65](https://github.com/vinitkumar/white-paper/pull/65) in [vinitkumar/white-paper](https://github.com/vinitkumar/white-paper)
+1. 💪 Opened PR [#42](https://github.com/django-cms/djangocms-transfer/pull/42) in [django-cms/djangocms-transfer](https://github.com/django-cms/djangocms-transfer)
+2. 🎉 Merged PR [#221](https://github.com/vinitkumar/json2xml/pull/221) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
+3. 🎉 Merged PR [#75](https://github.com/vinitkumar/white-paper/pull/75) in [vinitkumar/white-paper](https://github.com/vinitkumar/white-paper)
+4. ❌ Closed PR [#72](https://github.com/vinitkumar/white-paper/pull/72) in [vinitkumar/white-paper](https://github.com/vinitkumar/white-paper)
+5. ❌ Closed PR [#71](https://github.com/vinitkumar/white-paper/pull/71) in [vinitkumar/white-paper](https://github.com/vinitkumar/white-paper)
 <!--END_SECTION:activity-->

@@ -29,9 +29,9 @@ Principal Engineer at [ScaleFusion](https://scalefusion.com/), specializing in G
 #### You can find my OSS work here:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#42](https://github.com/django-cms/djangocms-transfer/pull/42) in [django-cms/djangocms-transfer](https://github.com/django-cms/djangocms-transfer)
-2. 💪 Opened PR [#42](https://github.com/django-cms/djangocms-transfer/pull/42) in [django-cms/djangocms-transfer](https://github.com/django-cms/djangocms-transfer)
-3. 🎉 Merged PR [#221](https://github.com/vinitkumar/json2xml/pull/221) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
-4. 🎉 Merged PR [#75](https://github.com/vinitkumar/white-paper/pull/75) in [vinitkumar/white-paper](https://github.com/vinitkumar/white-paper)
-5. ❌ Closed PR [#72](https://github.com/vinitkumar/white-paper/pull/72) in [vinitkumar/white-paper](https://github.com/vinitkumar/white-paper)
+1. 🔒 Closed issue [#67](https://github.com/vinitkumar/white-paper/issues/67) in [vinitkumar/white-paper](https://github.com/vinitkumar/white-paper)
+2. 🎉 Merged PR [#42](https://github.com/django-cms/djangocms-transfer/pull/42) in [django-cms/djangocms-transfer](https://github.com/django-cms/djangocms-transfer)
+3. 💪 Opened PR [#42](https://github.com/django-cms/djangocms-transfer/pull/42) in [django-cms/djangocms-transfer](https://github.com/django-cms/djangocms-transfer)
+4. 🎉 Merged PR [#221](https://github.com/vinitkumar/json2xml/pull/221) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
+5. 🎉 Merged PR [#75](https://github.com/vinitkumar/white-paper/pull/75) in [vinitkumar/white-paper](https://github.com/vinitkumar/white-paper)
 <!--END_SECTION:activity-->

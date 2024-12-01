@@ -29,9 +29,9 @@ Principal Engineer at [ScaleFusion](https://scalefusion.com/), specializing in G
 #### You can find my OSS work here:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#85](https://github.com/django-cms/djangocms-video/pull/85) in [django-cms/djangocms-video](https://github.com/django-cms/djangocms-video)
-2. 🎉 Merged PR [#135](https://github.com/django-cms/django-classy-tags/pull/135) in [django-cms/django-classy-tags](https://github.com/django-cms/django-classy-tags)
-3. 🎉 Merged PR [#174](https://github.com/django-cms/django-sekizai/pull/174) in [django-cms/django-sekizai](https://github.com/django-cms/django-sekizai)
-4. 🎉 Merged PR [#134](https://github.com/django-cms/django-classy-tags/pull/134) in [django-cms/django-classy-tags](https://github.com/django-cms/django-classy-tags)
-5. 🗣 Commented on [#8070](https://github.com/django-cms/django-cms/pull/8070#issuecomment-2505961501) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
+1. 🎉 Merged PR [#8070](https://github.com/django-cms/django-cms/pull/8070) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
+2. 💪 Opened PR [#85](https://github.com/django-cms/djangocms-video/pull/85) in [django-cms/djangocms-video](https://github.com/django-cms/djangocms-video)
+3. 🎉 Merged PR [#135](https://github.com/django-cms/django-classy-tags/pull/135) in [django-cms/django-classy-tags](https://github.com/django-cms/django-classy-tags)
+4. 🎉 Merged PR [#174](https://github.com/django-cms/django-sekizai/pull/174) in [django-cms/django-sekizai](https://github.com/django-cms/django-sekizai)
+5. 🎉 Merged PR [#134](https://github.com/django-cms/django-classy-tags/pull/134) in [django-cms/django-classy-tags](https://github.com/django-cms/django-classy-tags)
 <!--END_SECTION:activity-->

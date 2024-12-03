@@ -6,7 +6,7 @@ Principal Engineer at [ScaleFusion](https://scalefusion.com/), specializing in G
 
 ### Languages & Frameworks
 
-- Go, Python, TypeScript/JavaScript, C
+- Go, Python, TypeScript, JavaScript, C
 - Django, React, Node.js
 
 ### Database Technologies

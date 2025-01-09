@@ -29,9 +29,9 @@ Principal Engineer at [ScaleFusion](https://scalefusion.com/), specializing in G
 #### You can find my OSS work here:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#224](https://github.com/vinitkumar/json2xml/pull/224) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
-2. ❌ Closed PR [#222](https://github.com/vinitkumar/json2xml/pull/222) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
-3. 🎉 Merged PR [#223](https://github.com/vinitkumar/json2xml/pull/223) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
-4. 💪 Opened PR [#223](https://github.com/vinitkumar/json2xml/pull/223) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
-5. 🗣 Commented on [#167](https://github.com/django-cms/django-sekizai/pull/167#issuecomment-2547955238) in [django-cms/django-sekizai](https://github.com/django-cms/django-sekizai)
+1. 🎉 Merged PR [#225](https://github.com/vinitkumar/json2xml/pull/225) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
+2. 💪 Opened PR [#224](https://github.com/vinitkumar/json2xml/pull/224) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
+3. ❌ Closed PR [#222](https://github.com/vinitkumar/json2xml/pull/222) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
+4. 🎉 Merged PR [#223](https://github.com/vinitkumar/json2xml/pull/223) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
+5. 💪 Opened PR [#223](https://github.com/vinitkumar/json2xml/pull/223) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
 <!--END_SECTION:activity-->

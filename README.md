@@ -29,9 +29,9 @@ Principal Engineer at [ScaleFusion](https://scalefusion.com/), specializing in G
 #### You can find my OSS work here:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#364](https://github.com/vinitkumar/node-twitter/pull/364) in [vinitkumar/node-twitter](https://github.com/vinitkumar/node-twitter)
-2. 💪 Opened PR [#363](https://github.com/vinitkumar/node-twitter/pull/363) in [vinitkumar/node-twitter](https://github.com/vinitkumar/node-twitter)
-3. ❌ Closed PR [#357](https://github.com/vinitkumar/node-twitter/pull/357) in [vinitkumar/node-twitter](https://github.com/vinitkumar/node-twitter)
-4. ❌ Closed PR [#356](https://github.com/vinitkumar/node-twitter/pull/356) in [vinitkumar/node-twitter](https://github.com/vinitkumar/node-twitter)
-5. ❌ Closed PR [#355](https://github.com/vinitkumar/node-twitter/pull/355) in [vinitkumar/node-twitter](https://github.com/vinitkumar/node-twitter)
+1. 🎉 Merged PR [#8105](https://github.com/django-cms/django-cms/pull/8105) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
+2. 💪 Opened PR [#364](https://github.com/vinitkumar/node-twitter/pull/364) in [vinitkumar/node-twitter](https://github.com/vinitkumar/node-twitter)
+3. 💪 Opened PR [#363](https://github.com/vinitkumar/node-twitter/pull/363) in [vinitkumar/node-twitter](https://github.com/vinitkumar/node-twitter)
+4. ❌ Closed PR [#357](https://github.com/vinitkumar/node-twitter/pull/357) in [vinitkumar/node-twitter](https://github.com/vinitkumar/node-twitter)
+5. ❌ Closed PR [#356](https://github.com/vinitkumar/node-twitter/pull/356) in [vinitkumar/node-twitter](https://github.com/vinitkumar/node-twitter)
 <!--END_SECTION:activity-->

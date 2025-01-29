@@ -29,9 +29,9 @@ Principal Engineer at [ScaleFusion](https://scalefusion.com/), specializing in G
 #### You can find my OSS work here:
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#7974](https://github.com/django-cms/django-cms/issues/7974) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
-2. 🎉 Merged PR [#8118](https://github.com/django-cms/django-cms/pull/8118) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
-3. 🗣 Commented on [#8116](https://github.com/django-cms/django-cms/pull/8116#issuecomment-2608911012) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
-4. 🎉 Merged PR [#8105](https://github.com/django-cms/django-cms/pull/8105) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
-5. 💪 Opened PR [#364](https://github.com/vinitkumar/node-twitter/pull/364) in [vinitkumar/node-twitter](https://github.com/vinitkumar/node-twitter)
+1. 🗣 Commented on [#8115](https://github.com/django-cms/django-cms/pull/8115#issuecomment-2621449232) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
+2. 🔒 Closed issue [#7974](https://github.com/django-cms/django-cms/issues/7974) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
+3. 🎉 Merged PR [#8118](https://github.com/django-cms/django-cms/pull/8118) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
+4. 🗣 Commented on [#8116](https://github.com/django-cms/django-cms/pull/8116#issuecomment-2608911012) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
+5. 🎉 Merged PR [#8105](https://github.com/django-cms/django-cms/pull/8105) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
 <!--END_SECTION:activity-->

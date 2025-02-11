@@ -29,9 +29,9 @@ Principal Engineer at [ScaleFusion](https://scalefusion.com/), specializing in G
 #### You can find my OSS work here:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#226](https://github.com/vinitkumar/json2xml/pull/226) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
-2. 🎉 Merged PR [#8135](https://github.com/django-cms/django-cms/pull/8135) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
-3. 🔒 Closed issue [#8136](https://github.com/django-cms/django-cms/issues/8136) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
-4. 🎉 Merged PR [#8137](https://github.com/django-cms/django-cms/pull/8137) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
-5. 🎉 Merged PR [#112](https://github.com/vinitkumar/vinitkumar.me/pull/112) in [vinitkumar/vinitkumar.me](https://github.com/vinitkumar/vinitkumar.me)
+1. 🎉 Merged PR [#226](https://github.com/vinitkumar/json2xml/pull/226) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
+2. 💪 Opened PR [#226](https://github.com/vinitkumar/json2xml/pull/226) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
+3. 🎉 Merged PR [#8135](https://github.com/django-cms/django-cms/pull/8135) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
+4. 🔒 Closed issue [#8136](https://github.com/django-cms/django-cms/issues/8136) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
+5. 🎉 Merged PR [#8137](https://github.com/django-cms/django-cms/pull/8137) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
 <!--END_SECTION:activity-->

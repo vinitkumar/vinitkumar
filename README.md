@@ -29,9 +29,9 @@ Principal Engineer at [ScaleFusion](https://scalefusion.com/), specializing in G
 #### You can find my OSS work here:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7794](https://github.com/django-cms/django-cms/issues/7794#issuecomment-2676339429) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
-2. 🎉 Merged PR [#230](https://github.com/vinitkumar/json2xml/pull/230) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
-3. 💪 Opened PR [#230](https://github.com/vinitkumar/json2xml/pull/230) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
-4. 🎉 Merged PR [#229](https://github.com/vinitkumar/json2xml/pull/229) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
-5. 💪 Opened PR [#229](https://github.com/vinitkumar/json2xml/pull/229) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
+1. 🔒 Closed issue [#188](https://github.com/vinitkumar/json2xml/issues/188) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
+2. 🗣 Commented on [#187](https://github.com/vinitkumar/json2xml/issues/187#issuecomment-2676393534) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
+3. 🔒 Closed issue [#187](https://github.com/vinitkumar/json2xml/issues/187) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
+4. 🔒 Closed issue [#163](https://github.com/vinitkumar/json2xml/issues/163) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
+5. 🔒 Closed issue [#146](https://github.com/vinitkumar/json2xml/issues/146) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
 <!--END_SECTION:activity-->

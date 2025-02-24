@@ -29,9 +29,9 @@ Principal Engineer at [ScaleFusion](https://scalefusion.com/), specializing in G
 #### You can find my OSS work here:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#256](https://github.com/django-cms/djangocms-frontend/pull/256) in [django-cms/djangocms-frontend](https://github.com/django-cms/djangocms-frontend)
-2. 🎉 Merged PR [#8154](https://github.com/django-cms/django-cms/pull/8154) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
-3. 🎉 Merged PR [#8157](https://github.com/django-cms/django-cms/pull/8157) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
-4. 🔒 Closed issue [#188](https://github.com/vinitkumar/json2xml/issues/188) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
-5. 🗣 Commented on [#187](https://github.com/vinitkumar/json2xml/issues/187#issuecomment-2676393534) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
+1. 🎉 Merged PR [#254](https://github.com/django-cms/djangocms-frontend/pull/254) in [django-cms/djangocms-frontend](https://github.com/django-cms/djangocms-frontend)
+2. 🎉 Merged PR [#256](https://github.com/django-cms/djangocms-frontend/pull/256) in [django-cms/djangocms-frontend](https://github.com/django-cms/djangocms-frontend)
+3. 🎉 Merged PR [#8154](https://github.com/django-cms/django-cms/pull/8154) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
+4. 🎉 Merged PR [#8157](https://github.com/django-cms/django-cms/pull/8157) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
+5. 🔒 Closed issue [#188](https://github.com/vinitkumar/json2xml/issues/188) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
 <!--END_SECTION:activity-->

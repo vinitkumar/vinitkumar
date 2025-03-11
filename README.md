@@ -31,6 +31,8 @@ Principal Engineer at [ScaleFusion](https://scalefusion.com/), specializing in G
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [My Current Vim Setup in Terminal and GUI](https://vinitkumar.me/current-vim-setup/)
+- [Job Security](https://vinitkumar.me/job-security/)
 - [No Cross Posting In Foreseeable Future](https://vinitkumar.me/no-cross-posting/)
 - [Simple PDF joiner to Join PDF Files on Mac](https://vinitkumar.me/pdf-joiner/)
 - [Daily Blog Number 7](https://vinitkumar.me/daily-short-blog-7/)

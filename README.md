@@ -4,8 +4,8 @@ Principal Engineer at [ScaleFusion](https://scalefusion.com/), specializing in G
 
 ## Technical Expertise
 
-- Go, Python, TypeScript, JavaScript, C
-- Django, React, Node.js
+- Go, Python, Ruby, TypeScript, JavaScript, C
+- Django, Ruby on Rails, Express.js, React, Node.js
 - RDBMS: PostgreSQL, MySQL, SQLite, MS SQL Server
 - NoSQL: Redis, MongoDB
 - Search: Elasticsearch

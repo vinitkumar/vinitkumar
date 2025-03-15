@@ -31,6 +31,7 @@ Principal Engineer at [ScaleFusion](https://scalefusion.com/), specializing in G
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Pour Your Heart Into It](https://vinitkumar.me/pour-your-heart-into-it/)
 - [My Current Vim Setup in Terminal and GUI](https://vinitkumar.me/current-vim-setup/)
 - [Job Security](https://vinitkumar.me/job-security/)
 - [No Cross Posting In Foreseeable Future](https://vinitkumar.me/no-cross-posting/)
@@ -45,5 +46,4 @@ Principal Engineer at [ScaleFusion](https://scalefusion.com/), specializing in G
 - [How I use AI in my day to day life](https://vinitkumar.me/how-i-use-ai/)
 - [2024 in Review](https://vinitkumar.me/2024-a-review/)
 - [How to Generate A Fat Binary For Mac](https://vinitkumar.me/how-to-generate-fat-binary-mac/)
-- [How To Implement Multi Way Data Sync in Obsidian](https://vinitkumar.me/implement-multi-way-sync-obsidian/)
 <!-- BLOG-POST-LIST:END -->

@@ -22,11 +22,11 @@ Principal Engineer at [ScaleFusion](https://scalefusion.com/), specializing in G
 #### Recent OSS Activity:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#457](https://github.com/django-cms/djangocms-versioning/pull/457) in [django-cms/djangocms-versioning](https://github.com/django-cms/djangocms-versioning)
-2. 🎉 Merged PR [#8178](https://github.com/django-cms/django-cms/pull/8178) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
-3. 💪 Opened PR [#7](https://github.com/gotchacode/chatbot/pull/7) in [gotchacode/chatbot](https://github.com/gotchacode/chatbot)
-4. 🗣 Commented on [#1518](https://github.com/django-cms/django-filer/pull/1518#issuecomment-2711354015) in [django-cms/django-filer](https://github.com/django-cms/django-filer)
-5. 🎉 Merged PR [#8175](https://github.com/django-cms/django-cms/pull/8175) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
+1. 🔒 Closed issue [#8180](https://github.com/django-cms/django-cms/issues/8180) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
+2. 🎉 Merged PR [#8181](https://github.com/django-cms/django-cms/pull/8181) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
+3. 🎉 Merged PR [#457](https://github.com/django-cms/djangocms-versioning/pull/457) in [django-cms/djangocms-versioning](https://github.com/django-cms/djangocms-versioning)
+4. 🎉 Merged PR [#8178](https://github.com/django-cms/django-cms/pull/8178) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
+5. 💪 Opened PR [#7](https://github.com/gotchacode/chatbot/pull/7) in [gotchacode/chatbot](https://github.com/gotchacode/chatbot)
 <!--END_SECTION:activity-->
 
 # Blog posts

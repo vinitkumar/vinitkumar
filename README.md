@@ -4,14 +4,15 @@ Principal Engineer at [ScaleFusion](https://scalefusion.com/), specializing in G
 
 ## Technical Expertise
 
-- Go, Python, Ruby, TypeScript, JavaScript, C
-- Django, Ruby on Rails, Express.js, React, Node.js
-- RDBMS: PostgreSQL, MySQL, SQLite, MS SQL Server
+- Languages: Go, Python, Ruby, TypeScript, JavaScript, C
+- Frameworks: Django, Ruby on Rails, Express.js, React.js, Node.js
+- Databases: RDBMS: PostgreSQL, MySQL, SQLite, Microsoft SQL Server
 - NoSQL: Redis, MongoDB
 - Search: Elasticsearch
-- AWS, Google Cloud Platform, DigitalOcean
-- Container orchestration with Kubernetes & Docker Swarm
-- CI/CD pipeline design and implementation
+- Cloud: AWS, Google Cloud Platform, DigitalOcean
+- Containers: Container orchestration with Kubernetes & Docker Swarm
+- DevOps: CI/CD pipeline design and implementation
+
 
 #### Contact Information:
 

@@ -32,6 +32,7 @@ Principal Engineer at [ScaleFusion](https://scalefusion.com/), specializing in G
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Oscura Vim - My New Favorite Dark Theme](https://vinitkumar.me/oscura-vim/)
 - [Mission Statement of Thorstel Ball](https://vinitkumar.me/thorsten-mission-statement/)
 - [Pour Your Heart Into It](https://vinitkumar.me/pour-your-heart-into-it/)
 - [Job Security](https://vinitkumar.me/job-security/)
@@ -46,5 +47,4 @@ Principal Engineer at [ScaleFusion](https://scalefusion.com/), specializing in G
 - [Daily Blog Number 2](https://vinitkumar.me/daily-short-blog-2/)
 - [Daily Blog Number 1](https://vinitkumar.me/daily-short-blog-1/)
 - [How I use AI in my day to day life](https://vinitkumar.me/how-i-use-ai/)
-- [2024 in Review](https://vinitkumar.me/2024-a-review/)
 <!-- BLOG-POST-LIST:END -->

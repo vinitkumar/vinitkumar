@@ -23,11 +23,11 @@ Principal Engineer at [ScaleFusion](https://scalefusion.com/), specializing in G
 #### Recent OSS Activity:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8191](https://github.com/django-cms/django-cms/pull/8191) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
-2. 🗣 Commented on [#1](https://github.com/vinitkumar/oscura-vim/issues/1#issuecomment-2758816334) in [vinitkumar/oscura-vim](https://github.com/vinitkumar/oscura-vim)
-3. 💪 Opened PR [#2](https://github.com/vinitkumar/oscura-vim/pull/2) in [vinitkumar/oscura-vim](https://github.com/vinitkumar/oscura-vim)
-4. 🎉 Merged PR [#8188](https://github.com/django-cms/django-cms/pull/8188) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
-5. 🎉 Merged PR [#8183](https://github.com/django-cms/django-cms/pull/8183) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
+1. 🚀 Published release [1.0.0 Release](https://github.com/vinitkumar/oscura-vim/releases/tag/1.0.0) in [vinitkumar/oscura-vim](https://github.com/vinitkumar/oscura-vim)
+2. 🎉 Merged PR [#8191](https://github.com/django-cms/django-cms/pull/8191) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
+3. 🗣 Commented on [#1](https://github.com/vinitkumar/oscura-vim/issues/1#issuecomment-2758816334) in [vinitkumar/oscura-vim](https://github.com/vinitkumar/oscura-vim)
+4. 💪 Opened PR [#2](https://github.com/vinitkumar/oscura-vim/pull/2) in [vinitkumar/oscura-vim](https://github.com/vinitkumar/oscura-vim)
+5. 🎉 Merged PR [#8188](https://github.com/django-cms/django-cms/pull/8188) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
 <!--END_SECTION:activity-->
 
 # Blog posts

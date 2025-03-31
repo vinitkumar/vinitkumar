@@ -23,11 +23,11 @@ Principal Engineer at [ScaleFusion](https://scalefusion.com/), specializing in G
 #### Recent OSS Activity:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#228](https://github.com/vinitkumar/json2xml/issues/228#issuecomment-2764410063) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
-2. 🎉 Merged PR [#231](https://github.com/vinitkumar/json2xml/pull/231) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
-3. 💪 Opened PR [#231](https://github.com/vinitkumar/json2xml/pull/231) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
-4. 🚀 Published release [1.0.0 Release](https://github.com/vinitkumar/oscura-vim/releases/tag/1.0.0) in [vinitkumar/oscura-vim](https://github.com/vinitkumar/oscura-vim)
-5. 🎉 Merged PR [#8191](https://github.com/django-cms/django-cms/pull/8191) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
+1. 🔒 Closed issue [#8193](https://github.com/django-cms/django-cms/issues/8193) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
+2. 🎉 Merged PR [#8194](https://github.com/django-cms/django-cms/pull/8194) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
+3. 🗣 Commented on [#228](https://github.com/vinitkumar/json2xml/issues/228#issuecomment-2764410063) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
+4. 🎉 Merged PR [#231](https://github.com/vinitkumar/json2xml/pull/231) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
+5. 💪 Opened PR [#231](https://github.com/vinitkumar/json2xml/pull/231) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
 <!--END_SECTION:activity-->
 
 # Blog posts

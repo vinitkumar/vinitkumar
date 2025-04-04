@@ -23,11 +23,11 @@ Principal Engineer at [ScaleFusion](https://scalefusion.com/), specializing in G
 #### Recent OSS Activity:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8196](https://github.com/django-cms/django-cms/pull/8196) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
-2. 💪 Opened PR [#389](https://github.com/kagisearch/smallweb/pull/389) in [kagisearch/smallweb](https://github.com/kagisearch/smallweb)
-3. 💪 Opened PR [#1](https://github.com/vinitkumar/smallweb/pull/1) in [vinitkumar/smallweb](https://github.com/vinitkumar/smallweb)
-4. 🗣 Commented on [#1](https://github.com/vinitkumar/oscura-vim/issues/1#issuecomment-2776607517) in [vinitkumar/oscura-vim](https://github.com/vinitkumar/oscura-vim)
-5. 🔒 Closed issue [#1](https://github.com/vinitkumar/oscura-vim/issues/1) in [vinitkumar/oscura-vim](https://github.com/vinitkumar/oscura-vim)
+1. 🗣 Commented on [#389](https://github.com/kagisearch/smallweb/pull/389#issuecomment-2779546288) in [kagisearch/smallweb](https://github.com/kagisearch/smallweb)
+2. 🎉 Merged PR [#8196](https://github.com/django-cms/django-cms/pull/8196) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
+3. 💪 Opened PR [#389](https://github.com/kagisearch/smallweb/pull/389) in [kagisearch/smallweb](https://github.com/kagisearch/smallweb)
+4. 💪 Opened PR [#1](https://github.com/vinitkumar/smallweb/pull/1) in [vinitkumar/smallweb](https://github.com/vinitkumar/smallweb)
+5. 🗣 Commented on [#1](https://github.com/vinitkumar/oscura-vim/issues/1#issuecomment-2776607517) in [vinitkumar/oscura-vim](https://github.com/vinitkumar/oscura-vim)
 <!--END_SECTION:activity-->
 
 # Blog posts

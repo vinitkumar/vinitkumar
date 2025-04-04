@@ -23,11 +23,11 @@ Principal Engineer at [ScaleFusion](https://scalefusion.com/), specializing in G
 #### Recent OSS Activity:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/vinitkumar/oscura-vim/issues/1#issuecomment-2776607517) in [vinitkumar/oscura-vim](https://github.com/vinitkumar/oscura-vim)
-2. 🔒 Closed issue [#1](https://github.com/vinitkumar/oscura-vim/issues/1) in [vinitkumar/oscura-vim](https://github.com/vinitkumar/oscura-vim)
-3. ❌ Closed PR [#233](https://github.com/vinitkumar/json2xml/pull/233) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
-4. 🎉 Merged PR [#232](https://github.com/vinitkumar/json2xml/pull/232) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
-5. 🗣 Commented on [#8017](https://github.com/django-cms/django-cms/pull/8017#issuecomment-2768665332) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
+1. 💪 Opened PR [#1](https://github.com/vinitkumar/smallweb/pull/1) in [vinitkumar/smallweb](https://github.com/vinitkumar/smallweb)
+2. 🗣 Commented on [#1](https://github.com/vinitkumar/oscura-vim/issues/1#issuecomment-2776607517) in [vinitkumar/oscura-vim](https://github.com/vinitkumar/oscura-vim)
+3. 🔒 Closed issue [#1](https://github.com/vinitkumar/oscura-vim/issues/1) in [vinitkumar/oscura-vim](https://github.com/vinitkumar/oscura-vim)
+4. ❌ Closed PR [#233](https://github.com/vinitkumar/json2xml/pull/233) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
+5. 🎉 Merged PR [#232](https://github.com/vinitkumar/json2xml/pull/232) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
 <!--END_SECTION:activity-->
 
 # Blog posts

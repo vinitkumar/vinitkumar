@@ -23,11 +23,11 @@ Principal Engineer at [ScaleFusion](https://scalefusion.com/), specializing in G
 #### Recent OSS Activity:
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/vinitkumar/smallweb/pull/1) in [vinitkumar/smallweb](https://github.com/vinitkumar/smallweb)
-2. 🎉 Merged PR [#8198](https://github.com/django-cms/django-cms/pull/8198) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
-3. 🗣 Commented on [#389](https://github.com/kagisearch/smallweb/pull/389#issuecomment-2779546288) in [kagisearch/smallweb](https://github.com/kagisearch/smallweb)
-4. 🎉 Merged PR [#8196](https://github.com/django-cms/django-cms/pull/8196) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
-5. 💪 Opened PR [#389](https://github.com/kagisearch/smallweb/pull/389) in [kagisearch/smallweb](https://github.com/kagisearch/smallweb)
+1. 💪 Opened PR [#1516](https://github.com/lobsters/lobsters/pull/1516) in [lobsters/lobsters](https://github.com/lobsters/lobsters)
+2. ❌ Closed PR [#1](https://github.com/vinitkumar/smallweb/pull/1) in [vinitkumar/smallweb](https://github.com/vinitkumar/smallweb)
+3. 🎉 Merged PR [#8198](https://github.com/django-cms/django-cms/pull/8198) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
+4. 🗣 Commented on [#389](https://github.com/kagisearch/smallweb/pull/389#issuecomment-2779546288) in [kagisearch/smallweb](https://github.com/kagisearch/smallweb)
+5. 🎉 Merged PR [#8196](https://github.com/django-cms/django-cms/pull/8196) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
 <!--END_SECTION:activity-->
 
 # Blog posts

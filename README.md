@@ -23,11 +23,11 @@ Principal Engineer at [ScaleFusion](https://scalefusion.com/), specializing in G
 #### Recent OSS Activity:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1516](https://github.com/lobsters/lobsters/pull/1516) in [lobsters/lobsters](https://github.com/lobsters/lobsters)
-2. ❌ Closed PR [#1](https://github.com/vinitkumar/smallweb/pull/1) in [vinitkumar/smallweb](https://github.com/vinitkumar/smallweb)
-3. 🎉 Merged PR [#8198](https://github.com/django-cms/django-cms/pull/8198) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
-4. 🗣 Commented on [#389](https://github.com/kagisearch/smallweb/pull/389#issuecomment-2779546288) in [kagisearch/smallweb](https://github.com/kagisearch/smallweb)
-5. 🎉 Merged PR [#8196](https://github.com/django-cms/django-cms/pull/8196) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
+1. 💪 Opened PR [#234](https://github.com/vinitkumar/json2xml/pull/234) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
+2. 🔒 Closed issue [#1522](https://github.com/django-cms/django-filer/issues/1522) in [django-cms/django-filer](https://github.com/django-cms/django-filer)
+3. 🎉 Merged PR [#1523](https://github.com/django-cms/django-filer/pull/1523) in [django-cms/django-filer](https://github.com/django-cms/django-filer)
+4. 💪 Opened PR [#1516](https://github.com/lobsters/lobsters/pull/1516) in [lobsters/lobsters](https://github.com/lobsters/lobsters)
+5. ❌ Closed PR [#1](https://github.com/vinitkumar/smallweb/pull/1) in [vinitkumar/smallweb](https://github.com/vinitkumar/smallweb)
 <!--END_SECTION:activity-->
 
 # Blog posts

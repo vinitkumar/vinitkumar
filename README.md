@@ -23,11 +23,11 @@ Principal Engineer at [ScaleFusion](https://scalefusion.com/), specializing in G
 #### Recent OSS Activity:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8220](https://github.com/django-cms/django-cms/pull/8220) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
-2. 💪 Opened PR [#237](https://github.com/vinitkumar/json2xml/pull/237) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
-3. 💪 Opened PR [#303](https://github.com/vinitkumar/googlecl/pull/303) in [vinitkumar/googlecl](https://github.com/vinitkumar/googlecl)
-4. 🗣 Commented on [#143](https://github.com/django-cms/djangocms-picture/pull/143#issuecomment-2857441457) in [django-cms/djangocms-picture](https://github.com/django-cms/djangocms-picture)
-5. 🎉 Merged PR [#8219](https://github.com/django-cms/django-cms/pull/8219) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
+1. 🎉 Merged PR [#465](https://github.com/django-cms/djangocms-versioning/pull/465) in [django-cms/djangocms-versioning](https://github.com/django-cms/djangocms-versioning)
+2. 🎉 Merged PR [#8220](https://github.com/django-cms/django-cms/pull/8220) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
+3. 💪 Opened PR [#237](https://github.com/vinitkumar/json2xml/pull/237) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
+4. 💪 Opened PR [#303](https://github.com/vinitkumar/googlecl/pull/303) in [vinitkumar/googlecl](https://github.com/vinitkumar/googlecl)
+5. 🗣 Commented on [#143](https://github.com/django-cms/djangocms-picture/pull/143#issuecomment-2857441457) in [django-cms/djangocms-picture](https://github.com/django-cms/djangocms-picture)
 <!--END_SECTION:activity-->
 
 # Blog posts

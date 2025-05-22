@@ -23,11 +23,11 @@ Principal Engineer at [ScaleFusion](https://scalefusion.com/), specializing in G
 #### Recent OSS Activity:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/vinitkumar/pdf-joiner/pull/2) in [vinitkumar/pdf-joiner](https://github.com/vinitkumar/pdf-joiner)
-2. 💪 Opened PR [#2](https://github.com/vinitkumar/pdf-joiner/pull/2) in [vinitkumar/pdf-joiner](https://github.com/vinitkumar/pdf-joiner)
-3. 🔒 Closed issue [#7774](https://github.com/django-cms/django-cms/issues/7774) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
-4. 🎉 Merged PR [#8222](https://github.com/django-cms/django-cms/pull/8222) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
-5. 🎉 Merged PR [#8233](https://github.com/django-cms/django-cms/pull/8233) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
+1. 🚀 Published release [1.1.0](https://github.com/vinitkumar/pdf-joiner/releases/tag/1.1.0) in [vinitkumar/pdf-joiner](https://github.com/vinitkumar/pdf-joiner)
+2. 🎉 Merged PR [#2](https://github.com/vinitkumar/pdf-joiner/pull/2) in [vinitkumar/pdf-joiner](https://github.com/vinitkumar/pdf-joiner)
+3. 💪 Opened PR [#2](https://github.com/vinitkumar/pdf-joiner/pull/2) in [vinitkumar/pdf-joiner](https://github.com/vinitkumar/pdf-joiner)
+4. 🔒 Closed issue [#7774](https://github.com/django-cms/django-cms/issues/7774) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
+5. 🎉 Merged PR [#8222](https://github.com/django-cms/django-cms/pull/8222) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
 <!--END_SECTION:activity-->
 
 # Blog posts

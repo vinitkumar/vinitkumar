@@ -23,11 +23,11 @@ Principal Engineer at [ScaleFusion](https://scalefusion.com/), specializing in G
 #### Recent OSS Activity:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6687](https://github.com/django-cms/django-cms/issues/6687#issuecomment-2906984205) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
-2. 🚀 Published release [1.1.0](https://github.com/vinitkumar/pdf-joiner/releases/tag/1.1.0) in [vinitkumar/pdf-joiner](https://github.com/vinitkumar/pdf-joiner)
-3. 🎉 Merged PR [#2](https://github.com/vinitkumar/pdf-joiner/pull/2) in [vinitkumar/pdf-joiner](https://github.com/vinitkumar/pdf-joiner)
-4. 💪 Opened PR [#2](https://github.com/vinitkumar/pdf-joiner/pull/2) in [vinitkumar/pdf-joiner](https://github.com/vinitkumar/pdf-joiner)
-5. 🔒 Closed issue [#7774](https://github.com/django-cms/django-cms/issues/7774) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
+1. ❌ Closed PR [#237](https://github.com/vinitkumar/json2xml/pull/237) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
+2. 🎉 Merged PR [#238](https://github.com/vinitkumar/json2xml/pull/238) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
+3. 🗣 Commented on [#6687](https://github.com/django-cms/django-cms/issues/6687#issuecomment-2906984205) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
+4. 🚀 Published release [1.1.0](https://github.com/vinitkumar/pdf-joiner/releases/tag/1.1.0) in [vinitkumar/pdf-joiner](https://github.com/vinitkumar/pdf-joiner)
+5. 🎉 Merged PR [#2](https://github.com/vinitkumar/pdf-joiner/pull/2) in [vinitkumar/pdf-joiner](https://github.com/vinitkumar/pdf-joiner)
 <!--END_SECTION:activity-->
 
 # Blog posts

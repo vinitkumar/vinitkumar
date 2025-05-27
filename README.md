@@ -32,14 +32,14 @@ Principal Engineer at [ScaleFusion](https://scalefusion.com/), specializing in G
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How To Code Like Antirez, The Creator of Redis](https://vinitkumar.me/code-like-antirez/)
-- [AI Workflow](https://vinitkumar.me/ai-workflow/)
+- [Redis Creator&#39;s Code Philosophy: 10 Programming Principles from Antirez](https://vinitkumar.me/code-like-antirez/)
+- [Balancing AI Tools in Development: A Practical Workflow Guide](https://vinitkumar.me/ai-workflow/)
 - [Natural Coder](https://vinitkumar.me/natural-coder/)
 - [Oscura Vim - My New Favorite Dark Theme](https://vinitkumar.me/oscura-vim/)
 - [Mission Statement of Thorstel Ball](https://vinitkumar.me/thorsten-mission-statement/)
 - [Pour Your Heart Into It](https://vinitkumar.me/pour-your-heart-into-it/)
-- [My Current Vim Setup in Terminal and GUI](https://vinitkumar.me/current-vim-setup/)
 - [Job Security](https://vinitkumar.me/job-security/)
+- [Professional Vim Configuration: Terminal and GUI Setup for Modern Development](https://vinitkumar.me/current-vim-setup/)
 - [No Cross Posting In Foreseeable Future](https://vinitkumar.me/no-cross-posting/)
 - [Simple PDF joiner to Join PDF Files on Mac](https://vinitkumar.me/pdf-joiner/)
 - [Daily Blog Number 7](https://vinitkumar.me/daily-short-blog-7/)

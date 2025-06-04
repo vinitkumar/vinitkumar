@@ -32,6 +32,7 @@ Principal Engineer at [ScaleFusion](https://scalefusion.com/), specializing in G
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Future of Error Handling in Go Notes](https://vinitkumar.me/go-error-handling/)
 - [Redis Creator&#39;s Code Philosophy: 10 Programming Principles from Antirez](https://vinitkumar.me/code-like-antirez/)
 - [Balancing AI Tools in Development: A Practical Workflow Guide](https://vinitkumar.me/ai-workflow/)
 - [Natural Coder](https://vinitkumar.me/natural-coder/)
@@ -46,5 +47,4 @@ Principal Engineer at [ScaleFusion](https://scalefusion.com/), specializing in G
 - [Daily Blog Number 6](https://vinitkumar.me/daily-short-blog-6/)
 - [Daily Blog Number 5](https://vinitkumar.me/daily-short-blog-5/)
 - [Daily Blog Number 4](https://vinitkumar.me/daily-short-blog-4/)
-- [Daily Blog Number 3](https://vinitkumar.me/daily-short-blog-3/)
 <!-- BLOG-POST-LIST:END -->

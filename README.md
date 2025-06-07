@@ -23,11 +23,11 @@ Principal Engineer at [ScaleFusion](https://scalefusion.com/), specializing in G
 #### Recent OSS Activity:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#28](https://github.com/vinitkumar/dark-paper/pull/28) in [vinitkumar/dark-paper](https://github.com/vinitkumar/dark-paper)
-2. 🎉 Merged PR [#118](https://github.com/vinitkumar/vinitkumar.me/pull/118) in [vinitkumar/vinitkumar.me](https://github.com/vinitkumar/vinitkumar.me)
-3. 💪 Opened PR [#118](https://github.com/vinitkumar/vinitkumar.me/pull/118) in [vinitkumar/vinitkumar.me](https://github.com/vinitkumar/vinitkumar.me)
-4. ❌ Closed PR [#237](https://github.com/vinitkumar/json2xml/pull/237) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
-5. 🎉 Merged PR [#238](https://github.com/vinitkumar/json2xml/pull/238) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
+1. 🗣 Commented on [#9103](https://github.com/astral-sh/ruff/issues/9103#issuecomment-2949148529) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+2. 💪 Opened PR [#28](https://github.com/vinitkumar/dark-paper/pull/28) in [vinitkumar/dark-paper](https://github.com/vinitkumar/dark-paper)
+3. 🎉 Merged PR [#118](https://github.com/vinitkumar/vinitkumar.me/pull/118) in [vinitkumar/vinitkumar.me](https://github.com/vinitkumar/vinitkumar.me)
+4. 💪 Opened PR [#118](https://github.com/vinitkumar/vinitkumar.me/pull/118) in [vinitkumar/vinitkumar.me](https://github.com/vinitkumar/vinitkumar.me)
+5. ❌ Closed PR [#237](https://github.com/vinitkumar/json2xml/pull/237) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
 <!--END_SECTION:activity-->
 
 # Blog posts

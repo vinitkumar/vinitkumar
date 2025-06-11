@@ -49,11 +49,11 @@ If you appreciate my open source work, please consider donating on [GitHub Spons
 #### Recent OSS Activity:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9103](https://github.com/astral-sh/ruff/issues/9103#issuecomment-2949266659) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-2. 🗣 Commented on [#9103](https://github.com/astral-sh/ruff/issues/9103#issuecomment-2949148529) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
-3. 💪 Opened PR [#28](https://github.com/vinitkumar/dark-paper/pull/28) in [vinitkumar/dark-paper](https://github.com/vinitkumar/dark-paper)
-4. 🎉 Merged PR [#118](https://github.com/vinitkumar/vinitkumar.me/pull/118) in [vinitkumar/vinitkumar.me](https://github.com/vinitkumar/vinitkumar.me)
-5. 💪 Opened PR [#118](https://github.com/vinitkumar/vinitkumar.me/pull/118) in [vinitkumar/vinitkumar.me](https://github.com/vinitkumar/vinitkumar.me)
+1. ❗ Opened issue [#3](https://github.com/vinitkumar/pdf-joiner/issues/3) in [vinitkumar/pdf-joiner](https://github.com/vinitkumar/pdf-joiner)
+2. 🗣 Commented on [#9103](https://github.com/astral-sh/ruff/issues/9103#issuecomment-2949266659) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+3. 🗣 Commented on [#9103](https://github.com/astral-sh/ruff/issues/9103#issuecomment-2949148529) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+4. 💪 Opened PR [#28](https://github.com/vinitkumar/dark-paper/pull/28) in [vinitkumar/dark-paper](https://github.com/vinitkumar/dark-paper)
+5. 🎉 Merged PR [#118](https://github.com/vinitkumar/vinitkumar.me/pull/118) in [vinitkumar/vinitkumar.me](https://github.com/vinitkumar/vinitkumar.me)
 <!--END_SECTION:activity-->
 
 # Blog posts

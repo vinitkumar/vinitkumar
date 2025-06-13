@@ -49,11 +49,11 @@ If you appreciate my open source work, please consider donating on [GitHub Spons
 #### Recent OSS Activity:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#236](https://github.com/vinitkumar/json2xml/pull/236) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
-2. 🎉 Merged PR [#239](https://github.com/vinitkumar/json2xml/pull/239) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
-3. 💪 Opened PR [#240](https://github.com/vinitkumar/json2xml/pull/240) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
-4. ❗ Opened issue [#3](https://github.com/vinitkumar/pdf-joiner/issues/3) in [vinitkumar/pdf-joiner](https://github.com/vinitkumar/pdf-joiner)
-5. 🗣 Commented on [#9103](https://github.com/astral-sh/ruff/issues/9103#issuecomment-2949266659) in [astral-sh/ruff](https://github.com/astral-sh/ruff)
+1. 🔒 Closed issue [#199](https://github.com/vinitkumar/json2xml/issues/199) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
+2. 🎉 Merged PR [#242](https://github.com/vinitkumar/json2xml/pull/242) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
+3. 💪 Opened PR [#242](https://github.com/vinitkumar/json2xml/pull/242) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
+4. 🎉 Merged PR [#236](https://github.com/vinitkumar/json2xml/pull/236) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
+5. 🎉 Merged PR [#239](https://github.com/vinitkumar/json2xml/pull/239) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
 <!--END_SECTION:activity-->
 
 # Blog posts

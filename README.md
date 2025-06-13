@@ -49,11 +49,11 @@ If you appreciate my open source work, please consider donating on [GitHub Spons
 #### Recent OSS Activity:
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v5.1.0](https://github.com/vinitkumar/json2xml/releases/tag/v5.1.0) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
-2. 🗣 Commented on [#199](https://github.com/vinitkumar/json2xml/issues/199#issuecomment-2967457471) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
-3. 🔒 Closed issue [#199](https://github.com/vinitkumar/json2xml/issues/199) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
-4. 🎉 Merged PR [#242](https://github.com/vinitkumar/json2xml/pull/242) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
-5. 💪 Opened PR [#242](https://github.com/vinitkumar/json2xml/pull/242) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
+1. 🗣 Commented on [#196](https://github.com/vinitkumar/json2xml/issues/196#issuecomment-2968142746) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
+2. 🔒 Closed issue [#196](https://github.com/vinitkumar/json2xml/issues/196) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
+3. 🚀 Published release [v5.1.0](https://github.com/vinitkumar/json2xml/releases/tag/v5.1.0) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
+4. 🗣 Commented on [#199](https://github.com/vinitkumar/json2xml/issues/199#issuecomment-2967457471) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
+5. 🔒 Closed issue [#199](https://github.com/vinitkumar/json2xml/issues/199) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
 <!--END_SECTION:activity-->
 
 # Blog posts

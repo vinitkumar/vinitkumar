@@ -49,11 +49,11 @@ If you appreciate my open source work, please consider donating on [GitHub Spons
 #### Recent OSS Activity:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#244](https://github.com/vinitkumar/json2xml/pull/244) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
-2. 🗣 Commented on [#4](https://github.com/vinitkumar/pdf-joiner/pull/4#issuecomment-2986823017) in [vinitkumar/pdf-joiner](https://github.com/vinitkumar/pdf-joiner)
-3. 🎉 Merged PR [#4](https://github.com/vinitkumar/pdf-joiner/pull/4) in [vinitkumar/pdf-joiner](https://github.com/vinitkumar/pdf-joiner)
-4. 💪 Opened PR [#4](https://github.com/vinitkumar/pdf-joiner/pull/4) in [vinitkumar/pdf-joiner](https://github.com/vinitkumar/pdf-joiner)
-5. 🎉 Merged PR [#8254](https://github.com/django-cms/django-cms/pull/8254) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
+1. 💪 Opened PR [#304](https://github.com/vinitkumar/googlecl/pull/304) in [vinitkumar/googlecl](https://github.com/vinitkumar/googlecl)
+2. 🎉 Merged PR [#244](https://github.com/vinitkumar/json2xml/pull/244) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
+3. 🗣 Commented on [#4](https://github.com/vinitkumar/pdf-joiner/pull/4#issuecomment-2986823017) in [vinitkumar/pdf-joiner](https://github.com/vinitkumar/pdf-joiner)
+4. 🎉 Merged PR [#4](https://github.com/vinitkumar/pdf-joiner/pull/4) in [vinitkumar/pdf-joiner](https://github.com/vinitkumar/pdf-joiner)
+5. 💪 Opened PR [#4](https://github.com/vinitkumar/pdf-joiner/pull/4) in [vinitkumar/pdf-joiner](https://github.com/vinitkumar/pdf-joiner)
 <!--END_SECTION:activity-->
 
 # Blog posts

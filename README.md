@@ -49,11 +49,11 @@ If you appreciate my open source work, please consider donating on [GitHub Spons
 #### Recent OSS Activity:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#304](https://github.com/vinitkumar/googlecl/pull/304) in [vinitkumar/googlecl](https://github.com/vinitkumar/googlecl)
-2. 🎉 Merged PR [#244](https://github.com/vinitkumar/json2xml/pull/244) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
-3. 🗣 Commented on [#4](https://github.com/vinitkumar/pdf-joiner/pull/4#issuecomment-2986823017) in [vinitkumar/pdf-joiner](https://github.com/vinitkumar/pdf-joiner)
-4. 🎉 Merged PR [#4](https://github.com/vinitkumar/pdf-joiner/pull/4) in [vinitkumar/pdf-joiner](https://github.com/vinitkumar/pdf-joiner)
-5. 💪 Opened PR [#4](https://github.com/vinitkumar/pdf-joiner/pull/4) in [vinitkumar/pdf-joiner](https://github.com/vinitkumar/pdf-joiner)
+1. 💪 Opened PR [#370](https://github.com/vinitkumar/node-twitter/pull/370) in [vinitkumar/node-twitter](https://github.com/vinitkumar/node-twitter)
+2. 💪 Opened PR [#13](https://github.com/vinitkumar/algorithms/pull/13) in [vinitkumar/algorithms](https://github.com/vinitkumar/algorithms)
+3. 💪 Opened PR [#304](https://github.com/vinitkumar/googlecl/pull/304) in [vinitkumar/googlecl](https://github.com/vinitkumar/googlecl)
+4. 🎉 Merged PR [#244](https://github.com/vinitkumar/json2xml/pull/244) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
+5. 🗣 Commented on [#4](https://github.com/vinitkumar/pdf-joiner/pull/4#issuecomment-2986823017) in [vinitkumar/pdf-joiner](https://github.com/vinitkumar/pdf-joiner)
 <!--END_SECTION:activity-->
 
 # Blog posts

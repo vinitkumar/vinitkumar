@@ -49,11 +49,11 @@ If you appreciate my open source work, please consider donating on [GitHub Spons
 #### Recent OSS Activity:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/vinitkumar/pdf-joiner/pull/5) in [vinitkumar/pdf-joiner](https://github.com/vinitkumar/pdf-joiner)
-2. 💪 Opened PR [#5](https://github.com/vinitkumar/pdf-joiner/pull/5) in [vinitkumar/pdf-joiner](https://github.com/vinitkumar/pdf-joiner)
-3. 💪 Opened PR [#370](https://github.com/vinitkumar/node-twitter/pull/370) in [vinitkumar/node-twitter](https://github.com/vinitkumar/node-twitter)
-4. 💪 Opened PR [#13](https://github.com/vinitkumar/algorithms/pull/13) in [vinitkumar/algorithms](https://github.com/vinitkumar/algorithms)
-5. 💪 Opened PR [#304](https://github.com/vinitkumar/googlecl/pull/304) in [vinitkumar/googlecl](https://github.com/vinitkumar/googlecl)
+1. 🎉 Merged PR [#8263](https://github.com/django-cms/django-cms/pull/8263) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
+2. 🎉 Merged PR [#5](https://github.com/vinitkumar/pdf-joiner/pull/5) in [vinitkumar/pdf-joiner](https://github.com/vinitkumar/pdf-joiner)
+3. 💪 Opened PR [#5](https://github.com/vinitkumar/pdf-joiner/pull/5) in [vinitkumar/pdf-joiner](https://github.com/vinitkumar/pdf-joiner)
+4. 💪 Opened PR [#370](https://github.com/vinitkumar/node-twitter/pull/370) in [vinitkumar/node-twitter](https://github.com/vinitkumar/node-twitter)
+5. 💪 Opened PR [#13](https://github.com/vinitkumar/algorithms/pull/13) in [vinitkumar/algorithms](https://github.com/vinitkumar/algorithms)
 <!--END_SECTION:activity-->
 
 # Blog posts

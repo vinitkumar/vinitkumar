@@ -49,11 +49,11 @@ If you appreciate my open source work, please consider donating on [GitHub Spons
 #### Recent OSS Activity:
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [1.2.5](https://github.com/vinitkumar/pdf-joiner/releases/tag/v1.2.5) in [vinitkumar/pdf-joiner](https://github.com/vinitkumar/pdf-joiner)
-2. 🎉 Merged PR [#6](https://github.com/vinitkumar/pdf-joiner/pull/6) in [vinitkumar/pdf-joiner](https://github.com/vinitkumar/pdf-joiner)
-3. 💪 Opened PR [#6](https://github.com/vinitkumar/pdf-joiner/pull/6) in [vinitkumar/pdf-joiner](https://github.com/vinitkumar/pdf-joiner)
-4. 🎉 Merged PR [#8275](https://github.com/django-cms/django-cms/pull/8275) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
-5. 🗣 Commented on [#8281](https://github.com/django-cms/django-cms/pull/8281#issuecomment-3038768875) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
+1. 🚀 Published release [v1.2.9](https://github.com/vinitkumar/pdf-joiner/releases/tag/v1.2.9) in [vinitkumar/pdf-joiner](https://github.com/vinitkumar/pdf-joiner)
+2. 🚀 Published release [1.2.5](https://github.com/vinitkumar/pdf-joiner/releases/tag/v1.2.5) in [vinitkumar/pdf-joiner](https://github.com/vinitkumar/pdf-joiner)
+3. 🎉 Merged PR [#6](https://github.com/vinitkumar/pdf-joiner/pull/6) in [vinitkumar/pdf-joiner](https://github.com/vinitkumar/pdf-joiner)
+4. 💪 Opened PR [#6](https://github.com/vinitkumar/pdf-joiner/pull/6) in [vinitkumar/pdf-joiner](https://github.com/vinitkumar/pdf-joiner)
+5. 🎉 Merged PR [#8275](https://github.com/django-cms/django-cms/pull/8275) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
 <!--END_SECTION:activity-->
 
 # Blog posts

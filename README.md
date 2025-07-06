@@ -58,6 +58,7 @@ If you appreciate my open source work, please consider donating on [GitHub Spons
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [PDF Joiner Now Supports Linux: Quick Setup Guide](https://vinitkumar.me/pdf-joiner-linux-support/)
 - [Books on My Desk](https://vinitkumar.me/books-on-my-desk/)
 - [Future of Error Handling in Go Notes](https://vinitkumar.me/go-error-handling/)
 - [Redis Creator&#39;s Code Philosophy: 10 Programming Principles from Antirez](https://vinitkumar.me/code-like-antirez/)
@@ -72,5 +73,4 @@ If you appreciate my open source work, please consider donating on [GitHub Spons
 - [Simple PDF joiner to Join PDF Files on Mac](https://vinitkumar.me/pdf-joiner/)
 - [Daily Blog Number 7](https://vinitkumar.me/daily-short-blog-7/)
 - [Daily Blog Number 6](https://vinitkumar.me/daily-short-blog-6/)
-- [Daily Blog Number 5](https://vinitkumar.me/daily-short-blog-5/)
 <!-- BLOG-POST-LIST:END -->

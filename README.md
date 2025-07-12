@@ -49,11 +49,11 @@ If you appreciate my open source work, please consider donating on [GitHub Spons
 #### Recent OSS Activity:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8288](https://github.com/django-cms/django-cms/pull/8288) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
-2. 💪 Opened PR [#8286](https://github.com/django-cms/django-cms/pull/8286) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
-3. 🎉 Merged PR [#472](https://github.com/django-cms/djangocms-versioning/pull/472) in [django-cms/djangocms-versioning](https://github.com/django-cms/djangocms-versioning)
-4. 🎉 Merged PR [#76](https://github.com/vinitkumar/white-paper/pull/76) in [vinitkumar/white-paper](https://github.com/vinitkumar/white-paper)
-5. 🎉 Merged PR [#77](https://github.com/vinitkumar/white-paper/pull/77) in [vinitkumar/white-paper](https://github.com/vinitkumar/white-paper)
+1. 🎉 Merged PR [#8287](https://github.com/django-cms/django-cms/pull/8287) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
+2. 🎉 Merged PR [#8288](https://github.com/django-cms/django-cms/pull/8288) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
+3. 💪 Opened PR [#8286](https://github.com/django-cms/django-cms/pull/8286) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
+4. 🎉 Merged PR [#472](https://github.com/django-cms/djangocms-versioning/pull/472) in [django-cms/djangocms-versioning](https://github.com/django-cms/djangocms-versioning)
+5. 🎉 Merged PR [#76](https://github.com/vinitkumar/white-paper/pull/76) in [vinitkumar/white-paper](https://github.com/vinitkumar/white-paper)
 <!--END_SECTION:activity-->
 
 # Blog posts

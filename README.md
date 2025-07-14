@@ -49,11 +49,11 @@ If you appreciate my open source work, please consider donating on [GitHub Spons
 #### Recent OSS Activity:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#47](https://github.com/vinitkumar/vinitkumar.github.com/pull/47) in [vinitkumar/vinitkumar.github.com](https://github.com/vinitkumar/vinitkumar.github.com)
-2. 🎉 Merged PR [#8287](https://github.com/django-cms/django-cms/pull/8287) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
-3. 🎉 Merged PR [#8288](https://github.com/django-cms/django-cms/pull/8288) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
-4. 💪 Opened PR [#8286](https://github.com/django-cms/django-cms/pull/8286) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
-5. 🎉 Merged PR [#472](https://github.com/django-cms/djangocms-versioning/pull/472) in [django-cms/djangocms-versioning](https://github.com/django-cms/djangocms-versioning)
+1. 🎉 Merged PR [#47](https://github.com/vinitkumar/vinitkumar.github.com/pull/47) in [vinitkumar/vinitkumar.github.com](https://github.com/vinitkumar/vinitkumar.github.com)
+2. 💪 Opened PR [#47](https://github.com/vinitkumar/vinitkumar.github.com/pull/47) in [vinitkumar/vinitkumar.github.com](https://github.com/vinitkumar/vinitkumar.github.com)
+3. 🎉 Merged PR [#8287](https://github.com/django-cms/django-cms/pull/8287) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
+4. 🎉 Merged PR [#8288](https://github.com/django-cms/django-cms/pull/8288) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
+5. 💪 Opened PR [#8286](https://github.com/django-cms/django-cms/pull/8286) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
 <!--END_SECTION:activity-->
 
 # Blog posts

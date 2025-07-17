@@ -49,11 +49,11 @@ If you appreciate my open source work, please consider donating on [GitHub Spons
 #### Recent OSS Activity:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#58](https://github.com/django-cms/djangocms-attributes-field/pull/58) in [django-cms/djangocms-attributes-field](https://github.com/django-cms/djangocms-attributes-field)
-2. 🗣 Commented on [#246](https://github.com/django-cms/djangocms-link/pull/246#issuecomment-3072449127) in [django-cms/djangocms-link](https://github.com/django-cms/djangocms-link)
-3. 🎉 Merged PR [#245](https://github.com/django-cms/djangocms-link/pull/245) in [django-cms/djangocms-link](https://github.com/django-cms/djangocms-link)
-4. 🎉 Merged PR [#47](https://github.com/vinitkumar/vinitkumar.github.com/pull/47) in [vinitkumar/vinitkumar.github.com](https://github.com/vinitkumar/vinitkumar.github.com)
-5. 💪 Opened PR [#47](https://github.com/vinitkumar/vinitkumar.github.com/pull/47) in [vinitkumar/vinitkumar.github.com](https://github.com/vinitkumar/vinitkumar.github.com)
+1. 💪 Opened PR [#155](https://github.com/django-cms/djangocms-picture/pull/155) in [django-cms/djangocms-picture](https://github.com/django-cms/djangocms-picture)
+2. 🎉 Merged PR [#58](https://github.com/django-cms/djangocms-attributes-field/pull/58) in [django-cms/djangocms-attributes-field](https://github.com/django-cms/djangocms-attributes-field)
+3. 🗣 Commented on [#246](https://github.com/django-cms/djangocms-link/pull/246#issuecomment-3072449127) in [django-cms/djangocms-link](https://github.com/django-cms/djangocms-link)
+4. 🎉 Merged PR [#245](https://github.com/django-cms/djangocms-link/pull/245) in [django-cms/djangocms-link](https://github.com/django-cms/djangocms-link)
+5. 🎉 Merged PR [#47](https://github.com/vinitkumar/vinitkumar.github.com/pull/47) in [vinitkumar/vinitkumar.github.com](https://github.com/vinitkumar/vinitkumar.github.com)
 <!--END_SECTION:activity-->
 
 # Blog posts

@@ -49,11 +49,11 @@ If you appreciate my open source work, please consider donating on [GitHub Spons
 #### Recent OSS Activity:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#245](https://github.com/vinitkumar/json2xml/issues/245#issuecomment-3094727038) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
-2. 🚀 Published release [Security release and other fixes](https://github.com/vinitkumar/json2xml/releases/tag/v5.2.0) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
-3. 💪 Opened PR [#155](https://github.com/django-cms/djangocms-picture/pull/155) in [django-cms/djangocms-picture](https://github.com/django-cms/djangocms-picture)
-4. 🎉 Merged PR [#58](https://github.com/django-cms/djangocms-attributes-field/pull/58) in [django-cms/djangocms-attributes-field](https://github.com/django-cms/djangocms-attributes-field)
-5. 🗣 Commented on [#246](https://github.com/django-cms/djangocms-link/pull/246#issuecomment-3072449127) in [django-cms/djangocms-link](https://github.com/django-cms/djangocms-link)
+1. 🔒 Closed issue [#245](https://github.com/vinitkumar/json2xml/issues/245) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
+2. 🗣 Commented on [#245](https://github.com/vinitkumar/json2xml/issues/245#issuecomment-3094786383) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
+3. 🗣 Commented on [#245](https://github.com/vinitkumar/json2xml/issues/245#issuecomment-3094727038) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
+4. 🚀 Published release [Security release and other fixes](https://github.com/vinitkumar/json2xml/releases/tag/v5.2.0) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
+5. 💪 Opened PR [#155](https://github.com/django-cms/djangocms-picture/pull/155) in [django-cms/djangocms-picture](https://github.com/django-cms/djangocms-picture)
 <!--END_SECTION:activity-->
 
 # Blog posts

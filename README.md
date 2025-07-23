@@ -49,11 +49,11 @@ If you appreciate my open source work, please consider donating on [GitHub Spons
 #### Recent OSS Activity:
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#245](https://github.com/vinitkumar/json2xml/issues/245) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
-2. 🗣 Commented on [#245](https://github.com/vinitkumar/json2xml/issues/245#issuecomment-3094786383) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
-3. 🗣 Commented on [#245](https://github.com/vinitkumar/json2xml/issues/245#issuecomment-3094727038) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
-4. 🚀 Published release [Security release and other fixes](https://github.com/vinitkumar/json2xml/releases/tag/v5.2.0) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
-5. 💪 Opened PR [#155](https://github.com/django-cms/djangocms-picture/pull/155) in [django-cms/djangocms-picture](https://github.com/django-cms/djangocms-picture)
+1. 🗣 Commented on [#73](https://github.com/django-cms/django-cms-quickstart/issues/73#issuecomment-3109512169) in [django-cms/django-cms-quickstart](https://github.com/django-cms/django-cms-quickstart)
+2. ❗ Opened issue [#73](https://github.com/django-cms/django-cms-quickstart/issues/73) in [django-cms/django-cms-quickstart](https://github.com/django-cms/django-cms-quickstart)
+3. 🔒 Closed issue [#245](https://github.com/vinitkumar/json2xml/issues/245) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
+4. 🗣 Commented on [#245](https://github.com/vinitkumar/json2xml/issues/245#issuecomment-3094786383) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
+5. 🗣 Commented on [#245](https://github.com/vinitkumar/json2xml/issues/245#issuecomment-3094727038) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
 <!--END_SECTION:activity-->
 
 # Blog posts

@@ -58,6 +58,7 @@ If you appreciate my open source work, please consider donating on [GitHub Spons
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How Not To Install LazyGit on Ubuntu](https://vinitkumar.me/til/snap-lazygit/)
 - [AI Agents, Me, and My Feelings](https://vinitkumar.me/ai-agents/)
 - [PDF Joiner Now Supports Linux: Quick Setup Guide](https://vinitkumar.me/pdf-joiner-linux-support/)
 - [Books on My Desk](https://vinitkumar.me/books-on-my-desk/)
@@ -72,5 +73,4 @@ If you appreciate my open source work, please consider donating on [GitHub Spons
 - [Job Security](https://vinitkumar.me/job-security/)
 - [No Cross Posting In Foreseeable Future](https://vinitkumar.me/no-cross-posting/)
 - [Simple PDF joiner to Join PDF Files on Mac](https://vinitkumar.me/pdf-joiner/)
-- [Daily Blog Number 7](https://vinitkumar.me/daily-short-blog-7/)
 <!-- BLOG-POST-LIST:END -->

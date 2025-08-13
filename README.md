@@ -58,6 +58,7 @@ If you appreciate my open source work, please consider donating on [GitHub Spons
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Go 1.25: Container-Aware Runtime, Experimental GC, and Developer Experience Enhancements](https://vinitkumar.me/go-1.25/)
 - [How Not To Install LazyGit on Ubuntu](https://vinitkumar.me/til/snap-lazygit/)
 - [AI Agents, Me, and My Feelings](https://vinitkumar.me/ai-agents/)
 - [PDF Joiner Now Supports Linux: Quick Setup Guide](https://vinitkumar.me/pdf-joiner-linux-support/)
@@ -72,5 +73,4 @@ If you appreciate my open source work, please consider donating on [GitHub Spons
 - [Professional Vim Configuration: Terminal and GUI Setup for Modern Development](https://vinitkumar.me/current-vim-setup/)
 - [Job Security](https://vinitkumar.me/job-security/)
 - [No Cross Posting In Foreseeable Future](https://vinitkumar.me/no-cross-posting/)
-- [Simple PDF joiner to Join PDF Files on Mac](https://vinitkumar.me/pdf-joiner/)
 <!-- BLOG-POST-LIST:END -->

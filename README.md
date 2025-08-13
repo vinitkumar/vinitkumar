@@ -49,11 +49,11 @@ If you appreciate my open source work, please consider donating on [GitHub Spons
 #### Recent OSS Activity:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#246](https://github.com/vinitkumar/json2xml/pull/246) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
-2. 🎉 Merged PR [#313](https://github.com/django-cms/djangocms-moderation/pull/313) in [django-cms/djangocms-moderation](https://github.com/django-cms/djangocms-moderation)
-3. 🎉 Merged PR [#8299](https://github.com/django-cms/django-cms/pull/8299) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
-4. 🔒 Closed issue [#3](https://github.com/vinitkumar/pdf-joiner/issues/3) in [vinitkumar/pdf-joiner](https://github.com/vinitkumar/pdf-joiner)
-5. 🗣 Commented on [#73](https://github.com/django-cms/django-cms-quickstart/issues/73#issuecomment-3109512169) in [django-cms/django-cms-quickstart](https://github.com/django-cms/django-cms-quickstart)
+1. 🗣 Commented on [#299](https://github.com/django-cms/djangocms-frontend/issues/299#issuecomment-3182125558) in [django-cms/djangocms-frontend](https://github.com/django-cms/djangocms-frontend)
+2. 💪 Opened PR [#246](https://github.com/vinitkumar/json2xml/pull/246) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
+3. 🎉 Merged PR [#313](https://github.com/django-cms/djangocms-moderation/pull/313) in [django-cms/djangocms-moderation](https://github.com/django-cms/djangocms-moderation)
+4. 🎉 Merged PR [#8299](https://github.com/django-cms/django-cms/pull/8299) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
+5. 🔒 Closed issue [#3](https://github.com/vinitkumar/pdf-joiner/issues/3) in [vinitkumar/pdf-joiner](https://github.com/vinitkumar/pdf-joiner)
 <!--END_SECTION:activity-->
 
 # Blog posts

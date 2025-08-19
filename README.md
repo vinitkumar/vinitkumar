@@ -49,11 +49,11 @@ If you appreciate my open source work, please consider donating on [GitHub Spons
 #### Recent OSS Activity:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#115](https://github.com/django-cms/djangocms-picture/issues/115#issuecomment-3197919635) in [django-cms/djangocms-picture](https://github.com/django-cms/djangocms-picture)
-2. 🔒 Closed issue [#115](https://github.com/django-cms/djangocms-picture/issues/115) in [django-cms/djangocms-picture](https://github.com/django-cms/djangocms-picture)
-3. 🗣 Commented on [#101](https://github.com/django-cms/djangocms-picture/issues/101#issuecomment-3197911246) in [django-cms/djangocms-picture](https://github.com/django-cms/djangocms-picture)
-4. 🔒 Closed issue [#101](https://github.com/django-cms/djangocms-picture/issues/101) in [django-cms/djangocms-picture](https://github.com/django-cms/djangocms-picture)
-5. 🗣 Commented on [#94](https://github.com/django-cms/djangocms-picture/issues/94#issuecomment-3197807524) in [django-cms/djangocms-picture](https://github.com/django-cms/djangocms-picture)
+1. 🗣 Commented on [#119](https://github.com/django-cms/djangocms-picture/issues/119#issuecomment-3197957598) in [django-cms/djangocms-picture](https://github.com/django-cms/djangocms-picture)
+2. 🗣 Commented on [#115](https://github.com/django-cms/djangocms-picture/issues/115#issuecomment-3197919635) in [django-cms/djangocms-picture](https://github.com/django-cms/djangocms-picture)
+3. 🔒 Closed issue [#115](https://github.com/django-cms/djangocms-picture/issues/115) in [django-cms/djangocms-picture](https://github.com/django-cms/djangocms-picture)
+4. 🗣 Commented on [#101](https://github.com/django-cms/djangocms-picture/issues/101#issuecomment-3197911246) in [django-cms/djangocms-picture](https://github.com/django-cms/djangocms-picture)
+5. 🔒 Closed issue [#101](https://github.com/django-cms/djangocms-picture/issues/101) in [django-cms/djangocms-picture](https://github.com/django-cms/djangocms-picture)
 <!--END_SECTION:activity-->
 
 # Blog posts

@@ -49,11 +49,11 @@ If you appreciate my open source work, please consider donating on [GitHub Spons
 #### Recent OSS Activity:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#299](https://github.com/django-cms/djangocms-frontend/issues/299#issuecomment-3182125558) in [django-cms/djangocms-frontend](https://github.com/django-cms/djangocms-frontend)
-2. 💪 Opened PR [#246](https://github.com/vinitkumar/json2xml/pull/246) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
-3. 🎉 Merged PR [#313](https://github.com/django-cms/djangocms-moderation/pull/313) in [django-cms/djangocms-moderation](https://github.com/django-cms/djangocms-moderation)
-4. 🎉 Merged PR [#8299](https://github.com/django-cms/django-cms/pull/8299) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
-5. 🔒 Closed issue [#3](https://github.com/vinitkumar/pdf-joiner/issues/3) in [vinitkumar/pdf-joiner](https://github.com/vinitkumar/pdf-joiner)
+1. 🗣 Commented on [#155](https://github.com/django-cms/djangocms-picture/pull/155#issuecomment-3197762758) in [django-cms/djangocms-picture](https://github.com/django-cms/djangocms-picture)
+2. ❌ Closed PR [#155](https://github.com/django-cms/djangocms-picture/pull/155) in [django-cms/djangocms-picture](https://github.com/django-cms/djangocms-picture)
+3. 🗣 Commented on [#299](https://github.com/django-cms/djangocms-frontend/issues/299#issuecomment-3182125558) in [django-cms/djangocms-frontend](https://github.com/django-cms/djangocms-frontend)
+4. 💪 Opened PR [#246](https://github.com/vinitkumar/json2xml/pull/246) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
+5. 🎉 Merged PR [#313](https://github.com/django-cms/djangocms-moderation/pull/313) in [django-cms/djangocms-moderation](https://github.com/django-cms/djangocms-moderation)
 <!--END_SECTION:activity-->
 
 # Blog posts

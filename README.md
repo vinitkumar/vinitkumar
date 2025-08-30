@@ -49,11 +49,11 @@ If you appreciate my open source work, please consider donating on [GitHub Spons
 #### Recent OSS Activity:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8326](https://github.com/django-cms/django-cms/pull/8326#issuecomment-3239326241) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
-2. 🎉 Merged PR [#8319](https://github.com/django-cms/django-cms/pull/8319) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
-3. 🎉 Merged PR [#6](https://github.com/vinitkumar/nvim/pull/6) in [vinitkumar/nvim](https://github.com/vinitkumar/nvim)
-4. 💪 Opened PR [#6](https://github.com/vinitkumar/nvim/pull/6) in [vinitkumar/nvim](https://github.com/vinitkumar/nvim)
-5. 🗣 Commented on [#8317](https://github.com/django-cms/django-cms/pull/8317#issuecomment-3215165879) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
+1. 💪 Opened PR [#4](https://github.com/vinitkumar/oscura-vim/pull/4) in [vinitkumar/oscura-vim](https://github.com/vinitkumar/oscura-vim)
+2. ❗ Opened issue [#3](https://github.com/vinitkumar/oscura-vim/issues/3) in [vinitkumar/oscura-vim](https://github.com/vinitkumar/oscura-vim)
+3. 🗣 Commented on [#8326](https://github.com/django-cms/django-cms/pull/8326#issuecomment-3239326241) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
+4. 🎉 Merged PR [#8319](https://github.com/django-cms/django-cms/pull/8319) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
+5. 🎉 Merged PR [#6](https://github.com/vinitkumar/nvim/pull/6) in [vinitkumar/nvim](https://github.com/vinitkumar/nvim)
 <!--END_SECTION:activity-->
 
 # Blog posts

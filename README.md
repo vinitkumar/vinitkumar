@@ -58,9 +58,9 @@ If you appreciate my open source work, please consider donating on [GitHub Spons
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [My New AI Workflow: Embracing Command-Line AI Tools](https://vinitkumar.me/new-ai-workflow/)
 - [Go 1.25: Container-Aware Runtime, Experimental GC, and Developer Experience Enhancements](https://vinitkumar.me/go-1.25/)
 - [How Not To Install LazyGit on Ubuntu](https://vinitkumar.me/til/snap-lazygit/)
 - [AI Agents, Me, and My Feelings](https://vinitkumar.me/ai-agents/)
 - [PDF Joiner Now Supports Linux: Quick Setup Guide](https://vinitkumar.me/pdf-joiner-linux-support/)
-- [Books on My Desk](https://vinitkumar.me/books-on-my-desk/)
 <!-- BLOG-POST-LIST:END -->

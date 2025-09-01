@@ -49,11 +49,11 @@ If you appreciate my open source work, please consider donating on [GitHub Spons
 #### Recent OSS Activity:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/vinitkumar/oscura-vim/pull/2) in [vinitkumar/oscura-vim](https://github.com/vinitkumar/oscura-vim)
-2. 🔒 Closed issue [#3](https://github.com/vinitkumar/oscura-vim/issues/3) in [vinitkumar/oscura-vim](https://github.com/vinitkumar/oscura-vim)
-3. 🎉 Merged PR [#4](https://github.com/vinitkumar/oscura-vim/pull/4) in [vinitkumar/oscura-vim](https://github.com/vinitkumar/oscura-vim)
-4. 🗣 Commented on [#4](https://github.com/vinitkumar/oscura-vim/pull/4#issuecomment-3240278723) in [vinitkumar/oscura-vim](https://github.com/vinitkumar/oscura-vim)
-5. 🎉 Merged PR [#288](https://github.com/django-cms/djangocms-alias/pull/288) in [django-cms/djangocms-alias](https://github.com/django-cms/djangocms-alias)
+1. ❌ Closed PR [#8326](https://github.com/django-cms/django-cms/pull/8326) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
+2. 🎉 Merged PR [#2](https://github.com/vinitkumar/oscura-vim/pull/2) in [vinitkumar/oscura-vim](https://github.com/vinitkumar/oscura-vim)
+3. 🔒 Closed issue [#3](https://github.com/vinitkumar/oscura-vim/issues/3) in [vinitkumar/oscura-vim](https://github.com/vinitkumar/oscura-vim)
+4. 🎉 Merged PR [#4](https://github.com/vinitkumar/oscura-vim/pull/4) in [vinitkumar/oscura-vim](https://github.com/vinitkumar/oscura-vim)
+5. 🗣 Commented on [#4](https://github.com/vinitkumar/oscura-vim/pull/4#issuecomment-3240278723) in [vinitkumar/oscura-vim](https://github.com/vinitkumar/oscura-vim)
 <!--END_SECTION:activity-->
 
 # Blog posts

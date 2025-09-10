@@ -58,9 +58,9 @@ If you appreciate my open source work, please consider donating on [GitHub Spons
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Monokai Pro for Vim: Bringing Modern Aesthetics to Terminal Editing](https://vinitkumar.me/monokai-pro-vim-colorscheme/)
 - [My New AI Workflow: Embracing Command-Line AI Tools](https://vinitkumar.me/new-ai-workflow/)
 - [Go 1.25: Container-Aware Runtime, Experimental GC, and Developer Experience Enhancements](https://vinitkumar.me/go-1.25/)
 - [How Not To Install LazyGit on Ubuntu](https://vinitkumar.me/til/snap-lazygit/)
 - [AI Agents, Me, and My Feelings](https://vinitkumar.me/ai-agents/)
-- [PDF Joiner Now Supports Linux: Quick Setup Guide](https://vinitkumar.me/pdf-joiner-linux-support/)
 <!-- BLOG-POST-LIST:END -->

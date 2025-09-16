@@ -49,11 +49,11 @@ If you appreciate my open source work, please consider donating on [GitHub Spons
 #### Recent OSS Activity:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#78](https://github.com/vinitkumar/white-paper/pull/78) in [vinitkumar/white-paper](https://github.com/vinitkumar/white-paper)
-2. 🎉 Merged PR [#546](https://github.com/django-cms/djangocms-admin-style/pull/546) in [django-cms/djangocms-admin-style](https://github.com/django-cms/djangocms-admin-style)
-3. 💪 Opened PR [#546](https://github.com/django-cms/djangocms-admin-style/pull/546) in [django-cms/djangocms-admin-style](https://github.com/django-cms/djangocms-admin-style)
-4. ❌ Closed PR [#8326](https://github.com/django-cms/django-cms/pull/8326) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
-5. 🎉 Merged PR [#2](https://github.com/vinitkumar/oscura-vim/pull/2) in [vinitkumar/oscura-vim](https://github.com/vinitkumar/oscura-vim)
+1. 🎉 Merged PR [#8341](https://github.com/django-cms/django-cms/pull/8341) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
+2. 🎉 Merged PR [#78](https://github.com/vinitkumar/white-paper/pull/78) in [vinitkumar/white-paper](https://github.com/vinitkumar/white-paper)
+3. 🎉 Merged PR [#546](https://github.com/django-cms/djangocms-admin-style/pull/546) in [django-cms/djangocms-admin-style](https://github.com/django-cms/djangocms-admin-style)
+4. 💪 Opened PR [#546](https://github.com/django-cms/djangocms-admin-style/pull/546) in [django-cms/djangocms-admin-style](https://github.com/django-cms/djangocms-admin-style)
+5. ❌ Closed PR [#8326](https://github.com/django-cms/django-cms/pull/8326) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
 <!--END_SECTION:activity-->
 
 # Blog posts

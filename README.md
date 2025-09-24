@@ -49,11 +49,11 @@ If you appreciate my open source work, please consider donating on [GitHub Spons
 #### Recent OSS Activity:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#29](undefined) in [vinitkumar/dark-paper](https://github.com/vinitkumar/dark-paper)
-2. 💪 Opened PR [#1](undefined) in [vinitkumar/monokai-pro-vim](https://github.com/vinitkumar/monokai-pro-vim)
-3. 💪 Opened PR [#48](undefined) in [vinitkumar/vinitkumar.github.com](https://github.com/vinitkumar/vinitkumar.github.com)
-4. 💪 Opened PR [#546](undefined) in [django-cms/djangocms-admin-style](https://github.com/django-cms/djangocms-admin-style)
-5. 🚀 Published release [1.1.0](https://github.com/vinitkumar/oscura-vim/releases/tag/1.1.0) in [vinitkumar/oscura-vim](https://github.com/vinitkumar/oscura-vim)
+1. 💪 Opened PR [#29](https://github.com/vinitkumar/dark-paper/pull/29) in [vinitkumar/dark-paper](https://github.com/vinitkumar/dark-paper)
+2. 💪 Opened PR [#48](https://github.com/vinitkumar/vinitkumar.github.com/pull/48) in [vinitkumar/vinitkumar.github.com](https://github.com/vinitkumar/vinitkumar.github.com)
+3. 🎉 Merged PR [#8341](https://github.com/django-cms/django-cms/pull/8341) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
+4. 🎉 Merged PR [#78](https://github.com/vinitkumar/white-paper/pull/78) in [vinitkumar/white-paper](https://github.com/vinitkumar/white-paper)
+5. 🎉 Merged PR [#546](https://github.com/django-cms/djangocms-admin-style/pull/546) in [django-cms/djangocms-admin-style](https://github.com/django-cms/djangocms-admin-style)
 <!--END_SECTION:activity-->
 
 # Blog posts

@@ -49,11 +49,11 @@ If you appreciate my open source work, please consider donating on [GitHub Spons
 #### Recent OSS Activity:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#48](https://github.com/vinitkumar/vinitkumar.github.com/pull/48) in [vinitkumar/vinitkumar.github.com](https://github.com/vinitkumar/vinitkumar.github.com)
-2. 🔒 Closed issue [#24](https://github.com/django-cms/djangocms-stories/issues/24) in [django-cms/djangocms-stories](https://github.com/django-cms/djangocms-stories)
-3. 🎉 Merged PR [#8343](https://github.com/django-cms/django-cms/pull/8343) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
-4. 💪 Opened PR [#29](https://github.com/vinitkumar/dark-paper/pull/29) in [vinitkumar/dark-paper](https://github.com/vinitkumar/dark-paper)
-5. 💪 Opened PR [#48](https://github.com/vinitkumar/vinitkumar.github.com/pull/48) in [vinitkumar/vinitkumar.github.com](https://github.com/vinitkumar/vinitkumar.github.com)
+1. 🗣 Commented on [#8067](https://github.com/obsidianmd/obsidian-releases/pull/8067#issuecomment-3378148142) in [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases)
+2. 🎉 Merged PR [#48](https://github.com/vinitkumar/vinitkumar.github.com/pull/48) in [vinitkumar/vinitkumar.github.com](https://github.com/vinitkumar/vinitkumar.github.com)
+3. 🔒 Closed issue [#24](https://github.com/django-cms/djangocms-stories/issues/24) in [django-cms/djangocms-stories](https://github.com/django-cms/djangocms-stories)
+4. 🎉 Merged PR [#8343](https://github.com/django-cms/django-cms/pull/8343) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
+5. 💪 Opened PR [#29](https://github.com/vinitkumar/dark-paper/pull/29) in [vinitkumar/dark-paper](https://github.com/vinitkumar/dark-paper)
 <!--END_SECTION:activity-->
 
 # Blog posts

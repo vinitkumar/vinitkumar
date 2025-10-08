@@ -49,11 +49,11 @@ If you appreciate my open source work, please consider donating on [GitHub Spons
 #### Recent OSS Activity:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8067](https://github.com/obsidianmd/obsidian-releases/pull/8067#issuecomment-3378233634) in [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases)
-2. 💪 Opened PR [#8072](https://github.com/obsidianmd/obsidian-releases/pull/8072) in [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases)
-3. 🗣 Commented on [#8067](https://github.com/obsidianmd/obsidian-releases/pull/8067#issuecomment-3378148142) in [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases)
-4. 🎉 Merged PR [#48](https://github.com/vinitkumar/vinitkumar.github.com/pull/48) in [vinitkumar/vinitkumar.github.com](https://github.com/vinitkumar/vinitkumar.github.com)
-5. 🔒 Closed issue [#24](https://github.com/django-cms/djangocms-stories/issues/24) in [django-cms/djangocms-stories](https://github.com/django-cms/djangocms-stories)
+1. 💪 Opened PR [#249](https://github.com/vinitkumar/json2xml/pull/249) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
+2. 🗣 Commented on [#8067](https://github.com/obsidianmd/obsidian-releases/pull/8067#issuecomment-3378233634) in [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases)
+3. 💪 Opened PR [#8072](https://github.com/obsidianmd/obsidian-releases/pull/8072) in [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases)
+4. 🗣 Commented on [#8067](https://github.com/obsidianmd/obsidian-releases/pull/8067#issuecomment-3378148142) in [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases)
+5. 🎉 Merged PR [#48](https://github.com/vinitkumar/vinitkumar.github.com/pull/48) in [vinitkumar/vinitkumar.github.com](https://github.com/vinitkumar/vinitkumar.github.com)
 <!--END_SECTION:activity-->
 
 # Blog posts

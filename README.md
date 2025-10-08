@@ -49,11 +49,11 @@ If you appreciate my open source work, please consider donating on [GitHub Spons
 #### Recent OSS Activity:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#249](https://github.com/vinitkumar/json2xml/pull/249) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
-2. 🗣 Commented on [#8067](https://github.com/obsidianmd/obsidian-releases/pull/8067#issuecomment-3378233634) in [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases)
-3. 💪 Opened PR [#8072](https://github.com/obsidianmd/obsidian-releases/pull/8072) in [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases)
-4. 🗣 Commented on [#8067](https://github.com/obsidianmd/obsidian-releases/pull/8067#issuecomment-3378148142) in [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases)
-5. 🎉 Merged PR [#48](https://github.com/vinitkumar/vinitkumar.github.com/pull/48) in [vinitkumar/vinitkumar.github.com](https://github.com/vinitkumar/vinitkumar.github.com)
+1. 🎉 Merged PR [#249](https://github.com/vinitkumar/json2xml/pull/249) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
+2. 💪 Opened PR [#249](https://github.com/vinitkumar/json2xml/pull/249) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
+3. 🗣 Commented on [#8067](https://github.com/obsidianmd/obsidian-releases/pull/8067#issuecomment-3378233634) in [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases)
+4. 💪 Opened PR [#8072](https://github.com/obsidianmd/obsidian-releases/pull/8072) in [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases)
+5. 🗣 Commented on [#8067](https://github.com/obsidianmd/obsidian-releases/pull/8067#issuecomment-3378148142) in [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases)
 <!--END_SECTION:activity-->
 
 # Blog posts

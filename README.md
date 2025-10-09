@@ -49,11 +49,11 @@ If you appreciate my open source work, please consider donating on [GitHub Spons
 #### Recent OSS Activity:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#253](https://github.com/vinitkumar/json2xml/pull/253) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
-2. 🎉 Merged PR [#252](https://github.com/vinitkumar/json2xml/pull/252) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
-3. 💪 Opened PR [#252](https://github.com/vinitkumar/json2xml/pull/252) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
-4. 🎉 Merged PR [#251](https://github.com/vinitkumar/json2xml/pull/251) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
-5. 💪 Opened PR [#251](https://github.com/vinitkumar/json2xml/pull/251) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
+1. 💪 Opened PR [#254](https://github.com/vinitkumar/json2xml/pull/254) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
+2. 🎉 Merged PR [#253](https://github.com/vinitkumar/json2xml/pull/253) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
+3. 💪 Opened PR [#253](https://github.com/vinitkumar/json2xml/pull/253) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
+4. 🎉 Merged PR [#252](https://github.com/vinitkumar/json2xml/pull/252) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
+5. 💪 Opened PR [#252](https://github.com/vinitkumar/json2xml/pull/252) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
 <!--END_SECTION:activity-->
 
 # Blog posts

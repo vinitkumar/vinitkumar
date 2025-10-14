@@ -1,44 +1,84 @@
 # Hi there 👋
 
-I'm a **Principal Engineer** at [Scalefusion](https://scalefusion.com) and [Django CMS Fellow](https://www.django-cms.org/en/blog/2024/11/07/welcoming-vinit-kumar-as-the-newest-django-cms-fellow/) passionate about solving meaningful problems and pushing tech boundaries. I love reading, listening/playing music, appreciating/making art, and enjoying a good cup of coffee.
+# Hi there 👋
 
-I have **12 years** of experience (since February 1, 2013) specializing in Django, Python, Go, and TypeScript. I have successfully built and delivered exceptional products and services throughout my career. Notably, I have led the architecture and development of a [cutting-edge Multi-tenant CMS](https://www.divio.com/case-studies/social-schools-divio-transformation/), catering to an extensive network of over 3k websites. This robust CMS is designed to handle a substantial volume of multi-million monthly requests with efficiency and scalability at its core.
+I'm a **Principal Engineer at [Scalefusion](https://scalefusion.com)** and a **[Django CMS Fellow](https://www.django-cms.org/en/blog/2024/11/07/welcoming-vinit-kumar-as-the-newest-django-cms-fellow/)**, passionate about solving complex problems and building impactful technology.
 
-In addition to my backend expertise with Python, Django, and Go, I possess extensive frontend proficiency, including 7 years of React experience and over a decade of mastery in JavaScript, TypeScript, and related technologies. This comprehensive skill set enables me to seamlessly navigate complex codebases while collaborating effectively with diverse stakeholders.
+With over **12 years of experience** (since February 2013), I specialize in **Django, Python, Go, and TypeScript**, architecting scalable systems and leading high-performing engineering teams.
 
-I excel in optimizing performance and enhancing the security of services, consistently delivering top-tier results. As a [Core Developer at DjangoCMS](https://github.com/orgs/django-cms/teams/core-team), the industry's most popular Django-based CMS, I have gained invaluable insights and refined my expertise in line with industry best practices.
+### 🚀 Current Role — Principal Engineer at Scalefusion
 
-I am also invited as an [Individual Member](https://www.djangoproject.com/foundation/individual-members/) with Django Software Foundation.
+At [Scalefusion](https://scalefusion.com), I lead engineering initiatives that power our **Device Management Platform**, enabling organizations to manage fleets of devices securely and at scale.
 
-Moreover, I am well-versed in various cloud platforms, such as AWS, GCP, DigitalOcean, and Azure. Leveraging these powerful platforms, I am adept at deploying and managing robust, scalable solutions that meet the highest standards of performance and reliability.
+One of my primary contributions is designing and developing **Scalefusion Live Terminal** — a real-time remote terminal / command execution system for multiple OS platforms. IT admins can remotely access Windows, macOS, Linux, Android, and iOS devices via the dashboard.
 
-In my role as a Staff Software Engineer and Team Leader, I have demonstrated my ability to lead high-performing teams effectively. By fostering a culture of innovation and excellence, I have successfully steered projects toward success, consistently meeting and exceeding expectations.
+- For **macOS devices**, the Live Terminal works via a secure **SSH tunnel** and dynamically creates a `Scalefusion-Service-Account` on the target machine to securely manage sessions.  [oai_citation:0‡Scalefusion Help](https://help.scalefusion.com/v1/docs/remotely-access-live-terminal-on-macos-devices)  
+- The official documentation for remote terminal on macOS can be found [here](https://help.scalefusion.com/v1/docs/remotely-access-live-terminal-on-macos-devices).  [oai_citation:1‡Scalefusion Help](https://help.scalefusion.com/v1/docs/remotely-access-live-terminal-on-macos-devices)  
 
-I am deeply passionate about driving innovation and delivering exceptional outcomes in every project I undertake. My proven track record and my unwavering commitment to excellence make me an ideal candidate for leading and contributing to high-performing teams.
+This solution is built for **security**, **low latency**, **scalability**, and **reliability** across large fleets. I also mentor and guide teams on system design, performance optimization, and backend architecture.
 
-In my free time, I enjoy reading, spending time with my family, and contributing to open source projects. My wife, [Rituparna Dey](https://rituparnadey.com), is the founder of [ScoopHubs.com](https://scoophubs.com), a digital marketing company.
+---
+
+### 🏗️ What I Do
+
+- Architect and scale **high-performance systems** built on Django, Go, and modern frontend stacks  
+- Led the development of a **multi-tenant CMS** ([case study](https://www.divio.com/case-studies/social-schools-divio-transformation/)) powering **3,000+ websites** and handling **millions of monthly requests**  
+- Optimize performance, reliability, and security across complex distributed applications  
+- Contribute to **open source** as a **[Core Developer at Django CMS](https://github.com/orgs/django-cms/teams/core-team)** and **[Individual Member of the Django Software Foundation](https://www.djangoproject.com/foundation/individual-members/)**  
+
+---
+
+### 💻 Tech Stack
+
+- **Backend:** Python, Django, Go, FastAPI, Ruby On Rails  
+- **Frontend:** TypeScript, React, Next.js  
+- **DevOps / Cloud:** AWS, GCP, Azure, DigitalOcean, Docker, Kubernetes  
+- **Databases:** PostgreSQL, Redis, MongoDB  
+- **Others:** REST, GraphQL, Celery, CI/CD, Observability & Performance Tuning  
+
+---
+
+### 👥 Leadership & Impact
+
+- Proven track record as a **Team Lead** and **Principal Engineer**, guiding teams toward technical excellence  
+- Foster collaboration, innovation, and knowledge-sharing across engineering teams  
+- Drive architecture decisions balancing scalability, maintainability, and developer experience  
+
+---
+
+### 🌍 Open Source & Community
+
+- **Core Developer** at [Django CMS](https://github.com/django-cms/django-cms)  
+- **Fellow** at [Django CMS Fellowship Program](https://www.django-cms.org/en/blog/2024/11/07/welcoming-vinit-kumar-as-the-newest-django-cms-fellow/)  
+- **Individual Member** of the [Django Software Foundation](https://www.djangoproject.com/foundation/individual-members/)  
+
+---
+
+### ☕ About Me
+
+Outside of work, I enjoy:
+- Reading and exploring new ideas  
+- Playing and listening to music  
+- Appreciating and creating art  
+- Spending time with my family  
+
+My wife, [Rituparna Dey](https://rituparnadey.com), is the founder of [ScoopHubs.com](https://scoophubs.com), a digital marketing company. Together, we share a love for creativity and innovation.
+
+---
+
+### 📫 Connect with Me
+
+- 🌐 [Website](https://vinitkumar.me)  
+- 🐦 [Twitter / X](https://twitter.com/vinitkme)  
+- 💼 [LinkedIn](https://linkedin.com/in/vinitkme)  
+- 🧑‍💻 [GitHub](https://github.com/vinitkme)  
+
 
 ## What I'm Doing Now
-
-Right now, I'm focused on building robust system-level features at [Scalefusion](https://scalefusion.com), including a live terminal interface over SSH. I'm also actively mentoring contributors and shaping the future roadmap as a [Django CMS Fellow](https://www.django-cms.org/en/blog/2024/11/07/welcoming-vinit-kumar-as-the-newest-django-cms-fellow/).
 
 Mornings are for the gym 🏋️‍♂️, evenings for OSS work, and weekends for deep thinking and family time. I'm also working on tightening my focus and building long-term rituals around reading and creating.
 
 Some current interests: Go internals, OS-level programming, high-performance networking, and managing cognitive load as a Principal Engineer.
-
-## Books on My Desk
-
-- **Deep Work** by Cal Newport — revisiting for sharper focus
-- **The Almanack of Naval Ravikant** by Eric Jorgenson — timeless clarity on leverage and self-mastery
-- **The Psychology of Money** by Morgan Housel — reframes decisions and behavior with money
-- **Zen and the Art of Motorcycle Maintenance** by Robert Pirsig — makes you slow down and think deeply
-- **Designing Data-Intensive Applications** by Martin Kleppmann — constant source of insight for backend systems
-- **Compilers (The Dragon Book)** by Aho, Lam, Sethi, Ullman — foundational and fascinating, still working through it
-- **Concurrency in Go** by Katherine Cox-Buday — sharpens my understanding of Go's concurrency model
-
-📖 Full list & themes → [vinitkumar.me/books-on-my-desk](https://vinitkumar.me/books-on-my-desk)
-
-If you appreciate my open source work, please consider donating on [GitHub Sponsors](https://github.com/sponsors/vinitkumar). Thank you!
 
 #### Contact Information:
 

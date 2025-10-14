@@ -1,6 +1,6 @@
 # Hi there 👋
 
-# Hi there 👋
+## Welcome to my Github
 
 I'm a **Principal Engineer at [Scalefusion](https://scalefusion.com)** and a **[Django CMS Fellow](https://www.django-cms.org/en/blog/2024/11/07/welcoming-vinit-kumar-as-the-newest-django-cms-fellow/)**, passionate about solving complex problems and building impactful technology.
 

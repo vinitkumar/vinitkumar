@@ -12,7 +12,6 @@ At [Scalefusion](https://scalefusion.com), I lead engineering initiatives that p
 
 One of my primary contributions is designing and developing **Scalefusion Live Terminal** — a real-time remote terminal / command execution system for multiple OS platforms. IT admins can remotely access Windows, macOS, Linux, Android, and iOS devices via the dashboard.
 
-- For **macOS devices**, the Live Terminal works via a secure **SSH tunnel** and dynamically creates a `Scalefusion-Service-Account` on the target machine to securely manage sessions.  [oai_citation:0‡Scalefusion Help](https://help.scalefusion.com/v1/docs/remotely-access-live-terminal-on-macos-devices)  
 - The official documentation for remote terminal on macOS can be found [here](https://help.scalefusion.com/v1/docs/remotely-access-live-terminal-on-macos-devices).  [oai_citation:1‡Scalefusion Help](https://help.scalefusion.com/v1/docs/remotely-access-live-terminal-on-macos-devices)  
 
 This solution is built for **security**, **low latency**, **scalability**, and **reliability** across large fleets. I also mentor and guide teams on system design, performance optimization, and backend architecture.

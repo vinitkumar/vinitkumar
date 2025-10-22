@@ -88,11 +88,11 @@ Some current interests: Go internals, OS-level programming, high-performance net
 #### Recent OSS Activity:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#69](undefined) in [vinitkumar/gist-browser](https://github.com/vinitkumar/gist-browser)
-2. 💪 Opened PR [#30](undefined) in [vinitkumar/dark-paper](https://github.com/vinitkumar/dark-paper)
-3. 🗣 Commented on [#8184](https://github.com/obsidianmd/obsidian-releases/pull/8184#issuecomment-3406420343) in [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases)
-4. 💪 Opened PR [#8184](undefined) in [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases)
-5. ❌ Closed PR [#8067](undefined) in [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases)
+1. 💪 Opened PR [#8371](undefined) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
+2. 💪 Opened PR [#69](undefined) in [vinitkumar/gist-browser](https://github.com/vinitkumar/gist-browser)
+3. 💪 Opened PR [#30](undefined) in [vinitkumar/dark-paper](https://github.com/vinitkumar/dark-paper)
+4. 🗣 Commented on [#8184](https://github.com/obsidianmd/obsidian-releases/pull/8184#issuecomment-3406420343) in [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases)
+5. 💪 Opened PR [#8184](undefined) in [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases)
 <!--END_SECTION:activity-->
 
 # Blog posts

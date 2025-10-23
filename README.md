@@ -8,15 +8,10 @@ With over **12 years of experience** (since February 2013), I specialize in **Dj
 
 ### 🚀 Current Role — Principal Engineer at Scalefusion
 
-At [Scalefusion](https://scalefusion.com), I lead engineering initiatives that power our **Device Management Platform**, enabling organizations to manage fleets of devices securely and at scale.
+At [Scalefusion](https://scalefusion.com), 
+One of my primary contributions is designing and developing **Scalefusion Live Terminal** — a real-time remote terminal / command execution system for multiple OS platforms. 
 
-One of my primary contributions is designing and developing **Scalefusion Live Terminal** — a real-time remote terminal / command execution system for multiple OS platforms. IT admins can remotely access Windows, macOS, Linux, Android, and iOS devices via the dashboard.
-
-- The official documentation for remote terminal on macOS can be found [here](https://help.scalefusion.com/v1/docs/remotely-access-live-terminal-on-macos-devices).  [oai_citation:1‡Scalefusion Help](https://help.scalefusion.com/v1/docs/remotely-access-live-terminal-on-macos-devices)  
-
-This solution is built for **security**, **low latency**, **scalability**, and **reliability** across large fleets. I also mentor and guide teams on system design, performance optimization, and backend architecture.
-
----
+- The official documentation for remote terminal on macOS can be found [here](https://help.scalefusion.com/v1/docs/remotely-access-live-terminal-on-macos-devices).
 
 ### 🏗️ What I Do
 

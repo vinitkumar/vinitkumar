@@ -83,11 +83,11 @@ Some current interests: Go internals, OS-level programming, high-performance net
 #### Recent OSS Activity:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1551](https://github.com/django-cms/django-filer/pull/1551#issuecomment-3436229456) in [django-cms/django-filer](https://github.com/django-cms/django-filer)
-2. 💪 Opened PR [#8371](undefined) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
-3. 💪 Opened PR [#69](undefined) in [vinitkumar/gist-browser](https://github.com/vinitkumar/gist-browser)
-4. 💪 Opened PR [#30](undefined) in [vinitkumar/dark-paper](https://github.com/vinitkumar/dark-paper)
-5. 🗣 Commented on [#8184](https://github.com/obsidianmd/obsidian-releases/pull/8184#issuecomment-3406420343) in [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases)
+1. 🗣 Commented on [#8371](https://github.com/django-cms/django-cms/pull/8371#issuecomment-3437774616) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
+2. 🗣 Commented on [#1551](https://github.com/django-cms/django-filer/pull/1551#issuecomment-3436229456) in [django-cms/django-filer](https://github.com/django-cms/django-filer)
+3. 💪 Opened PR [#8371](undefined) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
+4. 💪 Opened PR [#69](undefined) in [vinitkumar/gist-browser](https://github.com/vinitkumar/gist-browser)
+5. 💪 Opened PR [#30](undefined) in [vinitkumar/dark-paper](https://github.com/vinitkumar/dark-paper)
 <!--END_SECTION:activity-->
 
 # Blog posts

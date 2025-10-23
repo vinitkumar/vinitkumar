@@ -83,11 +83,11 @@ Some current interests: Go internals, OS-level programming, high-performance net
 #### Recent OSS Activity:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#255](undefined) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
-2. 🗣 Commented on [#8371](https://github.com/django-cms/django-cms/pull/8371#issuecomment-3437774616) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
-3. 🗣 Commented on [#1551](https://github.com/django-cms/django-filer/pull/1551#issuecomment-3436229456) in [django-cms/django-filer](https://github.com/django-cms/django-filer)
-4. 💪 Opened PR [#8371](undefined) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
-5. 💪 Opened PR [#69](undefined) in [vinitkumar/gist-browser](https://github.com/vinitkumar/gist-browser)
+1. 💪 Opened PR [#256](undefined) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
+2. 💪 Opened PR [#255](undefined) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
+3. 🗣 Commented on [#8371](https://github.com/django-cms/django-cms/pull/8371#issuecomment-3437774616) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
+4. 🗣 Commented on [#1551](https://github.com/django-cms/django-filer/pull/1551#issuecomment-3436229456) in [django-cms/django-filer](https://github.com/django-cms/django-filer)
+5. 💪 Opened PR [#8371](undefined) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
 <!--END_SECTION:activity-->
 
 # Blog posts

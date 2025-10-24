@@ -83,11 +83,11 @@ Some current interests: Go internals, OS-level programming, high-performance net
 #### Recent OSS Activity:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#320](undefined) in [django-cms/djangocms-frontend](https://github.com/django-cms/djangocms-frontend)
-2. 💪 Opened PR [#256](undefined) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
-3. 💪 Opened PR [#255](undefined) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
-4. 🗣 Commented on [#8371](https://github.com/django-cms/django-cms/pull/8371#issuecomment-3437774616) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
-5. 🗣 Commented on [#1551](https://github.com/django-cms/django-filer/pull/1551#issuecomment-3436229456) in [django-cms/django-filer](https://github.com/django-cms/django-filer)
+1. 💪 Opened PR [#72](undefined) in [django-cms/djangocms-rest](https://github.com/django-cms/djangocms-rest)
+2. 💪 Opened PR [#320](undefined) in [django-cms/djangocms-frontend](https://github.com/django-cms/djangocms-frontend)
+3. 💪 Opened PR [#256](undefined) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
+4. 💪 Opened PR [#255](undefined) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
+5. 🗣 Commented on [#8371](https://github.com/django-cms/django-cms/pull/8371#issuecomment-3437774616) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
 <!--END_SECTION:activity-->
 
 # Blog posts

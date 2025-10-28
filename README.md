@@ -83,11 +83,11 @@ Some current interests: Go internals, OS-level programming, high-performance net
 #### Recent OSS Activity:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#58](undefined) in [django-cms/djangocms-modules](https://github.com/django-cms/djangocms-modules)
-2. 💪 Opened PR [#74](undefined) in [django-cms/djangocms-rest](https://github.com/django-cms/djangocms-rest)
-3. 🗣 Commented on [#72](https://github.com/django-cms/djangocms-rest/pull/72#issuecomment-3446665696) in [django-cms/djangocms-rest](https://github.com/django-cms/djangocms-rest)
-4. 🗣 Commented on [#72](https://github.com/django-cms/djangocms-rest/pull/72#issuecomment-3446575004) in [django-cms/djangocms-rest](https://github.com/django-cms/djangocms-rest)
-5. ❌ Assigned PR [#489](undefined) in [django-cms/djangocms-versioning](https://github.com/django-cms/djangocms-versioning)
+1. 🔒 Closed issue [#326](https://github.com/django-cms/djangocms-moderation/issues/326) in [django-cms/djangocms-moderation](https://github.com/django-cms/djangocms-moderation)
+2. 💪 Opened PR [#58](undefined) in [django-cms/djangocms-modules](https://github.com/django-cms/djangocms-modules)
+3. 💪 Opened PR [#74](undefined) in [django-cms/djangocms-rest](https://github.com/django-cms/djangocms-rest)
+4. 🗣 Commented on [#72](https://github.com/django-cms/djangocms-rest/pull/72#issuecomment-3446665696) in [django-cms/djangocms-rest](https://github.com/django-cms/djangocms-rest)
+5. 🗣 Commented on [#72](https://github.com/django-cms/djangocms-rest/pull/72#issuecomment-3446575004) in [django-cms/djangocms-rest](https://github.com/django-cms/djangocms-rest)
 <!--END_SECTION:activity-->
 
 # Blog posts

@@ -13,11 +13,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8377](undefined) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
-2. 🔒 Closed issue [#326](https://github.com/django-cms/djangocms-moderation/issues/326) in [django-cms/djangocms-moderation](https://github.com/django-cms/djangocms-moderation)
-3. 💪 Opened PR [#58](undefined) in [django-cms/djangocms-modules](https://github.com/django-cms/djangocms-modules)
-4. 💪 Opened PR [#74](undefined) in [django-cms/djangocms-rest](https://github.com/django-cms/djangocms-rest)
-5. 🗣 Commented on [#72](https://github.com/django-cms/djangocms-rest/pull/72#issuecomment-3446665696) in [django-cms/djangocms-rest](https://github.com/django-cms/djangocms-rest)
+1. 🔒 Closed issue [#8378](https://github.com/django-cms/django-cms/issues/8378) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
+2. 💪 Opened PR [#8377](undefined) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
+3. 🔒 Closed issue [#326](https://github.com/django-cms/djangocms-moderation/issues/326) in [django-cms/djangocms-moderation](https://github.com/django-cms/djangocms-moderation)
+4. 💪 Opened PR [#58](undefined) in [django-cms/djangocms-modules](https://github.com/django-cms/djangocms-modules)
+5. 💪 Opened PR [#74](undefined) in [django-cms/djangocms-rest](https://github.com/django-cms/djangocms-rest)
 <!--END_SECTION:activity-->
 
 ## BLOG

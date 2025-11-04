@@ -13,11 +13,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1280](https://github.com/wbthomason/packer.nvim/pull/1280#issuecomment-3478959230) in [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim)
-2. 🔒 Closed issue [#8378](https://github.com/django-cms/django-cms/issues/8378) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
-3. 💪 Opened PR [#8377](undefined) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
-4. 🔒 Closed issue [#326](https://github.com/django-cms/djangocms-moderation/issues/326) in [django-cms/djangocms-moderation](https://github.com/django-cms/djangocms-moderation)
-5. 💪 Opened PR [#58](undefined) in [django-cms/djangocms-modules](https://github.com/django-cms/djangocms-modules)
+1. 🔒 Closed issue [#475](https://github.com/django-cms/djangocms-versioning/issues/475) in [django-cms/djangocms-versioning](https://github.com/django-cms/djangocms-versioning)
+2. 🔒 Closed issue [#486](https://github.com/django-cms/djangocms-versioning/issues/486) in [django-cms/djangocms-versioning](https://github.com/django-cms/djangocms-versioning)
+3. 🗣 Commented on [#1280](https://github.com/wbthomason/packer.nvim/pull/1280#issuecomment-3478959230) in [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim)
+4. 🔒 Closed issue [#8378](https://github.com/django-cms/django-cms/issues/8378) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
+5. 💪 Opened PR [#8377](undefined) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
 <!--END_SECTION:activity-->
 
 ## BLOG

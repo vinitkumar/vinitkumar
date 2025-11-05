@@ -13,11 +13,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#313](undefined) in [django-cms/djangocms-alias](https://github.com/django-cms/djangocms-alias)
-2. 🗣 Commented on [#489](https://github.com/django-cms/djangocms-versioning/pull/489#issuecomment-3484601155) in [django-cms/djangocms-versioning](https://github.com/django-cms/djangocms-versioning)
-3. 🔒 Closed issue [#475](https://github.com/django-cms/djangocms-versioning/issues/475) in [django-cms/djangocms-versioning](https://github.com/django-cms/djangocms-versioning)
-4. 🔒 Closed issue [#486](https://github.com/django-cms/djangocms-versioning/issues/486) in [django-cms/djangocms-versioning](https://github.com/django-cms/djangocms-versioning)
-5. 🗣 Commented on [#1280](https://github.com/wbthomason/packer.nvim/pull/1280#issuecomment-3478959230) in [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim)
+1. ❌ Closed PR [#313](undefined) in [django-cms/djangocms-alias](https://github.com/django-cms/djangocms-alias)
+2. 💪 Opened PR [#313](undefined) in [django-cms/djangocms-alias](https://github.com/django-cms/djangocms-alias)
+3. 🗣 Commented on [#489](https://github.com/django-cms/djangocms-versioning/pull/489#issuecomment-3484601155) in [django-cms/djangocms-versioning](https://github.com/django-cms/djangocms-versioning)
+4. 🔒 Closed issue [#475](https://github.com/django-cms/djangocms-versioning/issues/475) in [django-cms/djangocms-versioning](https://github.com/django-cms/djangocms-versioning)
+5. 🔒 Closed issue [#486](https://github.com/django-cms/djangocms-versioning/issues/486) in [django-cms/djangocms-versioning](https://github.com/django-cms/djangocms-versioning)
 <!--END_SECTION:activity-->
 
 ## BLOG

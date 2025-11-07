@@ -13,11 +13,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1554](https://github.com/django-cms/django-filer/pull/1554#issuecomment-3501649904) in [django-cms/django-filer](https://github.com/django-cms/django-filer)
-2. 💪 Opened PR [#1554](undefined) in [django-cms/django-filer](https://github.com/django-cms/django-filer)
-3. 💪 Opened PR [#2585](undefined) in [simonw/datasette](https://github.com/simonw/datasette)
-4. 💪 Opened PR [#122](undefined) in [vinitkumar/vinitkumar.me](https://github.com/vinitkumar/vinitkumar.me)
-5. 🗣 Commented on [#1551](https://github.com/django-cms/django-filer/pull/1551#issuecomment-3492731357) in [django-cms/django-filer](https://github.com/django-cms/django-filer)
+1. 🗣 Commented on [#1551](https://github.com/django-cms/django-filer/pull/1551#issuecomment-3501766860) in [django-cms/django-filer](https://github.com/django-cms/django-filer)
+2. 🚀 Published release [3.3.3](https://github.com/django-cms/django-filer/releases/tag/3.3.3) in [django-cms/django-filer](https://github.com/django-cms/django-filer)
+3. 🗣 Commented on [#1554](https://github.com/django-cms/django-filer/pull/1554#issuecomment-3501649904) in [django-cms/django-filer](https://github.com/django-cms/django-filer)
+4. 💪 Opened PR [#1554](undefined) in [django-cms/django-filer](https://github.com/django-cms/django-filer)
+5. 💪 Opened PR [#2585](undefined) in [simonw/datasette](https://github.com/simonw/datasette)
 <!--END_SECTION:activity-->
 
 ## BLOG

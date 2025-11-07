@@ -13,11 +13,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#122](undefined) in [vinitkumar/vinitkumar.me](https://github.com/vinitkumar/vinitkumar.me)
-2. 🗣 Commented on [#1551](https://github.com/django-cms/django-filer/pull/1551#issuecomment-3492731357) in [django-cms/django-filer](https://github.com/django-cms/django-filer)
-3. 💪 Opened PR [#314](undefined) in [django-cms/djangocms-alias](https://github.com/django-cms/djangocms-alias)
-4. 💪 Opened PR [#8](undefined) in [vinitkumar/nvim](https://github.com/vinitkumar/nvim)
-5. 💪 Opened PR [#7](undefined) in [vinitkumar/nvim](https://github.com/vinitkumar/nvim)
+1. 💪 Opened PR [#2585](undefined) in [simonw/datasette](https://github.com/simonw/datasette)
+2. 💪 Opened PR [#122](undefined) in [vinitkumar/vinitkumar.me](https://github.com/vinitkumar/vinitkumar.me)
+3. 🗣 Commented on [#1551](https://github.com/django-cms/django-filer/pull/1551#issuecomment-3492731357) in [django-cms/django-filer](https://github.com/django-cms/django-filer)
+4. 💪 Opened PR [#314](undefined) in [django-cms/djangocms-alias](https://github.com/django-cms/djangocms-alias)
+5. 💪 Opened PR [#8](undefined) in [vinitkumar/nvim](https://github.com/vinitkumar/nvim)
 <!--END_SECTION:activity-->
 
 ## BLOG

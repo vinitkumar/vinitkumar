@@ -13,11 +13,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#8392](https://github.com/django-cms/django-cms/issues/8392) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
-2. 🗣 Commented on [#1551](https://github.com/django-cms/django-filer/pull/1551#issuecomment-3501766860) in [django-cms/django-filer](https://github.com/django-cms/django-filer)
-3. 🚀 Published release [3.3.3](https://github.com/django-cms/django-filer/releases/tag/3.3.3) in [django-cms/django-filer](https://github.com/django-cms/django-filer)
-4. 🗣 Commented on [#1554](https://github.com/django-cms/django-filer/pull/1554#issuecomment-3501649904) in [django-cms/django-filer](https://github.com/django-cms/django-filer)
-5. 💪 Opened PR [#1554](undefined) in [django-cms/django-filer](https://github.com/django-cms/django-filer)
+1. 🗣 Commented on [#8393](https://github.com/django-cms/django-cms/pull/8393#issuecomment-3518466319) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
+2. 🔒 Closed issue [#8392](https://github.com/django-cms/django-cms/issues/8392) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
+3. 🗣 Commented on [#1551](https://github.com/django-cms/django-filer/pull/1551#issuecomment-3501766860) in [django-cms/django-filer](https://github.com/django-cms/django-filer)
+4. 🚀 Published release [3.3.3](https://github.com/django-cms/django-filer/releases/tag/3.3.3) in [django-cms/django-filer](https://github.com/django-cms/django-filer)
+5. 🗣 Commented on [#1554](https://github.com/django-cms/django-filer/pull/1554#issuecomment-3501649904) in [django-cms/django-filer](https://github.com/django-cms/django-filer)
 <!--END_SECTION:activity-->
 
 ## BLOG

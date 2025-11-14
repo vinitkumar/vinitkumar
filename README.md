@@ -13,11 +13,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8393](https://github.com/django-cms/django-cms/pull/8393#issuecomment-3531108093) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
-2. 🗣 Commented on [#498](https://github.com/django-cms/djangocms-versioning/issues/498#issuecomment-3522678475) in [django-cms/djangocms-versioning](https://github.com/django-cms/djangocms-versioning)
-3. 🗣 Commented on [#8320](https://github.com/django-cms/django-cms/pull/8320#issuecomment-3518468321) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
-4. 🗣 Commented on [#8393](https://github.com/django-cms/django-cms/pull/8393#issuecomment-3518466319) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
-5. 🔒 Closed issue [#8392](https://github.com/django-cms/django-cms/issues/8392) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
+1. 🔒 Closed issue [#8306](https://github.com/django-cms/django-cms/issues/8306) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
+2. 🔒 Closed issue [#8047](https://github.com/django-cms/django-cms/issues/8047) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
+3. 🗣 Commented on [#8393](https://github.com/django-cms/django-cms/pull/8393#issuecomment-3531108093) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
+4. 🗣 Commented on [#498](https://github.com/django-cms/djangocms-versioning/issues/498#issuecomment-3522678475) in [django-cms/djangocms-versioning](https://github.com/django-cms/djangocms-versioning)
+5. 🗣 Commented on [#8320](https://github.com/django-cms/django-cms/pull/8320#issuecomment-3518468321) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
 <!--END_SECTION:activity-->
 
 ## BLOG

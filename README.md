@@ -13,11 +13,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#317](https://github.com/bernardopires/django-tenant-schemas/issues/317) in [bernardopires/django-tenant-schemas](https://github.com/bernardopires/django-tenant-schemas)
-2. 🔒 Closed issue [#8306](https://github.com/django-cms/django-cms/issues/8306) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
-3. 🔒 Closed issue [#8047](https://github.com/django-cms/django-cms/issues/8047) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
-4. 🗣 Commented on [#8393](https://github.com/django-cms/django-cms/pull/8393#issuecomment-3531108093) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
-5. 🗣 Commented on [#498](https://github.com/django-cms/djangocms-versioning/issues/498#issuecomment-3522678475) in [django-cms/djangocms-versioning](https://github.com/django-cms/djangocms-versioning)
+1. 🗣 Commented on [#314](https://github.com/django-cms/djangocms-alias/pull/314#issuecomment-3563725177) in [django-cms/djangocms-alias](https://github.com/django-cms/djangocms-alias)
+2. 🔒 Closed issue [#317](https://github.com/bernardopires/django-tenant-schemas/issues/317) in [bernardopires/django-tenant-schemas](https://github.com/bernardopires/django-tenant-schemas)
+3. 🔒 Closed issue [#8306](https://github.com/django-cms/django-cms/issues/8306) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
+4. 🔒 Closed issue [#8047](https://github.com/django-cms/django-cms/issues/8047) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
+5. 🗣 Commented on [#8393](https://github.com/django-cms/django-cms/pull/8393#issuecomment-3531108093) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
 <!--END_SECTION:activity-->
 
 ## BLOG

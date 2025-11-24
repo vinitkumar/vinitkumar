@@ -27,11 +27,11 @@ Read it at [https://vinitkumar.me](https://vinitkumar.me)
 ### Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [2025 in Review](https://vinitkumar.me/2025-a-review/)
 - [Migrating from Packer to Lazy.nvim: A 15x Faster Startup and Why Packer is Dead](https://vinitkumar.me/2025-11-06-migrating-from-packer-to-lazy-nvim/)
 - [Vibe Engineering with Django: Working with AI Coding Agents](https://vinitkumar.me/vibe-engineering/)
 - [Monokai Pro for Vim: Bringing Modern Aesthetics to Terminal Editing](https://vinitkumar.me/monokai-pro-vim-colorscheme/)
 - [My New AI Workflow: Embracing Command-Line AI Tools](https://vinitkumar.me/new-ai-workflow/)
-- [Go 1.25: Container-Aware Runtime, Experimental GC, and Developer Experience Enhancements](https://vinitkumar.me/go-1.25/)
 <!-- BLOG-POST-LIST:END -->
 
 ## CONTACT

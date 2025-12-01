@@ -1,9 +1,14 @@
 # Hi there 👋
 
-## WORK PROJECTS
+## CURRENT WORK PROJECT
 
 - [Scalefusion Live Terminal](https://help.scalefusion.com/v1/docs/remotely-access-live-terminal-on-macos-devices): Real-time remote terminal / command execution system for multiple OS platforms
+
+## PAST WORK PROJECT
+
 - Multi-tenant CMS: Architected and led development of a CMS powering 3,000+ websites and handling millions of monthly requests (case study: [Social Schools Divio Transformation](https://www.divio.com/case-studies/social-schools-divio-transformation/))
+- Communication Platform (Social Network for Schools) for Dutch Primary education platform. Wrote it from scratch and did everything from backend, APIs, frontend and even maintained the mobile apps in Android and iOS.
+  
 
 ## OPEN SOURCE CONTRIBUTIONS
 

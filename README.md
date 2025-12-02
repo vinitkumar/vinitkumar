@@ -18,11 +18,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#259](https://github.com/vinitkumar/json2xml/pull/259#issuecomment-3595273272) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
-2. 💪 Opened PR [#259](undefined) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
-3. 💪 Opened PR [#180](undefined) in [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim)
-4. 💪 Opened PR [#9](undefined) in [vinitkumar/nvim](https://github.com/vinitkumar/nvim)
-5. 🗣 Commented on [#258](https://github.com/vinitkumar/json2xml/issues/258#issuecomment-3582069812) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
+1. 🗣 Commented on [#8418](https://github.com/django-cms/django-cms/pull/8418#issuecomment-3602556587) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
+2. 🗣 Commented on [#259](https://github.com/vinitkumar/json2xml/pull/259#issuecomment-3595273272) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
+3. 💪 Opened PR [#259](undefined) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
+4. 💪 Opened PR [#180](undefined) in [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim)
+5. 💪 Opened PR [#9](undefined) in [vinitkumar/nvim](https://github.com/vinitkumar/nvim)
 <!--END_SECTION:activity-->
 
 ## BLOG

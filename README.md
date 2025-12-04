@@ -32,11 +32,11 @@ Read it at [https://vinitkumar.me](https://vinitkumar.me)
 ### Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Django CMS Fellows &amp; Community Annual Report 2025: A Year of Extraordinary Contributions](https://vinitkumar.me/django-cms-fellows-2025-report/)
 - [My Open Source Contributions in 2025](https://vinitkumar.me/open-source-contributions-2025/)
 - [2025 in Review](https://vinitkumar.me/2025-a-review/)
 - [Migrating from Packer to Lazy.nvim: A 15x Faster Startup and Why Packer is Dead](https://vinitkumar.me/2025-11-06-migrating-from-packer-to-lazy-nvim/)
 - [Vibe Engineering with Django: Working with AI Coding Agents](https://vinitkumar.me/vibe-engineering/)
-- [Monokai Pro for Vim: Bringing Modern Aesthetics to Terminal Editing](https://vinitkumar.me/monokai-pro-vim-colorscheme/)
 <!-- BLOG-POST-LIST:END -->
 
 ## CONTACT

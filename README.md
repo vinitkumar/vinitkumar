@@ -43,8 +43,8 @@ Read it at [https://vinitkumar.me](https://vinitkumar.me)
 
 - Email: [mail@vinitkumar.me](mailto:mail@vinitkumar.me)
 - Twitter: [@vinitkme](https://twitter.com/vinitkme)
-- LinkedIn: [@vinitkme](https://linkedin.com/in/vinitkme)
-- GitHub: [@vinitkme](https://github.com/vinitkme)
+- LinkedIn: [@vinitatlinkedin](https://www.linkedin.com/in/vinitatlinkedin/)
+- GitHub: [@vinitkumar](https://github.com/vinitkumar)
 
 ## ABOUT
 

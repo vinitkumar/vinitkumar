@@ -18,11 +18,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#259](https://github.com/vinitkumar/json2xml/pull/259#issuecomment-3628016555) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
-2. 🚀 Published release [Xpath Support and Python freethreaded in CI](https://github.com/vinitkumar/json2xml/releases/tag/v5.3.1) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
-3. ❌ Merged PR [#259](undefined) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
-4. 🔒 Closed issue [#258](https://github.com/vinitkumar/json2xml/issues/258) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
-5. ❌ Merged PR [#8424](undefined) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
+1. ❌ Closed PR [#319](undefined) in [django-cms/djangocms-alias](https://github.com/django-cms/djangocms-alias)
+2. 🗣 Commented on [#259](https://github.com/vinitkumar/json2xml/pull/259#issuecomment-3628016555) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
+3. 🚀 Published release [Xpath Support and Python freethreaded in CI](https://github.com/vinitkumar/json2xml/releases/tag/v5.3.1) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
+4. ❌ Merged PR [#259](undefined) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
+5. 🔒 Closed issue [#258](https://github.com/vinitkumar/json2xml/issues/258) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
 <!--END_SECTION:activity-->
 
 ## BLOG

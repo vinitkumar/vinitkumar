@@ -18,11 +18,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#16](undefined) in [Rushi-Balapure/pdf_2_json_extractor](https://github.com/Rushi-Balapure/pdf_2_json_extractor)
-2. 🗣 Commented on [#259](https://github.com/vinitkumar/json2xml/pull/259#issuecomment-3624721493) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
-3. ❌ Closed PR [#304](undefined) in [vinitkumar/googlecl](https://github.com/vinitkumar/googlecl)
-4. ❌ Closed PR [#301](undefined) in [vinitkumar/googlecl](https://github.com/vinitkumar/googlecl)
-5. ❌ Closed PR [#303](undefined) in [vinitkumar/googlecl](https://github.com/vinitkumar/googlecl)
+1. 💪 Opened PR [#86](undefined) in [django-cms/djangocms-rest](https://github.com/django-cms/djangocms-rest)
+2. 💪 Opened PR [#331](undefined) in [django-cms/djangocms-frontend](https://github.com/django-cms/djangocms-frontend)
+3. ❌ Merged PR [#16](undefined) in [Rushi-Balapure/pdf_2_json_extractor](https://github.com/Rushi-Balapure/pdf_2_json_extractor)
+4. 💪 Opened PR [#319](undefined) in [django-cms/djangocms-alias](https://github.com/django-cms/djangocms-alias)
+5. 💪 Opened PR [#8424](undefined) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
 <!--END_SECTION:activity-->
 
 ## BLOG

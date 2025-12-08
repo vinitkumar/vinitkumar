@@ -18,11 +18,11 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#17](undefined) in [Rushi-Balapure/pdf_2_json_extractor](https://github.com/Rushi-Balapure/pdf_2_json_extractor)
-2. 💪 Opened PR [#17](undefined) in [Rushi-Balapure/pdf_2_json_extractor](https://github.com/Rushi-Balapure/pdf_2_json_extractor)
-3. 💪 Opened PR [#86](undefined) in [django-cms/djangocms-rest](https://github.com/django-cms/djangocms-rest)
-4. 💪 Opened PR [#331](undefined) in [django-cms/djangocms-frontend](https://github.com/django-cms/djangocms-frontend)
-5. ❌ Merged PR [#16](undefined) in [Rushi-Balapure/pdf_2_json_extractor](https://github.com/Rushi-Balapure/pdf_2_json_extractor)
+1. ❌ Merged PR [#8424](undefined) in [django-cms/django-cms](https://github.com/django-cms/django-cms)
+2. ❌ Merged PR [#17](undefined) in [Rushi-Balapure/pdf_2_json_extractor](https://github.com/Rushi-Balapure/pdf_2_json_extractor)
+3. 💪 Opened PR [#17](undefined) in [Rushi-Balapure/pdf_2_json_extractor](https://github.com/Rushi-Balapure/pdf_2_json_extractor)
+4. 💪 Opened PR [#86](undefined) in [django-cms/djangocms-rest](https://github.com/django-cms/djangocms-rest)
+5. 💪 Opened PR [#331](undefined) in [django-cms/djangocms-frontend](https://github.com/django-cms/djangocms-frontend)
 <!--END_SECTION:activity-->
 
 ## BLOG

@@ -119,11 +119,11 @@ Production-ready Vim/Neovim configs for Python, Go, and TypeScript development.
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#14](undefined) in [vinitkumar/algorithms](https://github.com/vinitkumar/algorithms)
-2. ❌ Closed PR [#319](undefined) in [django-cms/djangocms-alias](https://github.com/django-cms/djangocms-alias)
-3. 🗣 Commented on [#259](https://github.com/vinitkumar/json2xml/pull/259#issuecomment-3628016555) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
-4. 🚀 Published release [Xpath Support and Python freethreaded in CI](https://github.com/vinitkumar/json2xml/releases/tag/v5.3.1) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
-5. ❌ Merged PR [#259](undefined) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
+1. 💪 Opened PR [#306](undefined) in [vinitkumar/googlecl](https://github.com/vinitkumar/googlecl)
+2. 💪 Opened PR [#14](undefined) in [vinitkumar/algorithms](https://github.com/vinitkumar/algorithms)
+3. ❌ Closed PR [#319](undefined) in [django-cms/djangocms-alias](https://github.com/django-cms/djangocms-alias)
+4. 🗣 Commented on [#259](https://github.com/vinitkumar/json2xml/pull/259#issuecomment-3628016555) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
+5. 🚀 Published release [Xpath Support and Python freethreaded in CI](https://github.com/vinitkumar/json2xml/releases/tag/v5.3.1) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
 <!--END_SECTION:activity-->
 
 ---

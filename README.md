@@ -119,11 +119,11 @@ Production-ready Vim/Neovim configs for Python, Go, and TypeScript development.
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#841](https://github.com/microsoft/node-pty/pull/841#issuecomment-3677649509) in [microsoft/node-pty](https://github.com/microsoft/node-pty)
-2. ❌ Merged PR [#331](undefined) in [django-cms/djangocms-frontend](https://github.com/django-cms/djangocms-frontend)
-3. ❌ Merged PR [#10](undefined) in [vinitkumar/nvim](https://github.com/vinitkumar/nvim)
-4. 💪 Opened PR [#10](undefined) in [vinitkumar/nvim](https://github.com/vinitkumar/nvim)
-5. ❌ Merged PR [#86](undefined) in [django-cms/djangocms-rest](https://github.com/django-cms/djangocms-rest)
+1. 🗣 Commented on [#841](https://github.com/microsoft/node-pty/pull/841#issuecomment-3677905196) in [microsoft/node-pty](https://github.com/microsoft/node-pty)
+2. 🗣 Commented on [#841](https://github.com/microsoft/node-pty/pull/841#issuecomment-3677649509) in [microsoft/node-pty](https://github.com/microsoft/node-pty)
+3. ❌ Merged PR [#331](undefined) in [django-cms/djangocms-frontend](https://github.com/django-cms/djangocms-frontend)
+4. ❌ Merged PR [#10](undefined) in [vinitkumar/nvim](https://github.com/vinitkumar/nvim)
+5. 💪 Opened PR [#10](undefined) in [vinitkumar/nvim](https://github.com/vinitkumar/nvim)
 <!--END_SECTION:activity-->
 
 ---

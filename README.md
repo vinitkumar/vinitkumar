@@ -119,11 +119,11 @@ Production-ready Vim/Neovim configs for Python, Go, and TypeScript development.
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#331](undefined) in [django-cms/djangocms-frontend](https://github.com/django-cms/djangocms-frontend)
-2. ❌ Merged PR [#10](undefined) in [vinitkumar/nvim](https://github.com/vinitkumar/nvim)
-3. 💪 Opened PR [#10](undefined) in [vinitkumar/nvim](https://github.com/vinitkumar/nvim)
-4. ❌ Merged PR [#86](undefined) in [django-cms/djangocms-rest](https://github.com/django-cms/djangocms-rest)
-5. 💪 Opened PR [#306](undefined) in [vinitkumar/googlecl](https://github.com/vinitkumar/googlecl)
+1. 🗣 Commented on [#841](https://github.com/microsoft/node-pty/pull/841#issuecomment-3677649509) in [microsoft/node-pty](https://github.com/microsoft/node-pty)
+2. ❌ Merged PR [#331](undefined) in [django-cms/djangocms-frontend](https://github.com/django-cms/djangocms-frontend)
+3. ❌ Merged PR [#10](undefined) in [vinitkumar/nvim](https://github.com/vinitkumar/nvim)
+4. 💪 Opened PR [#10](undefined) in [vinitkumar/nvim](https://github.com/vinitkumar/nvim)
+5. ❌ Merged PR [#86](undefined) in [django-cms/djangocms-rest](https://github.com/django-cms/djangocms-rest)
 <!--END_SECTION:activity-->
 
 ---

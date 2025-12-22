@@ -119,11 +119,11 @@ Production-ready Vim/Neovim configs for Python, Go, and TypeScript development.
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#260](undefined) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
-2. ❌ Merged PR [#6](undefined) in [vinitkumar/oscura-vim](https://github.com/vinitkumar/oscura-vim)
-3. 💪 Opened PR [#6](undefined) in [vinitkumar/oscura-vim](https://github.com/vinitkumar/oscura-vim)
-4. 🗣 Commented on [#841](https://github.com/microsoft/node-pty/pull/841#issuecomment-3677905196) in [microsoft/node-pty](https://github.com/microsoft/node-pty)
-5. 🗣 Commented on [#841](https://github.com/microsoft/node-pty/pull/841#issuecomment-3677649509) in [microsoft/node-pty](https://github.com/microsoft/node-pty)
+1. ❌ Merged PR [#260](undefined) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
+2. 💪 Opened PR [#260](undefined) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
+3. ❌ Merged PR [#6](undefined) in [vinitkumar/oscura-vim](https://github.com/vinitkumar/oscura-vim)
+4. 💪 Opened PR [#6](undefined) in [vinitkumar/oscura-vim](https://github.com/vinitkumar/oscura-vim)
+5. 🗣 Commented on [#841](https://github.com/microsoft/node-pty/pull/841#issuecomment-3677905196) in [microsoft/node-pty](https://github.com/microsoft/node-pty)
 <!--END_SECTION:activity-->
 
 ---

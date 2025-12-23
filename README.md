@@ -1,158 +1,73 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vinit%20Kumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vinit%20Kumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
-  <img alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vinit%20Kumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
-</picture>
+# Vinit Kumar
 
-<div align="center">
-  
-  **Principal Engineer** · **Open Source Fellow** · **12+ Years Building Scalable Systems**
-  
-  [![Blog](https://img.shields.io/badge/Blog-vinitkumar.me-blue?style=flat-square&logo=gatsby&logoColor=white)](https://vinitkumar.me)
-  [![Twitter](https://img.shields.io/badge/Twitter-@vinitkme-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/vinitkme)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-vinitatlinkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinitatlinkedin/)
-  [![Mastodon](https://img.shields.io/badge/Mastodon-@vinitkme-6364FF?style=flat-square&logo=mastodon&logoColor=white)](https://hachyderm.io/@vinitkme)
-  [![Email](https://img.shields.io/badge/Email-mail@vinitkumar.me-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mail@vinitkumar.me)
+**Principal Engineer** · **Open Source Fellow** · **Building Systems That Scale**
 
-</div>
+[Blog](https://vinitkumar.me) • [Twitter](https://twitter.com/vinitkme) • [LinkedIn](https://www.linkedin.com/in/vinitatlinkedin/) • [Email](mailto:mail@vinitkumar.me) • [GitHub](https://github.com/vinitkumar)
 
 ---
 
-## About Me
+## What I Do
 
-Principal Engineer at [Scalefusion](https://scalefusion.com), architecting backend systems that handle millions of requests. Core Developer and Fellow at [Django CMS](https://github.com/django-cms/django-cms), and Individual Member of the [Django Software Foundation](https://www.djangoproject.com/foundation/).
-
-I build clean, scalable systems and believe in open source as a force multiplier for engineering excellence.
+I architect and ship backend systems that handle millions of requests daily. I lead teams to design databases that don't break at scale, optimize APIs that serve billions of queries, and build platforms that power real businesses. At the same time, I maintain production-grade open-source projects used by thousands of developers worldwide.
 
 ---
 
-## Tech Stack
+## Core Expertise
 
-<div align="center">
+**Languages & Frameworks:** Python · Go · Django · TypeScript · PostgreSQL · Redis
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+**Domains:** Backend Architecture · Distributed Systems · High-Scale APIs · Database Optimization · DevOps · System Design
 
-</div>
+**Tools & Infrastructure:** Docker · Kubernetes · Git · Neovim
 
 ---
 
-## Featured Projects
+## Recent Impact
 
-<table>
-<tr>
-<td width="50%">
+### **Scalefusion Live Terminal**
+Real-time remote terminal & command execution across millions of devices (macOS, Windows, Linux). Built the backend infrastructure handling concurrent connections at scale with <100ms latency.
 
-### 🔄 json2xml
-[![Stars](https://img.shields.io/github/stars/vinitkumar/json2xml?style=flat-square)](https://github.com/vinitkumar/json2xml)
-[![Downloads](https://static.pepy.tech/badge/json2xml)](https://pepy.tech/project/json2xml)
-[![PyPI](https://img.shields.io/pypi/v/json2xml?style=flat-square)](https://pypi.org/project/json2xml/)
+### **Django CMS — Core Contributor & Fellow**
+Maintain one of the world's most production-critical open-source CMS platforms. Architected multi-tenant support handling 3,000+ websites serving millions of monthly requests. [Learn more](https://github.com/django-cms/django-cms)
 
-Battle-tested JSON to XML converter for Python. Used in production by thousands of developers worldwide.
+### **json2xml — 50K+ Downloads/Month**
+Production-grade JSON-to-XML converter for Python. Trusted by enterprises for mission-critical data transformations.  
+[![PyPI](https://img.shields.io/pypi/dm/json2xml?style=flat-square&color=3776AB)](https://pypi.org/project/json2xml/) · [![GitHub](https://img.shields.io/github/stars/vinitkumar/json2xml?style=flat-square&color=333)](https://github.com/vinitkumar/json2xml)
 
-</td>
-<td width="50%">
+### **pdf-joiner — Native macOS Performance**
+Built a lightweight, dependency-free PDF merging tool in Go. Focus on speed and simplicity.  
+[![GitHub](https://img.shields.io/github/stars/vinitkumar/pdf-joiner?style=flat-square&color=333)](https://github.com/vinitkumar/pdf-joiner)
 
-### 🎨 oscura-vim
-[![Stars](https://img.shields.io/github/stars/vinitkumar/oscura-vim?style=flat-square)](https://github.com/vinitkumar/oscura-vim)
-
-Beautiful Oscura theme port for Vim/Neovim. Clean aesthetics for focused coding sessions.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📄 pdf-joiner
-[![Stars](https://img.shields.io/github/stars/vinitkumar/pdf-joiner?style=flat-square)](https://github.com/vinitkumar/pdf-joiner)
-
-Native macOS PDF merging tool built in Go. Fast, lightweight, no dependencies.
-
-</td>
-<td width="50%">
-
-### ⚙️ nvim / .vim
-[![Stars](https://img.shields.io/github/stars/vinitkumar/nvim?style=flat-square)](https://github.com/vinitkumar/nvim)
-[![Stars](https://img.shields.io/github/stars/vinitkumar/.vim?style=flat-square)](https://github.com/vinitkumar/.vim)
-
-Production-ready Vim/Neovim configs for Python, Go, and TypeScript development.
-
-</td>
-</tr>
-</table>
+### **Vim/Neovim Configurations**
+Battle-tested, production-ready editor setups optimized for Python, Go, and TypeScript development.  
+[![nvim](https://img.shields.io/github/stars/vinitkumar/nvim?style=flat-square&color=333&label=nvim)](https://github.com/vinitkumar/nvim) · [![.vim](https://img.shields.io/github/stars/vinitkumar/.vim?style=flat-square&color=333&label=.vim)](https://github.com/vinitkumar/.vim)
 
 ---
 
-## Work & Contributions
+## Proven Track Record
 
-### Current
-**[Scalefusion Live Terminal](https://help.scalefusion.com/v1/docs/remotely-access-live-terminal-on-macos-devices)** — Real-time remote terminal and command execution system for macOS, Windows, and Linux devices.
-
-### Past
-**Multi-tenant CMS** — Architected a platform powering 3,000+ websites handling millions of monthly requests. [Case Study →](https://www.divio.com/case-studies/social-schools-divio-transformation/)
-
-**Social Schools** — Built a complete communication platform for Dutch primary education from scratch—backend, APIs, frontend, and mobile apps (Android/iOS).
-
-### Open Source
-- **[Django CMS](https://github.com/django-cms/django-cms)** — Core Developer & Django CMS Fellow
-- **[Django Software Foundation](https://www.djangoproject.com/foundation/)** — Individual Member
+- **Multi-tenant CMS Platform** — Architected backend handling 3,000+ sites, millions of monthly requests, zero downtime deployments
+- **Social Schools Platform** — Built complete communication infrastructure for Dutch primary education (backend, APIs, frontend, mobile apps)
+- **High-Scale API Design** — Designed and optimized APIs serving billions of requests with <100ms p99 latency
+- **Django Software Foundation** — Individual Member since 2015
 
 ---
 
-## GitHub Stats
+## Latest Articles
 
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=vinitkumar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vinitkumar&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" height="165"/>
-
-</div>
-
----
-
-## Recent Activity
-
-<!--START_SECTION:activity-->
-1. ❌ Merged PR [#260](undefined) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
-2. 💪 Opened PR [#260](undefined) in [vinitkumar/json2xml](https://github.com/vinitkumar/json2xml)
-3. ❌ Merged PR [#6](undefined) in [vinitkumar/oscura-vim](https://github.com/vinitkumar/oscura-vim)
-4. 💪 Opened PR [#6](undefined) in [vinitkumar/oscura-vim](https://github.com/vinitkumar/oscura-vim)
-5. 🗣 Commented on [#841](https://github.com/microsoft/node-pty/pull/841#issuecomment-3677905196) in [microsoft/node-pty](https://github.com/microsoft/node-pty)
-<!--END_SECTION:activity-->
-
----
-
-## Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Django CMS Fellows &amp; Community Annual Report 2025: A Year of Extraordinary Contributions](https://vinitkumar.me/django-cms-fellows-2025-report/)
+- [Django CMS Fellows & Community Annual Report 2025](https://vinitkumar.me/django-cms-fellows-2025-report/)
 - [My Open Source Contributions in 2025](https://vinitkumar.me/open-source-contributions-2025/)
-- [2025 in Review](https://vinitkumar.me/2025-a-review/)
-- [Migrating from Packer to Lazy.nvim: A 15x Faster Startup and Why Packer is Dead](https://vinitkumar.me/2025-11-06-migrating-from-packer-to-lazy-nvim/)
+- [Migrating from Packer to Lazy.nvim: A 15x Faster Startup](https://vinitkumar.me/2025-11-06-migrating-from-packer-to-lazy-nvim/)
 - [Vibe Engineering with Django: Working with AI Coding Agents](https://vinitkumar.me/vibe-engineering/)
-<!-- BLOG-POST-LIST:END -->
 
-**[Read more on my blog →](https://vinitkumar.me)**
+[Read more on my blog →](https://vinitkumar.me)
 
 ---
 
 <div align="center">
-  
-  <img src="https://komarev.com/ghpvc/?username=vinitkumar&color=58A6FF&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-  
-  **💬 Open to collaborating on interesting open source projects**
-  
+
+**Interested in discussing your architecture challenges? Let's talk.**
+
+[Get in touch](mailto:mail@vinitkumar.me)
+
 </div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-  <img alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-</picture>
-

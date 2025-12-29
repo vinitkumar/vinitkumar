@@ -49,7 +49,7 @@ Battle-tested, production-ready editor setups optimized for Python, Go, and Type
 - **Multi-tenant CMS Platform** — Architected backend handling 3,000+ sites, millions of monthly requests, zero downtime deployments
 - **Social Schools Platform** — Built complete communication infrastructure for Dutch primary education (backend, APIs, frontend, mobile apps)
 - **High-Scale API Design** — Designed and optimized APIs serving billions of requests with <100ms p99 latency
-- **Django Software Foundation** — Individual Member since 2015
+- **Django Software Foundation** — Individual Member since 2025
 
 ---
 

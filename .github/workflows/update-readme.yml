@@ -1,27 +1,41 @@
 name: Update README
 
 on:
-  schedule:
-    - cron: "*/5 * * * *"
+  push:
+    branches:
+      - master
   workflow_dispatch:
+  schedule:
+    # Run every 6 hours
+    - cron: '0 */6 * * *'
 
 jobs:
   build:
-    runs-on: ubuntu-22.04
-    name: Update this repo's README with recent activity
-
-    steps:
-      - uses: actions/checkout@v4
-      - uses: jamesgeorge007/github-activity-readme@v0.4.5
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          feed_list: "https://vinitkumar.me/rss.xml"
-          max_post_count: 5
+    - name: Check out repo
+      uses: actions/checkout@v4
+    
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: "3.12"
+        cache: "pip"
+    
+    - name: Install Python dependencies
+      run: |
+        python -m pip install -r requirements.txt
+    
+    - name: Update README
+      run: |-
+        python build_readme.py
+        cat README.md
+    
+    - name: Commit and push if changed
+      run: |-
+        git diff
+        git config --global user.email "actions@users.noreply.github.com"
+        git config --global user.name "README-bot"
+        git add -A
+        git commit -m "Updated README with latest blog posts and TIL" || exit 0
+        git push

@@ -53,14 +53,27 @@ Battle-tested, production-ready editor setups optimized for Python, Go, and Type
 
 ---
 
-## Latest Articles
-
-- [Django CMS Fellows & Community Annual Report 2025](https://vinitkumar.me/django-cms-fellows-2025-report/)
-- [My Open Source Contributions in 2025](https://vinitkumar.me/open-source-contributions-2025/)
-- [Migrating from Packer to Lazy.nvim: A 15x Faster Startup](https://vinitkumar.me/2025-11-06-migrating-from-packer-to-lazy-nvim/)
-- [Vibe Engineering with Django: Working with AI Coding Agents](https://vinitkumar.me/vibe-engineering/)
+## Latest Blog Posts
+<!-- blog starts -->
+- [The 25x Speedup: Why Python Performance Rules Matter](https://vinitkumar.me/coding-rules-comparison/) - 2025-12-27
+- [Django CMS Fellows & Community Annual Report 2025: A Year of Extraordinary Contributions](https://vinitkumar.me/django-cms-fellows-2025-report/) - 2025-12-03
+- [My Open Source Contributions in 2025](https://vinitkumar.me/open-source-contributions-2025/) - 2025-11-28
+- [2025 in Review](https://vinitkumar.me/2025-a-review/) - 2025-11-24
+- [Migrating from Packer to Lazy.nvim: A 15x Faster Startup and Why Packer is Dead](https://vinitkumar.me/2025-11-06-migrating-from-packer-to-lazy-nvim/) - 2025-11-06
+<!-- blog ends -->
 
 [Read more on my blog →](https://vinitkumar.me)
+
+---
+
+## Today I Learned (TIL)
+<!-- til starts -->
+- [[TIL] How Not To Install LazyGit on Ubuntu](https://vinitkumar.me/til/snap-lazygit/) - 2025-07-29
+- [[TIL] Git Sparse Checkout for Large Repos](https://vinitkumar.me/til/git-sparse-headers/) - 2024-12-28
+- [[TIL] CSS Container Queries Are Game Changers](https://vinitkumar.me/til/css-container-queries/) - 2024-12-27
+<!-- til ends -->
+
+[Browse all TIL posts →](https://vinitkumar.me/til/)
 
 ---
 

@@ -69,17 +69,17 @@ Battle-tested, production-ready editor setups optimized for Python, Go, and Type
 - **Multi-tenant CMS Platform** — Architected backend handling 3,000+ sites, millions of monthly requests, zero downtime deployments
 - **Social Schools Platform** — Built complete communication infrastructure for Dutch primary education (backend, APIs, frontend, mobile apps)
 - **High-Scale API Design** — Designed and optimized APIs serving billions of requests with <100ms p99 latency
-- **Django Software Foundation** — Individual Member since 2015
+- **Django Software Foundation** — Individual Member since 2025
 
 ---
 
 ## Latest Blog Posts
 <!-- blog starts -->
+- [json2xml v6.0.1: 29x Faster with Native Rust Extension](https://vinitkumar.me/json2xml-rust-extension/) - 2026-01-16
+- [Building json2xml Across Three Languages in One Day](https://vinitkumar.me/json2xml-multiplatform-day/) - 2026-01-14
+- [How to Be a Good Programmer in the Age of AI](https://vinitkumar.me/2026-01-08-good-programmer-ai-age/) - 2026-01-08
+- [Hello 2026](https://vinitkumar.me/new-year/) - 2026-01-06
 - [The 25x Speedup: Why Python Performance Rules Matter](https://vinitkumar.me/coding-rules-comparison/) - 2025-12-27
-- [Django CMS Fellows & Community Annual Report 2025: A Year of Extraordinary Contributions](https://vinitkumar.me/django-cms-fellows-2025-report/) - 2025-12-03
-- [My Open Source Contributions in 2025](https://vinitkumar.me/open-source-contributions-2025/) - 2025-11-28
-- [2025 in Review](https://vinitkumar.me/2025-a-review/) - 2025-11-24
-- [Migrating from Packer to Lazy.nvim: A 15x Faster Startup and Why Packer is Dead](https://vinitkumar.me/2025-11-06-migrating-from-packer-to-lazy-nvim/) - 2025-11-06
 <!-- blog ends -->
 
 [Read more on my blog →](https://vinitkumar.me)

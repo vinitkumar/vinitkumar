@@ -4,28 +4,6 @@
 
 [Blog](https://vinitkumar.me) • [Twitter](https://twitter.com/vinitkme) • [LinkedIn](https://www.linkedin.com/in/vinitatlinkedin/) • [Email](mailto:mail@vinitkumar.me) • [GitHub](https://github.com/vinitkumar)
 
----
-
-## GitHub Metrics
-
-<img src="header.svg" width="100%" alt="GitHub profile header">
-
-<img src="acti_comm.svg" width="100%" alt="Activity and community stats">
-
-<img src="iso_calendar.svg" width="100%" alt="Isometric commit calendar">
-
-<img src="github-habits.svg" width="100%" alt="Coding habits">
-
-<img src="issue_pr_lang.svg" width="100%" alt="Issues, PRs, and languages">
-
-<img src="lines-of-code.svg" width="100%" alt="Lines of code">
-
-<img src="repositories.svg" width="100%" alt="Repositories">
-
-<img src="achievements.svg" width="100%" alt="GitHub achievements">
-
----
-
 ## What I Do
 
 I architect and ship backend systems that handle millions of requests daily. I lead teams to design databases that don't break at scale, optimize APIs that serve billions of queries, and build platforms that power real businesses. At the same time, I maintain production-grade open-source projects used by thousands of developers worldwide.
@@ -51,15 +29,15 @@ Real-time remote terminal & command execution across millions of devices (macOS,
 Maintain one of the world's most production-critical open-source CMS platforms. Architected multi-tenant support handling 3,000+ websites serving millions of monthly requests. [Learn more](https://github.com/django-cms/django-cms)
 
 ### **json2xml — 50K+ Downloads/Month**
-Production-grade JSON-to-XML converter for Python. Trusted by enterprises for mission-critical data transformations.  
+Production-grade JSON-to-XML converter for Python. Trusted by enterprises for mission-critical data transformations.
 [![PyPI](https://img.shields.io/pypi/dm/json2xml?style=flat-square&color=3776AB)](https://pypi.org/project/json2xml/) · [![GitHub](https://img.shields.io/github/stars/vinitkumar/json2xml?style=flat-square&color=333)](https://github.com/vinitkumar/json2xml)
 
 ### **pdf-joiner — Native macOS Performance**
-Built a lightweight, dependency-free PDF merging tool in Go. Focus on speed and simplicity.  
+Built a lightweight, dependency-free PDF merging tool in Go. Focus on speed and simplicity.
 [![GitHub](https://img.shields.io/github/stars/vinitkumar/pdf-joiner?style=flat-square&color=333)](https://github.com/vinitkumar/pdf-joiner)
 
 ### **Vim/Neovim Configurations**
-Battle-tested, production-ready editor setups optimized for Python, Go, and TypeScript development.  
+Battle-tested, production-ready editor setups optimized for Python, Go, and TypeScript development.
 [![nvim](https://img.shields.io/github/stars/vinitkumar/nvim?style=flat-square&color=333&label=nvim)](https://github.com/vinitkumar/nvim) · [![.vim](https://img.shields.io/github/stars/vinitkumar/.vim?style=flat-square&color=333&label=.vim)](https://github.com/vinitkumar/.vim)
 
 ---

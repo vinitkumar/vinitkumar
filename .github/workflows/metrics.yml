@@ -1,0 +1,142 @@
+# GitHub profile metrics (inspired by jessfraz/jessfraz)
+# Requires: Add METRICS_SECRET (GitHub PAT with read:user) and optionally USER_TIMEZONE in repo secrets
+# Docs: https://github.com/lowlighter/metrics
+
+name: Metrics
+
+on:
+  schedule: [{cron: "0 * * * *"}]
+  workflow_dispatch:
+  push: {branches: ["master"]}
+
+jobs:
+  achievements:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: achievements.svg
+          token: ${{ secrets.METRICS_SECRET }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          user: vinitkumar
+          base: achievements
+          plugin_achievements: yes
+          plugin_achievements_threshold: B
+          plugin_achievements_secrets: yes
+          plugin_achievements_display: compact
+          plugin_achievements_limit: 0
+
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: header.svg
+          token: ${{ secrets.METRICS_SECRET }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          user: vinitkumar
+          template: classic
+          base: header
+          config_timezone: ${{ secrets.USER_TIMEZONE }}
+
+  lines:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: lines-of-code.svg
+          token: ${{ secrets.METRICS_SECRET }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          user: vinitkumar
+          base: "repositories"
+          plugin_lines: yes
+
+  acti_comm:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: acti_comm.svg
+          token: ${{ secrets.METRICS_SECRET }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          user: vinitkumar
+          template: classic
+          base: activity, community
+          config_timezone: ${{ secrets.USER_TIMEZONE }}
+
+  iso_calendar:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: iso_calendar.svg
+          token: ${{ secrets.METRICS_SECRET }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          user: vinitkumar
+          template: classic
+          base: ""
+          config_timezone: ${{ secrets.USER_TIMEZONE }}
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+
+  habits:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: github-habits.svg
+          token: ${{ secrets.METRICS_SECRET }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          config_timezone: ${{ secrets.USER_TIMEZONE }}
+          user: vinitkumar
+          base: ""
+          template: classic
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_charts: yes
+          plugin_habits_trim: yes
+
+  issue_pr_lang:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: issue_pr_lang.svg
+          token: ${{ secrets.METRICS_SECRET }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          user: vinitkumar
+          template: classic
+          base: ""
+          config_timezone: ${{ secrets.USER_TIMEZONE }}
+          plugin_followup: yes
+          plugin_languages: yes
+
+  repositories:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: repositories.svg
+          token: ${{ secrets.METRICS_SECRET }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          user: vinitkumar
+          template: classic
+          base: repositories
+          config_timezone: ${{ secrets.USER_TIMEZONE }}

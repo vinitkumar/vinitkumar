@@ -6,6 +6,26 @@
 
 ---
 
+## GitHub Metrics
+
+<img src="header.svg" width="100%" alt="GitHub profile header">
+
+<img src="acti_comm.svg" width="100%" alt="Activity and community stats">
+
+<img src="iso_calendar.svg" width="100%" alt="Isometric commit calendar">
+
+<img src="github-habits.svg" width="100%" alt="Coding habits">
+
+<img src="issue_pr_lang.svg" width="100%" alt="Issues, PRs, and languages">
+
+<img src="lines-of-code.svg" width="100%" alt="Lines of code">
+
+<img src="repositories.svg" width="100%" alt="Repositories">
+
+<img src="achievements.svg" width="100%" alt="GitHub achievements">
+
+---
+
 ## What I Do
 
 I architect and ship backend systems that handle millions of requests daily. I lead teams to design databases that don't break at scale, optimize APIs that serve billions of queries, and build platforms that power real businesses. At the same time, I maintain production-grade open-source projects used by thousands of developers worldwide.

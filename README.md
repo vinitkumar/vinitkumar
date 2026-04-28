@@ -2,27 +2,40 @@
 
 **Principal Engineer** building backend systems, developer tools, and open source software.
 
+I build practical software for people who care about reliability, performance, and maintainable systems. Most of my open source work sits around Python, Rust, Go, TypeScript, APIs, CLIs, databases, and developer workflow.
+
 [Blog](https://vinitkumar.me) • [LinkedIn](https://www.linkedin.com/in/vinitatlinkedin/) • [Twitter](https://twitter.com/vinitkme) • [Email](mailto:mail@vinitkumar.me)
 
-I work on high-scale backend platforms and the tooling around them: APIs, databases, automation, and developer experience. I enjoy taking systems from "works in staging" to reliable, observable, and fast in production.
-
-## Featured Work
+## Start Here
 
 - [json2xml](https://github.com/vinitkumar/json2xml)  
-  A JSON-to-XML converter for Python with a native Rust extension that significantly improved performance.
+  A Python JSON-to-XML library with an optional native Rust extension. The current benchmark shows the Rust path running **57-129x faster** than pure Python, with automatic fallback when native wheels are unavailable.
 
-- [chatbot](https://github.com/vinitkumar/chatbot)  
-  A compact chatbot experiment built with C and Zig, exploring systems-level implementation choices.
+- [json2xml-go](https://github.com/vinitkumar/json2xml-go)  
+  A Go implementation and CLI for shell-based JSON-to-XML conversion, useful for batch jobs and data pipelines.
 
-- [node-twitter](https://github.com/vinitkumar/node-twitter)  
-  A Twitter clone built with Node.js and TypeScript, useful as a full-stack architecture reference project.
+- [json2xml-zig](https://github.com/vinitkumar/json2xml-zig)  
+  A Zig implementation exploring fast native CLI startup and throughput for the same conversion problem.
+
+Together, these projects are my current open source lab for performance work across Python extension modules, native CLIs, packaging, benchmarks, and developer-facing documentation.
 
 ## What I Focus On
 
 - Backend architecture for products operating at meaningful scale
-- Performance work across Python, Rust, Go, and TypeScript
-- Developer tools, editors, and workflow automation
-- Open source projects that are small, practical, and well-documented
+- Python, Rust, Go, and TypeScript systems where performance matters
+- Developer tools, editors, CLIs, automation, and workflow design
+- Open source projects that are small, practical, tested, and well-documented
+
+## Featured Work
+
+- [node-twitter](https://github.com/vinitkumar/node-twitter)  
+  A Twitter-style application built with Node.js and TypeScript, useful as a full-stack architecture reference project.
+
+- [chatbot](https://github.com/vinitkumar/chatbot)  
+  A compact chatbot experiment built with C and Zig, exploring systems-level implementation choices.
+
+- [oscura-vim](https://github.com/vinitkumar/oscura-vim)  
+  A Vim port of the Oscura theme.
 
 ## Writing
 <!-- blog starts -->
@@ -33,7 +46,7 @@ I work on high-scale backend platforms and the tooling around them: APIs, databa
 - [Building json2xml Across Three Languages in One Day](https://vinitkumar.me/json2xml-multiplatform-day/) - 2026-01-14
 <!-- blog ends -->
 
-[Read more on my blog →](https://vinitkumar.me)
+[Read more on my blog ->](https://vinitkumar.me)
 
 ## TIL
 <!-- til starts -->
@@ -42,6 +55,6 @@ I work on high-scale backend platforms and the tooling around them: APIs, databa
 - [[TIL] CSS Container Queries Are Game Changers](https://vinitkumar.me/til/css-container-queries/) - 2024-12-27
 <!-- til ends -->
 
-[Browse all TIL posts →](https://vinitkumar.me/til/)
+[Browse all TIL posts ->](https://vinitkumar.me/til/)
 
-If you're working on backend scale, performance, or developer tooling, I'd be happy to compare notes.
+If you are working on backend scale, Python/Rust performance, CLIs, or developer tooling, I would be happy to compare notes.

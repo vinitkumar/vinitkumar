@@ -39,11 +39,11 @@ Together, these projects are my current open source lab for performance work acr
 
 ## Writing
 <!-- blog starts -->
+- [Github PR Attention: A Terminal UI for Taming the PR Inbox](https://vinitkumar.me/github-pr-attention/) - 2026-04-29
 - [How to Land That Job](https://vinitkumar.me/how-to-land-that-job/) - 2026-03-19
 - [Why I Forked fff.nvim and Turned It Into a Complete Picker Ecosystem](https://vinitkumar.me/fff-nvim-fork/) - 2026-03-11
 - [New Blog After a Hiatus](https://vinitkumar.me/new-blog-after-hiatus/) - 2026-02-24
 - [json2xml v6.0.1: 29x Faster with Native Rust Extension](https://vinitkumar.me/json2xml-rust-extension/) - 2026-01-16
-- [Building json2xml Across Three Languages in One Day](https://vinitkumar.me/json2xml-multiplatform-day/) - 2026-01-14
 <!-- blog ends -->
 
 [Read more on my blog ->](https://vinitkumar.me)

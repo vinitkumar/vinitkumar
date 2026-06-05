@@ -39,11 +39,11 @@ Together, these projects are my current open source lab for performance work acr
 
 ## Writing
 <!-- blog starts -->
+- [json2xml 6.2.0: Cutting Serializer Memory Usage in Half](https://vinitkumar.me/json2xml-62-memory-savings/) - 2026-06-05
 - [Daily Blog May 29](https://vinitkumar.me/daily-blog-may-29/) - 2026-05-29
 - [Daily Blog May 28](https://vinitkumar.me/daily-blog-may-28/) - 2026-05-28
 - [GitHub PR Attention: A Terminal UI for Taming the PR Inbox](https://vinitkumar.me/github-pr-attention/) - 2026-04-29
 - [How to Land That Job](https://vinitkumar.me/how-to-land-that-job/) - 2026-03-19
-- [Why I Forked fff.nvim and Turned It Into a Complete Picker Ecosystem](https://vinitkumar.me/fff-nvim-fork/) - 2026-03-11
 <!-- blog ends -->
 
 [Read more on my blog ->](https://vinitkumar.me)

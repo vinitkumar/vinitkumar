@@ -1,62 +1,91 @@
 # Vinit Kumar
 
-**Principal Engineer** at [Scalefusion](https://scalefusion.com) · **Django CMS Fellow** · builder of reliable systems, terminal tools, and open source software.
+I build software for the places where taste still matters: production backends,
+developer tools, terminal workflows, editor setups, and small utilities that
+quietly become part of daily work.
 
-I like software that is boring in production and sharp in the hands of developers.
+I am a **Principal Engineer at [Scalefusion](https://scalefusion.com)** and a
+**Django CMS Fellow**. Most of my work lives at the intersection of Python,
+Go, Rust, TypeScript, open source maintenance, and the practical craft of
+shipping systems that stay boring after they become important.
 
-My work sits around backend systems, open-source maintenance, developer tooling, performance, and the practical side of AI-assisted engineering. I write Python, Go, Rust, TypeScript, and enough shell to keep the machinery honest.
+[vinitkumar.me](https://vinitkumar.me) ·
+[LinkedIn](https://www.linkedin.com/in/vinitatlinkedin/) ·
+[Twitter/X](https://twitter.com/vinitkme) ·
+[Email](mailto:mail@vinitkumar.me)
 
-[Blog](https://vinitkumar.me) • [LinkedIn](https://www.linkedin.com/in/vinitatlinkedin/) • [Twitter](https://twitter.com/vinitkme) • [Email](mailto:mail@vinitkumar.me)
+## What I Am Known For
 
-## Start Here
+- Maintaining mature Python software without turning it into a museum.
+- Building tools that reduce review, release, and shell friction.
+- Caring about performance, but only after behavior is clear and measured.
+- Keeping my editor, fonts, themes, and terminal setup sharp because they shape
+  the workday more than most dashboards do.
+- Writing about the code I ship, the decisions behind it, and the parts that
+  were harder than they looked.
 
-- [github-pr-attention](https://github.com/vinitkumar/github-pr-attention)
-  - A Go terminal UI for treating GitHub pull requests like an inbox. It is built for the review loop I actually live in: scan, inspect, approve, merge, move on.
+## Current Workbench
 
-- [json2xml](https://github.com/vinitkumar/json2xml)
-  - A long-running Python JSON-to-XML library. Recent work includes native Rust acceleration, memory reductions in the serializer, better benchmarks, and a cleaner path for users who need speed without losing Python ergonomics.
+These are the projects that best represent what I am focused on now.
 
-- [json2xml-go](https://github.com/vinitkumar/json2xml-go)
-  - A Go implementation and CLI for shell-based JSON-to-XML conversion, useful for batch jobs, data pipelines, and places where startup time matters.
+| Project | Why it exists |
+| --- | --- |
+| [`json2xml`](https://github.com/vinitkumar/json2xml) | A long-running Python library and CLI for converting JSON to XML, now with native Rust acceleration and a renewed focus on performance, packaging, and correctness. |
+| [`github-pr-attention`](https://github.com/vinitkumar/github-pr-attention) | A Go terminal inbox for GitHub pull requests that need attention: review requests, assignments, mentions, authored PRs, detail views, comments, reviews, reports, and merge workflows. |
+| [`pycrawler`](https://github.com/vinitkumar/pycrawler) | A modern Python crawler experiment around concurrency, Python 3.13+, and the free-threaded future. |
+| [`berka-mono-closer`](https://github.com/vinitkumar/berka-mono-closer) | An open Iosevka custom build with a calm, wide, rectangular coding texture. |
+| [`trace-mono`](https://github.com/vinitkumar/trace-mono) | Another type and specimen experiment, because fonts are tools too. |
+| [`nvim`](https://github.com/vinitkumar/nvim) / [`.vim`](https://github.com/vinitkumar/.vim) | My editor configuration: the part of my workflow that compounds quietly over years. |
 
-- [json2xml-zig](https://github.com/vinitkumar/json2xml-zig)
-  - A Zig implementation exploring native CLI startup, low-level memory choices, and how the same problem feels in a systems language.
+## Long-Running Open Source
 
-- [fff.nvim fork](https://github.com/vinitkumar/fff.nvim)
-  - My Neovim picker fork with buffer switching, git status picking, and live colorscheme browsing built around a fast Rust-powered file finder.
+Some projects are new labs. Some are old rooms I still know my way around.
 
-These projects are my current open-source lab: Python extension modules, Go TUIs, native CLIs, packaging, benchmarks, editor workflows, and documentation that respects the reader's time.
+- [`googlecl`](https://github.com/vinitkumar/googlecl) and
+  [`node-twitter`](https://github.com/vinitkumar/node-twitter) are older,
+  high-signal projects from earlier chapters of my open source work.
+- [`white-paper`](https://github.com/vinitkumar/white-paper) is a Jekyll theme
+  that still carries a surprising amount of goodwill.
+- [`oscura-vim`](https://github.com/vinitkumar/oscura-vim),
+  [`lanciabones.nvim`](https://github.com/vinitkumar/lanciabones.nvim), and the
+  related theme ports are where my editor taste leaks into code.
+- [`json2xml-go`](https://github.com/vinitkumar/json2xml-go) and
+  [`json2xml-zig`](https://github.com/vinitkumar/json2xml-zig) are companion
+  implementations for comparing ergonomics, startup time, and native tooling
+  around the same conversion problem.
 
-## What I Am Focused On Now
+## Professional Shape
 
-- Building system-level product surfaces at Scalefusion, including live terminal workflows and infrastructure that needs to stay calm under real users.
-- Maintaining Django CMS as a Fellow: reviews, modernization work, compatibility, and the slow craft of keeping a mature Python ecosystem healthy.
-- Improving `json2xml` across Python, Rust, Go, and Zig with better performance, memory behavior, packaging, and test coverage.
-- Building terminal-first workflows because most of my useful work still happens close to the shell.
-- Using AI as leverage without giving up judgment, review, or ownership of the code I ship.
+At Scalefusion, I work on system-level product surfaces and infrastructure for
+managed devices, including remote terminal workflows where correctness,
+latency, and operational calm all matter.
 
-## Selected Work
+In the Django CMS ecosystem, I spend time on reviews, modernization,
+compatibility, and the unglamorous work that keeps a mature project useful for
+real teams.
 
-- [Scalefusion Live Terminal](https://help.scalefusion.com/v1/docs/remotely-access-live-terminal-on-macos-devices)
-  - Real-time remote terminal access and command execution across managed devices.
-
-- [Django CMS](https://github.com/django-cms/django-cms)
-  - Core developer and Django CMS Fellow, working on reviews, ecosystem health, modernization, and long-term maintainability.
-
-- Multi-tenant CMS architecture
-  - Led backend work for a CMS platform powering 3,000+ websites and handling millions of monthly requests.
-
-- [oscura-vim](https://github.com/vinitkumar/oscura-vim) and editor work
-  - Themes, Vim/Neovim configuration, picker workflows, and daily tooling that keeps the editor fast and quiet.
+Before that, I worked deeply on multi-tenant CMS architecture, including a
+platform serving thousands of sites and millions of monthly requests. That
+experience still informs how I think about migrations, reliability, and the
+cost of cleverness.
 
 ## How I Work
 
-- I prefer small, well-tested changes over dramatic rewrites.
-- I care about performance, but only after the behavior is clear and measured.
-- I like tools that remove context switching instead of adding another dashboard.
-- I write because it turns scattered experience into something reusable.
+I like small changes with clean edges. I like tests that protect behavior
+instead of flattering coverage tools. I like CLIs because they compose. I like
+documentation that answers the next question before the reader has to open
+source code.
+
+I use AI heavily, but not as a substitute for ownership. The useful loop is
+still: understand the system, make a narrow change, verify it, write down what
+changed, and leave the codebase easier to return to.
 
 ## Writing
+
+I write at [vinitkumar.me](https://vinitkumar.me), usually about open source,
+developer tools, Python, performance work, and the small engineering decisions
+that accumulate into taste.
+
 <!-- blog starts -->
 - [Eight Months of Open Source Work](https://vinitkumar.me/open-source-eight-months-2026/) - 2026-06-10
 - [json2xml 6.2.0: Cutting Serializer Memory Usage in Half](https://vinitkumar.me/json2xml-62-memory-savings/) - 2026-06-05
@@ -65,15 +94,22 @@ These projects are my current open-source lab: Python extension modules, Go TUIs
 - [GitHub PR Attention: A Terminal UI for Taming the PR Inbox](https://vinitkumar.me/github-pr-attention/) - 2026-04-29
 <!-- blog ends -->
 
-[Read more on my blog ->](https://vinitkumar.me)
+[More essays](https://vinitkumar.me)
 
 ## TIL
+
+Short notes from the edges of the workday.
+
 <!-- til starts -->
 - [[TIL] How Not To Install LazyGit on Ubuntu](https://vinitkumar.me/til/snap-lazygit/) - 2025-07-29
 - [[TIL] Git Sparse Checkout for Large Repos](https://vinitkumar.me/til/git-sparse-headers/) - 2024-12-28
 - [[TIL] CSS Container Queries Are Game Changers](https://vinitkumar.me/til/css-container-queries/) - 2024-12-27
 <!-- til ends -->
 
-[Browse all TIL posts ->](https://vinitkumar.me/til/)
+[All TIL posts](https://vinitkumar.me/til/)
 
-If you are working on backend scale, Python/Rust performance, Django, CLIs, Neovim, or developer tooling, I would be happy to compare notes.
+---
+
+If you care about Python libraries, Django, terminal tools, editor workflows,
+typefaces for coding, or the strange joy of making software feel calmer, we
+will probably have a good conversation.

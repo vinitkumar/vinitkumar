@@ -87,11 +87,11 @@ developer tools, Python, performance work, and the small engineering decisions
 that accumulate into taste.
 
 <!-- blog starts -->
+- [Finding the Last Bottlenecks in json2xml with Flamegraphs](https://vinitkumar.me/json2xml-flamegraph-optimization/) - 2026-07-16
 - [What My YouTube Subscriptions Say About Me](https://vinitkumar.me/my-youtube-subscriptions/) - 2026-07-09
 - [fff-plus.nvim: The Better Shape for My fff.nvim Picker Work](https://vinitkumar.me/fff-plus-nvim-extension/) - 2026-07-07
 - [Inconsolata with Coding Ligatures and a Narrow Variant](https://vinitkumar.me/inconsolata-coding-ligatures/) - 2026-07-02
 - [Eight Months of Open Source Work](https://vinitkumar.me/open-source-eight-months-2026/) - 2026-06-10
-- [json2xml 6.2.0: Cutting Serializer Memory Usage in Half](https://vinitkumar.me/json2xml-62-memory-savings/) - 2026-06-05
 <!-- blog ends -->
 
 [More essays](https://vinitkumar.me)

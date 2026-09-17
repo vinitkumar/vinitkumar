@@ -41,10 +41,11 @@ Together these have been starred 1,100+ times and forked 400+ times.
 
 ## At work
 
-- Backend architecture for a multi-tenant CMS serving **3,000+ websites** and
-  millions of monthly requests.
 - Device-management infrastructure and real-time terminal workflows at
   **Scalefusion**.
+- Backend architecture for a multi-tenant CMS serving **3,000+ websites** and
+  millions of monthly requests. (Past at SocialSchools B.V.)
+
 
 ## Elsewhere
 
